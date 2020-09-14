@@ -4,6 +4,17 @@ L'imparfait de l'indicatif exprime un fait ou une action qui a déjà eu lieu au
 
 ## Formations
 
+Pour former l'imparfait, on utilise le radical du verbe à la première personne du pluriel au présent de l'indicatif. On ajoute à ce radical les terminaisons de l'imparfait.
+
+Personne |Les terminaisons|1er groupe|2e groupe|3e groupe
+-|-|-|-|-
+je | -**ais**|aimais|finissais|mettais
+tu|-**ais**|aimais|finissais|mettais
+il / elle / on|-**ait**|aimait|finissait|mettait
+nous|-**ions**|aimions|finissions|mettions
+vous|-**iez**|aimiez|finissiez|mettiez
+ils / elles|-**aient**|aimaient|finissaient|mettaient
+
 ## Examples
 
 ```text
