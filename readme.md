@@ -15,6 +15,6 @@
   * [en](fr/pronoms/en.md)
   * [y](fr/pronoms/y.md)
 * Причастия
-  * [Participe passé](fr/temps/participe%20passé.md)
-  * [Participe passé composé](fr/temps/participe%20passé%20composé.md)
-  * [Participe présent](fr/temps/participe%20présent.md)
+  * [Participe passé](fr/participes/participe%20passé.md)
+  * [Participe passé composé](fr/participes/participe%20passé%20composé.md)
+  * [Participe présent](fr/participes/participe%20présent.md)
