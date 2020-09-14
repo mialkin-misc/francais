@@ -22,7 +22,7 @@ La porte a été verrouillée.
 
 ## Voix pronominale
 
-A la voix pronominale, le sujet est actif et subit l'action.
+A la voix pronominale, le sujet est actif et subit l'action :
 
 ```text
 Il se lave.
