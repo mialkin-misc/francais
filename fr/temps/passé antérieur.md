@@ -2,9 +2,9 @@
 
 ## Formation
 
-L'auxiliaire `être` ou `avoir` au passé simple + le participe passé du verbe.
+L'auxiliaire `être` ou `avoir` au passé simple + le [participe passé](./../participes/participe%20passé.md) du verbe.
 
-Example:
+## Examples
 
 ```text
 J'eus été
