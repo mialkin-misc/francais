@@ -1,6 +1,6 @@
 # Imparfait
 
-L'imparfait de l'indicatif exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage.
+L'**imparfait** de l'indicatif exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage.
 
 ## Formations
 
@@ -8,12 +8,12 @@ Pour former l'imparfait, on utilise le radical du verbe à la première personne
 
 Personne |Les terminaisons|1er groupe|2e groupe|3e groupe
 -|-|-|-|-
-je | -**ais**|aimais|finissais|mettais
-tu|-**ais**|aimais|finissais|mettais
-il / elle / on|-**ait**|aimait|finissait|mettait
-nous|-**ions**|aimions|finissions|mettions
-vous|-**iez**|aimiez|finissiez|mettiez
-ils / elles|-**aient**|aimaient|finissaient|mettaient
+je | -**ais**|aim**ais**|finiss**ais**|mett**ais**
+tu|-**ais**|aim**ais**|finiss**ais**|mett**ais**
+il / elle / on|-**ait**|aim**ait**|finiss**ait**|mett**ait**
+nous|-**ions**|aim**ions**|finiss**ions**|mett**ions**
+vous|-**iez**|aim**iez**|finiss**iez**|mett**iez**
+ils / elles|-**aient**|aim**aient**|finiss**aient**|mett**aient**
 
 ## Examples
 
@@ -34,3 +34,12 @@ Tous les jours, elle nettoyait les meubles.
 ## Formes de certains verbes
 
 ### Troisième groupe
+
+Les auxiliaires | avoir | être
+-|-|-
+je / j' | avais | étais
+tu | avais | étais
+il / elle / on | avait | était
+nous | avions | étions
+vous | aviez | étiez
+ils / elles | avaient | étaient
