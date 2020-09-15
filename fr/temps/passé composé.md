@@ -1,6 +1,6 @@
 # Passé composé
 
-Le **passé composé**, comme son nom l'indique, est un temps du passé. Il exprime donc une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons.
+Le **passé composé** exprime donc une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons.
 
 ## Formation
 
