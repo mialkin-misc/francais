@@ -8,7 +8,7 @@ Pour former l'imparfait, on utilise le radical du verbe à la première personne
 
 Personne |Les terminaisons|1er groupe|2e groupe|3e groupe
 -|-|-|-|-
-je | -**ais**|aim**ais**|finiss**ais**|mett**ais**
+je / j' | -**ais**|aim**ais**|finiss**ais**|mett**ais**
 tu|-**ais**|aim**ais**|finiss**ais**|mett**ais**
 il / elle / on|-**ait**|aim**ait**|finiss**ait**|mett**ait**
 nous|-**ions**|aim**ions**|finiss**ions**|mett**ions**
