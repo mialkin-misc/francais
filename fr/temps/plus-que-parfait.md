@@ -4,7 +4,7 @@ Le plus-que-parfait marque une action passée ayant eu lieu avant une autre éga
 
 ## Formations
 
-[Imparfait](imparfait.md) de `avoir` ou de `être` + [participe passé](./../participes/participe%20passé.md).
+[Imparfait](imparfait.md) de `avoir` ou de `être` + [participe passé](../participes/participe%20passé.md).
 
 ## Examples
 
