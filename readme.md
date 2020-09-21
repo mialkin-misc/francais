@@ -16,7 +16,7 @@
   * [Passé composé](fr/temps/passé%20composé.md)
   * [Passé simple](fr/temps/passé%20simple.md)
   * [Plus-que-parfait](fr/temps/plus-que-parfait.md)
-  * [Présent](fr/temps/presént.md)
+  * [Présent](fr/temps/présent%20de%20l'indicatif.md)
 * Verbes
   * [Voix](fr/verbes/voix.md)
   * [Radical](fr/verbes/radical.md)
