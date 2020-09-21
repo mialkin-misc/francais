@@ -137,7 +137,7 @@ Les verbes du 3e groupe ont 3 modèles de terminaisons.
     </tr>
 </table>
 
-Il y a des exceptions pour certains verbes: **aller**, **dire**, **faire** ...
+Il y a des exceptions pour certains verbes:
 
 Les auxiliaries | avoir | être | faire
 -| - | - | -
