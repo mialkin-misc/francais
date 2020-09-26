@@ -60,7 +60,7 @@ Les terminaisons varient selon le groupe auquel appartient le verbe.
         <td><b>-issiez</b></td>
         <td>finissiez</td>
         <td><b>-iez</b></td>
-        <td>paritez</td>
+        <td>partiez</td>
     </tr>
     <tr>
         <td>ils / elles</td>
