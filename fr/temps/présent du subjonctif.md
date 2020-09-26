@@ -86,7 +86,7 @@ Il faut qu'ils partent rapidement. / Je crains qu'il faille abandonner.
 ## Exceptions
 
 Personne| être | avoir
-- | - | -
+-|-|-
 je / j' | sois | aie
 tu | sois | aies
 il / elle /on | soit | ait
