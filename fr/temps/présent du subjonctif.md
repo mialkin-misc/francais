@@ -78,7 +78,18 @@ Les terminaisons varient selon le groupe auquel appartient le verbe.
 ```text
 Il faut que nous trouvions un refuge.
 
-Je ne pense pas qu'il puisse arriver à l'heure. 
+Je ne pense pas qu'il puisse arriver à l'heure.
 
 Il faut qu'ils partent rapidement. / Je crains qu'il faille abandonner.
 ```
+
+## Exceptions
+
+Personne| être | avoir
+- | - | -
+je / j' | sois | aie
+tu | sois | aies
+il / elle /on | soit | ait
+nous | soyons | ayons
+vous | soyez | ayez
+ils / elles | soient | aient
