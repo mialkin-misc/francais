@@ -119,3 +119,7 @@ Une opinion négative | Je ne pense pas que le français soit difficile.
 Un doute | Je doute qu'il ait réussi son examen.
 Une possibilité | Il se peut qu'il pleuve.
 Une nécessité | Il est nécessaire que tu prennes de l'argent.
+
+## See also
+
+[Quand utiliser le subjonctif présent ?](https://parlez-vous-french.com/quand-utiliser-le-subjonctif/)
