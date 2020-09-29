@@ -6,7 +6,17 @@ Le subjonctif présent exprime une action incertaine, non réalisée au moment o
 Je souhaite qu'il vienne en discuter.
 ```
 
-## Les terminaisons des verbes
+## Formation
+
+`que` + `sujet` + `verbe au subjonctif`
+
+Example :
+
+```text
+Je souhaite que tu sois présent.
+```
+
+## Terminaisons des verbes
 
 Les terminaisons varient selon le groupe auquel appartient le verbe.
 
@@ -93,3 +103,19 @@ il / elle /on | soit | ait
 nous | soyons | ayons
 vous | soyez | ayez
 ils / elles | soient | aient
+
+## Verbes introducteurs du subjonctif
+
+On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjonctif après un verbe qui exprime :
+
+Exprime | Example
+-|-
+Un souhait | J'aimerais que vous compreniez l'utilisation du subjonctif.
+Une volonté | Je veux que mes parents soient fiers de moi.
+Une obligation | Il faut que tu viennes.
+Un ordre | J'exige que vous parliez français.
+Une émotion | Je suis heureuse qu'il fasse beau.
+Une opinion négative | Je ne pense pas que le français soit difficile.
+Un doute | Je doute qu'il ait réussi son examen.
+Une possibilité | Il se peut qu'il pleuve.
+Une nécessité | Il est nécessaire que tu prennes de l'argent.
