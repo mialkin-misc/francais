@@ -21,7 +21,7 @@ ils / elles | **-ront** | aimeront | finiront | mettront
 
 ## Remarques
 
-Les verbes en **eler** ou **eter** doublent leur consonne ou prennent un accent :
+Les verbes en **-eler** ou **-eter** doublent leur consonne ou prennent un accent :
 
 ```text
 appeler → j'appellerai.
@@ -29,7 +29,7 @@ appeler → j'appellerai.
 acheter → j'achèterai
 ```
 
-Les verbes en **yer** changent le **y** en **i** :
+Les verbes en **-yer** changent le **y** en **i** :
 
 ```text
 verbe essuyer → j'essuierai
