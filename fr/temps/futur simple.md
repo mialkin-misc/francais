@@ -11,7 +11,7 @@ La semaine prochaine nous partirons en vacances.
 Les terminaisons du futur simple de l'indicatif sont les mêmes pour tous les verbes.
 
 &nbsp; | Les terminaisons | 1er groupe | 2ème groupe | 3ème groupe
-- | - | - | - | -
+-|-|-|-|-
 je / j' | **-rai** | aimerai | finirai | mettrai
 tu | **-ras** | aimeras | finiras | mettras
 il / elle / on | **-ra** | aimera | finira | mettra
