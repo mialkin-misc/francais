@@ -14,7 +14,7 @@ Dans deux ans, ils auront fini les travaux.
 
 ## Formation
 
-On conjugue l'auxiliaire **être** ou **avoir** au [futur simple](futur%20simple.md) auquel on ajoute [le participe passé](../participes/participe%20passé.md) du verbe à conjuguer :
+On conjugue l'auxiliaire **être** ou **avoir** au [futur simple](futur%20simple.md) auquel on ajoute [le participe passé](../participes/participe%20passé.md) du verbe à conjuguer
 
 ```text
 Nous serons partis avant six heures du matin.
