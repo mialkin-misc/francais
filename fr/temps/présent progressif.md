@@ -1,6 +1,6 @@
 # Présent progressif
 
-Pour exprimer une action au présent dans sa durée et sa continuité, on utilise le présent progressif :
+Le présent progressif exprime une action au présent dans sa durée et sa continuité :
 
 ```text
 Qu'est-ce que tu fais ? Je suis en train de travailler.
