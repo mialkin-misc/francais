@@ -1,4 +1,4 @@
-# Passé du subjonctif
+# Subjonctif passé
 
 Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons :
 
@@ -8,7 +8,7 @@ Je ne crois pas qu'elle ait acheté ce véhicule.
 
 ## Formation
 
-L'auxiliaire **être** ou **avoir** au [subjonctif présent](présent%20du%20subjonctif.md) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer :
+L'auxiliaire **être** ou **avoir** au [subjonctif présent](subjonctif%20présent.md) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer :
 
 ```text
 Il faut qu'ils soient partis avant midi.

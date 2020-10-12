@@ -1,4 +1,4 @@
-# Plus-que-parfait du subjonctif
+# Subjonctif plus-que-parfait
 
 Le subjonctif plus-que-parfait exprime une action incertaine, supposée réalisée au moment où le locuteur s'exprimait. Le subjonctif plus-que-parfait est surtout employé en littérature :
 

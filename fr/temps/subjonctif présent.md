@@ -1,4 +1,4 @@
-# Présent du subjonctif
+# Subjonctif présent
 
 Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons :
 

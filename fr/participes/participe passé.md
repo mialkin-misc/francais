@@ -8,7 +8,7 @@ Les bateaux sont rentrés au port.
 Nous étions partis ce matin.
 ```
 
-Il est utilisé dans la construction du [passé composé](../temps/passé%20composé.md), [plus-que-parfait](../temps/plus-que-parfait.md), [passé antérieur](../temps/passé%20antérieur.md), [futur antérieur de l'indicatif](../temps/futur%20antérieur.md) mais aussi dans les temps [conditionnel passé](../temps/conditionnel%20passé.md), [passé du subjonctif](../temps/passé%20du%20subjonctif.md) et [plus-que-parfait du subjonctif](../temps/plus-que-parfait%20du%20subjonctif.md).
+Il est utilisé dans la construction du [passé composé](../temps/passé%20composé.md), [plus-que-parfait](../temps/plus-que-parfait.md), [passé antérieur](../temps/passé%20antérieur.md), [futur antérieur de l'indicatif](../temps/futur%20antérieur.md) mais aussi dans les temps [conditionnel passé](../temps/conditionnel%20passé.md), [subjonctif passé](../temps/subjonctif%20passé.md) et [subjonctif plus-que-parfait](../temps/subjonctif%20plus-que-parfait.md).
 
 ## Formation
 
