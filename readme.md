@@ -1,16 +1,16 @@
 # Французский язык
 
-* Compléments
+* Дополнения
   * [COD](fr/complements/cod.md)
   * [COI](fr/complements/coi.md)
-* Participes
+* Причастия
   * [Participe passé](fr/participes/participe%20passé.md)
   * [Participe passé composé](fr/participes/participe%20passé%20composé.md)
   * [Participe présent](fr/participes/participe%20présent.md)
-* Pronoms
+* Местоимения
   * [en](fr/pronoms/en.md)
   * [y](fr/pronoms/y.md)
-* Temps
+* Времена
   * [Conditionnel passé](fr/temps/conditionnel%20passé.md)
   * [Conditionnel présent](fr/temps/conditionnel%20présent.md)
   * [Futur antérieur](fr/temps/futur%20antérieur.md)
@@ -28,6 +28,6 @@
   * [Subjonctif passé](fr/temps/subjonctif%20passé.md)
   * [Subjonctif plus-que-parfait](fr/temps/subjonctif%20plus-que-parfait.md)
   * [Subjonctif présent](fr/temps/subjonctif%20présent.md)
-* Verbes
+* Глаголы
   * [Voix](fr/verbes/voix.md)
   * [Radical](fr/verbes/radical.md)
