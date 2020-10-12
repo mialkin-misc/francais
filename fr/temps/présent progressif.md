@@ -3,9 +3,9 @@
 Le présent progressif exprime une action au présent dans sa durée et sa continuité :
 
 ```text
-Qu'est-ce que tu fais ? Je suis en train de travailler.
+Je suis en train de travailler.
 
-Vous avez fini d'écrire la lettre ? Nous sommes en train de finir.
+Nous sommes en train de finir.
 ```
 
 ## Formation
