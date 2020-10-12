@@ -11,6 +11,7 @@
   * [en](fr/pronoms/en.md)
   * [y](fr/pronoms/y.md)
 * Temps
+  * [Conditionnel passé](fr/temps/conditionnel%20passé.md)
   * [Conditionnel présent](fr/temps/conditionnel%20présent.md)
   * [Futur antérieur](fr/temps/futur%20antérieur.md)
   * [Futur proche](fr/temps/futur%20proche.md)
@@ -23,6 +24,7 @@
   * [Plus-que-parfait](fr/temps/plus-que-parfait.md)
   * [Présent](fr/temps/présent.md)
   * [Présent progressif](fr/temps/présent%20progressif.md)
+  * [Subjonctif imparfait](fr/temps/subjonctif%20imparfait.md)
   * [Subjonctif passé](fr/temps/subjonctif%20passé.md)
   * [Subjonctif plus-que-parfait](fr/temps/subjonctif%20plus-que-parfait.md)
   * [Subjonctif présent](fr/temps/subjonctif%20présent.md)
