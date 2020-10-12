@@ -137,7 +137,7 @@ Les verbes du 3e groupe ont 3 modèles de terminaisons.
     </tr>
 </table>
 
-## Exceptions
+## Les auxiliaries avoir, être, faire
 
 Les auxiliaries | avoir | être | faire
 -| - | - | -
