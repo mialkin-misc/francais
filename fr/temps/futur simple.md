@@ -6,7 +6,7 @@ Le futur simple exprime un fait ou une action qui se déroulera plus tard, elle 
 La semaine prochaine nous partirons en vacances.
 ```
 
-## Formation
+## Terminaisons
 
 Les terminaisons du futur simple sont les mêmes pour tous les verbes.
 
