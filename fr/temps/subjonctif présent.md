@@ -22,7 +22,7 @@ Les terminaisons varient selon le groupe auquel appartient le verbe.
 
 <table>
     <tr>
-        <td>Présent de l'indicatif</td>
+        <td>Présent</td>
         <td colspan="2">1er groupe + aller</td>
         <td colspan="2">2e groupe</td>
         <td colspan="2">3e groupe</td>

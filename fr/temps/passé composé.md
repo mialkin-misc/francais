@@ -4,7 +4,7 @@ Le **passé composé** exprime une action ou un fait qui a déjà eu lieu au mom
 
 ## Formation
 
-L'auxiliaire `être` ou `avoir` au [présent de l'indicatif](../temps/présent.md) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
+L'auxiliaire `être` ou `avoir` au [présent](../temps/présent.md) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
 
 ## Examples
 

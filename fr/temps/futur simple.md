@@ -8,7 +8,7 @@ La semaine prochaine nous partirons en vacances.
 
 ## Formation
 
-Les terminaisons du futur simple de l'indicatif sont les mêmes pour tous les verbes.
+Les terminaisons du futur simple sont les mêmes pour tous les verbes.
 
 &nbsp; | Les terminaisons | 1er groupe | 2ème groupe | 3ème groupe
 -|-|-|-|-

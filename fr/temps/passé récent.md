@@ -12,7 +12,7 @@ Le train vient de partir.
 
 ## Formation
 
-Le verbe `venir` au [présent](présent%20de%20l'indicatif.md) + " de/d' " + verbe à l'infinitif.
+Le verbe `venir` au [présent](présent.md) + " de/d' " + verbe à l'infinitif.
 
 ## Note
 

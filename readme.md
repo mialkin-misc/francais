@@ -13,7 +13,7 @@
 * Temps
   * [Conditionnel présent](fr/temps/conditionnel%20présent.md)
   * [Futur antérieur](fr/temps/futur%20antérieur.md)
-  * [Futur proche de l'indicatif](fr/temps/futur%20proche.md)
+  * [Futur proche](fr/temps/futur%20proche.md)
   * [Futur simple](fr/temps/futur%20simple.md)
   * [Imparfait](fr/temps/imparfait.md)
   * [Passé antérieur](fr/temps/passé%20antérieur.md)
@@ -21,7 +21,7 @@
   * [Passé récent](fr/temps/passé%20récent.md)
   * [Passé simple](fr/temps/passé%20simple.md)
   * [Plus-que-parfait](fr/temps/plus-que-parfait.md)
-  * [Présent de l'indicatif](fr/temps/présent%20de%20l'indicatif.md)
+  * [Présent](fr/temps/présent.md)
   * [Présent progressif](fr/temps/présent%20progressif.md)
   * [Subjonctif passé](fr/temps/subjonctif%20passé.md)
   * [Subjonctif plus-que-parfait](fr/temps/subjonctif%20plus-que-parfait.md)

@@ -1,10 +1,10 @@
 # Imparfait
 
-L'**imparfait** de l'indicatif exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage.
+L'**imparfait** exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage.
 
 ## Formations
 
-Pour former l'imparfait, on utilise le radical du verbe à la première personne du pluriel au présent de l'indicatif. On ajoute à ce radical les terminaisons de l'imparfait.
+Pour former l'imparfait, on utilise le radical du verbe à la première personne du pluriel au [présent](présent.md). On ajoute à ce radical les terminaisons de l'imparfait.
 
 Personne |Les terminaisons|1er groupe|2e groupe|3e groupe
 -|-|-|-|-

@@ -10,4 +10,4 @@ Nous sommes en train de finir.
 
 ## Formation
 
-L'auxiliaire `être` au [présent](présent%20de%20l'indicatif.md) + " en train de/d " + verbe à l'infinitif.
+L'auxiliaire `être` au [présent](présent.md) + " en train de/d " + verbe à l'infinitif.
