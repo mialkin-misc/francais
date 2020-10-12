@@ -21,6 +21,7 @@
   * [Passé récent](fr/temps/passé%20récent.md)
   * [Passé simple](fr/temps/passé%20simple.md)
   * [Plus-que-parfait](fr/temps/plus-que-parfait.md)
+  * [Plus-que-parfait du subjonctif](fr/temps/Plus-que-parfait%20du%20subjonctif.md)
   * [Présent de l'indicatif](fr/temps/présent%20de%20l'indicatif.md)
   * [Présent du subjonctif](fr/temps/présent%20du%20subjonctif.md)
   * [Présent progressif](fr/temps/présent%20progressif.md)
