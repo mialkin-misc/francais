@@ -6,6 +6,8 @@ Le conditionnel présent peut servir à atténuer une demande :
 Je veux vous rencontrer. → Je voudrais vous rencontrer.
 ```
 
+## Formation
+
 On utilise le radical du verbe conjugué au [futur simple](futur%20simple.md) que l'on complète par les terminaisons de [l'imparfait](imparfait.md) :
 
 ```text
