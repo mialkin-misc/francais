@@ -10,7 +10,7 @@ Il aurait voulu devenir avocat.
 
 ## Formation
 
-C'est un temps composé : on utilise l'auxiliaire **être** ou **avoir** au [conditionnel présent](conditionnel%20présent.md) et on rajoute [le participe passé](../participes/participe%20passé.md) du verbe à conjuguer :
+L'auxiliaire **être** ou **avoir** au [conditionnel présent](conditionnel%20présent.md) + [le participe passé](../participes/participe%20passé.md) du verbe à conjuguer :
 
 ```text
 Si j'avais de l'argent, je serais partie en voyage.
