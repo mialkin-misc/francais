@@ -5,7 +5,8 @@
   * [Participe passé composé](fr/participes/participe%20passé%20composé.md)
   * [Participe présent](fr/participes/participe%20présent.md)
 * Деепричастия
-  * [Gérondif présent](fr/temps/gérondif%20présent.md)
+  * [Gérondif présent](fr/gérondif/gérondif%20présent.md)
+  * [Gérondif passé](fr/gérondif/gérondif%20passé.md)
 * Времена
   * [Conditionnel passé](fr/temps/conditionnel%20passé.md)
   * [Conditionnel présent](fr/temps/conditionnel%20présent.md)
