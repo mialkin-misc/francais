@@ -6,14 +6,14 @@ L'**imparfait** exprime un fait ou une action qui a déjà eu lieu au moment où
 
 Pour former l'imparfait, on utilise le radical du verbe à la première personne du pluriel au [présent](présent.md). On ajoute à ce radical les terminaisons de l'imparfait.
 
-Personne |Les terminaisons|1er groupe|2e groupe|3e groupe
--|-|-|-|-
-je / j' | -**ais**|aim**ais**|finiss**ais**|mett**ais**
-tu|-**ais**|aim**ais**|finiss**ais**|mett**ais**
-il / elle / on|-**ait**|aim**ait**|finiss**ait**|mett**ait**
-nous|-**ions**|aim**ions**|finiss**ions**|mett**ions**
-vous|-**iez**|aim**iez**|finiss**iez**|mett**iez**
-ils / elles|-**aient**|aim**aient**|finiss**aient**|mett**aient**
+Personne       | Les terminaisons | 1er groupe   | 2e groupe       | 3e groupe
+---------------|------------------|--------------|-----------------|-----------
+je / j'        | -**ais**         | aim**ais**   | finiss**ais**   | mett**ais**
+tu             | -**ais**         | aim**ais**   | finiss**ais**   | mett**ais**
+il / elle / on | -**ait**         | aim**ait**   | finiss**ait**   | mett**ait**
+nous           | -**ions**        | aim**ions**  | finiss**ions**  | mett**ions**
+vous           | -**iez**         | aim**iez**   | finiss**iez**   | mett**iez**
+ils / elles    | -**aient**       | aim**aient** | finiss**aient** | mett**aient**
 
 ## Examples
 
