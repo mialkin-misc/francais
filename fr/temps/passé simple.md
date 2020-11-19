@@ -60,6 +60,71 @@ Les terminaisons varient selon le groupe auquel appartient le verbe.
     </tr>
 </table>
 
+Les verbes du 3e groupe ont 3 modèles de terminaisons.
+
+<table>
+    <tr>
+        <td>Passé simple de l'indicatif</td>
+        <td colspan="2">modèle 1</td>
+        <td colspan="2">modèle 2</td>
+        <td colspan="2">modèle 3</td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td><b>-is</b></td>
+        <td>pris</td>
+        <td><b>-us</b</td>
+        <td>crus</td>
+        <td><b>-ins</b</td>
+        <td>vins</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td><b>-is</b></td>
+        <td>pris</td>
+        <td><b>-us</b></td>
+        <td>crus</td>
+        <td><b>-ins</b></td>
+        <td>vins</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td><b>-it</b></td>
+        <td>prit</td>
+        <td><b>-ut</b></td>
+        <td>crut</td>
+        <td><b>-int</b></td>
+        <td>vint</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td><b>-îmes</b></td>
+        <td>prîmes</td>
+        <td><b>-ûmes</b></td>
+        <td>crûmes</td>
+        <td><b>-înmes</b></td>
+        <td>vînmes</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td><b>-îtes</b></td>
+        <td>prîtes</td>
+        <td><b>-ûtes</b></td>
+        <td>crûtes</td>
+        <td><b>-întes</b></td>
+        <td>vîntes</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td><b>-irent</b></td>
+        <td>prirent</td>
+        <td><b>-urent</b></td>
+        <td>crurent</td>
+        <td><b>-inrent</b></td>
+        <td>vinrent</td>
+    </tr>
+</table>
+
 ## Verbes avoir et être
 
 Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de former [le passé antérieur](passé%20antérieur.md) de tous les autres verbes.
@@ -72,3 +137,7 @@ il / elle / on | eut | fut
 nous | eûmes | fûmes
 vous | eûtes | fûtes
 ils / elles | eurent | furent
+
+## Liens
+
+[↑ Passé simple de l'indicatif](https://la-conjugaison.nouvelobs.com/regles/conjugaison/passe-simple-de-l-indicatif-8.php)
