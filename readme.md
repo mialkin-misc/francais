@@ -36,3 +36,7 @@
 * Дополнения
   * [COD](complements/cod.md)
   * [COI](complements/coi.md)
+
+## Разное
+
+* [Административное деление Франции](misc/organisation%20territoriale.md)
