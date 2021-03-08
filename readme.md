@@ -40,3 +40,4 @@
 ## Разное
 
 * [Административное деление Франции](misc/organisation%20territoriale.md)
+* [Образование во Франции](misc/système%20éducatif.md)
