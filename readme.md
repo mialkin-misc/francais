@@ -19,7 +19,6 @@
   * [Passé récent](temps/passé%20récent.md)
   * [Passé simple](temps/passé%20simple.md)
   * [Plus-que-parfait](temps/plus-que-parfait.md)
-  * [Présent](temps/présent.md)
   * [Présent progressif](temps/présent%20progressif.md)
   * [Subjonctif imparfait](temps/subjonctif%20imparfait.md)
   * [Subjonctif passé](temps/subjonctif%20passé.md)
