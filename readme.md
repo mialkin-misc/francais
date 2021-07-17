@@ -9,9 +9,7 @@
 * Деепричастия
   * [Gérondif présent](gérondif/gérondif%20présent.md)
   * [Gérondif passé](gérondif/gérondif%20passé.md)
-* Времена
-  * [Conditionnel passé](temps/conditionnel%20passé.md)
-  * [Conditionnel présent](temps/conditionnel%20présent.md)
+* [Les temps](temps.md)
   * [Futur antérieur](temps/futur%20antérieur.md)
   * [Futur proche](temps/futur%20proche.md)
   * [Futur simple](temps/futur%20simple.md)
