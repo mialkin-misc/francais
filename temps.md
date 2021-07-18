@@ -3,10 +3,12 @@
 - [Les temps](#les-temps)
   - [Présent de l'indicatif](#présent-de-lindicatif)
     - [Formation](#formation)
-  - [Conditionnel présent](#conditionnel-présent)
+  - [Présent progressif](#présent-progressif)
     - [Formation](#formation-1)
-  - [Conditionnel passé](#conditionnel-passé)
+  - [Conditionnel présent](#conditionnel-présent)
     - [Formation](#formation-2)
+  - [Conditionnel passé](#conditionnel-passé)
+    - [Formation](#formation-3)
 
 ## Présent de l'indicatif
 
@@ -36,44 +38,44 @@ Les terminaisons varient selon le groupe auquel appartient le verbe:
     </tr>
     <tr>
         <td>je / j'</td>
-        <td><b>-e</b></td>
+        <td>-e</td>
         <td>aime</td>
-        <td><b>-is</b</td>
+        <td>-is</b</td>
         <td>finis</td>
     </tr>
     <tr>
         <td>tu</td>
-        <td><b>-es</b></td>
+        <td>-es</td>
         <td>aimes</td>
-        <td><b>-is</b></td>
+        <td>-is</td>
         <td>finis</td>
     </tr>
     <tr>
         <td>il / elle / on</td>
-        <td><b>-e</b></td>
+        <td>-e</td>
         <td>aime</td>
-        <td><b>-it</b></td>
+        <td>-it</td>
         <td>finit</td>
     </tr>
     <tr>
         <td>nous</td>
-        <td><b>-ons</b></td>
+        <td>-ons</td>
         <td>aimons</td>
-        <td><b>-issons</b></td>
+        <td>-issons</td>
         <td>finissons</td>
     </tr>
     <tr>
         <td>vous</td>
-        <td><b>-ez</b></td>
+        <td>-ez</td>
         <td>aimez</td>
-        <td><b>-issez</b></td>
+        <td>-issez</td>
         <td>finissez</td>
     </tr>
     <tr>
         <td>ils / elles</td>
-        <td><b>-ent</b></td>
+        <td>-ent</td>
         <td>aiment</td>
-        <td><b>-issent</b></td>
+        <td>-issent</td>
         <td>finissent</td>
     </tr>
 </table>
@@ -89,56 +91,56 @@ Les verbes du 3e groupe ont 3 modèles de terminaisons:
     </tr>
     <tr>
         <td>je / j'</td>
-        <td><b>-s</b></td>
+        <td>-s</td>
         <td>mets</td>
-        <td><b>-ds</b</td>
+        <td>-ds</b</td>
         <td>prends</td>
-        <td><b>-x</b</td>
+        <td>-x</b</td>
         <td>peux</td>
     </tr>
     <tr>
         <td>tu</td>
-        <td><b>-s</b></td>
+        <td>-s</td>
         <td>mets</td>
-        <td><b>-ds</b></td>
+        <td>-ds</td>
         <td>prends</td>
-        <td><b>-x</b></td>
+        <td>-x</td>
         <td>peux</td>
     </tr>
     <tr>
         <td>il / elle / on</td>
-        <td><b>-t</b></td>
+        <td>-t</td>
         <td>met</td>
-        <td><b>-d</b></td>
+        <td>-d</td>
         <td>prend</td>
-        <td><b>-t</b></td>
+        <td>-t</td>
         <td>peut</td>
     </tr>
     <tr>
         <td>nous</td>
-        <td><b>-ons</b></td>
+        <td>-ons</td>
         <td>mettons</td>
-        <td><b>-ons</b></td>
+        <td>-ons</td>
         <td>prenons</td>
-        <td><b>-ons</b></td>
+        <td>-ons</td>
         <td>pouvons</td>
     </tr>
     <tr>
         <td>vous</td>
-        <td><b>-ez</b></td>
+        <td>-ez</td>
         <td>mettez</td>
-        <td><b>-ez</b></td>
+        <td>-ez</td>
         <td>prenez</td>
-        <td><b>-ez</b></td>
+        <td>-ez</td>
         <td>pouvez</td>
     </tr>
     <tr>
         <td>ils / elles</td>
-        <td><b>-ent</b></td>
+        <td>-ent</td>
         <td>mettent</td>
-        <td><b>-ent</b></td>
+        <td>-ent</td>
         <td>prennent</td>
-        <td><b>-ent</b></td>
+        <td>-ent</td>
         <td>peuvent</td>
     </tr>
 </table>
@@ -153,6 +155,19 @@ Les auxiliaries _avoir_, _être_, _faire_:
 | nous           | avons | sommes | faisons |
 | vous           | avez  | êtes   | faites  |
 | ils / elles    | ont   | sont   | font    |
+
+## Présent progressif
+
+Le présent progressif exprime une action au présent dans sa durée et sa continuité :
+
+```text
+Je suis en train de travailler.
+Nous sommes en train de finir.
+```
+
+### Formation
+
+L'auxiliaire _être_ au _présent_ + " *en train de/d* " + verbe à l'infinitif.
 
 ## Conditionnel présent
 
