@@ -30,9 +30,7 @@
 * Глаголы
   * [Voix](verbes/voix.md)
   * [Radical](verbes/radical.md)
-* Дополнения
-  * [COD](complements/cod.md)
-  * [COI](complements/coi.md)
+* [Complements](language/complements.md)
 
 ## Разное
 
