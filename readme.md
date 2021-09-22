@@ -7,8 +7,8 @@
 ## Langue
 
 - [Complements](language/complements.md)
+- [Pronoms](language/pronoms.md)
 - [Temps](language/temps.md)
-
 - Причастия
   - [Participe passé](participes/participe%20passé.md)
   - [Participe passé composé](participes/participe%20passé%20composé.md)
@@ -31,9 +31,6 @@
   - [Subjonctif passé](temps/subjonctif%20passé.md)
   - [Subjonctif plus-que-parfait](temps/subjonctif%20plus-que-parfait.md)
   - [Subjonctif présent](temps/subjonctif%20présent.md)
-- Местоимения
-  - [en](pronoms/en.md)
-  - [y](pronoms/y.md)
 - Глаголы
   - [Voix](verbes/voix.md)
   - [Radical](verbes/radical.md)
