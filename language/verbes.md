@@ -1,6 +1,72 @@
-# Choisir un verbe auxiliaire : avoir ou être ?
+# Verbes
 
-## avoir
+## TOC
+
+- [Verbes](#verbes)
+  - [TOC](#toc)
+  - [Radical](#radical)
+  - [Voix](#voix)
+    - [Voix active](#voix-active)
+    - [Voix passive](#voix-passive)
+    - [Voix pronominale](#voix-pronominale)
+  - [Choisir un verbe auxiliaire : avoir ou être ?](#choisir-un-verbe-auxiliaire--avoir-ou-être-)
+    - [avoir](#avoir)
+    - [être](#être)
+
+## Radical
+
+Chaque verbe possède un **radical** ou une **racine**.
+
+Le radical est la partie minimale d'un verbe auquel on ajoute une terminaison pour former les formes conjuguées.
+
+Pour trouver la racine de la plupart des verbes, il faut supprimer la terminaison de l'infinitif : **-er**, **-ir**, **-oir** ou **-re**:
+
+```text
+- Verbe du 1er groupe : trouver - > racine : trouv-.
+- Verbe du 2e groupe : bondir - > racine : bond-.
+- Verbe du 3e groupe : courir - > racine : cour-.
+```
+
+Certains verbes possèdent plusieurs racines, comme le verbe `aller`, les auxilaires `être` et `avoir`.
+
+```text
+- Aller : dans allons (présent), le radical est all- ; dans iront (futur), le radical est ir-.
+- Être : dans étais (imparfait), le radical est ét- ; dans serai (futur), le radical est ser-.
+```
+
+## Voix
+
+Un verbe peut être employé à la `voix active`, `passive` ou `pronominale`.
+
+### Voix active
+
+A la voix active, le sujet est actif :
+
+```text
+Le lion dévore la gazelle.
+```
+
+### Voix passive
+
+A la voix passive, le sujet subit l'action :
+
+```text
+La gazelle est dévorée par le lion.
+
+La porte a été verrouillée.
+```
+
+### Voix pronominale
+
+A la voix pronominale, le sujet est actif et subit l'action :
+
+```text
+Il se lave.
+```
+
+## Choisir un verbe auxiliaire : avoir ou être ?
+
+### avoir
 
 La plupart des verbes sont conjugués à l'`avoir`.
 
@@ -12,7 +78,7 @@ L’année passée j’ai été en France.
 J’ai eu la grippe.
 ```
 
-## être
+### être
 
 Avec `être` se conjuguent :
 

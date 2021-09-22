@@ -10,6 +10,7 @@
 - [Participes](language/participes.md)
 - [Pronoms](language/pronoms.md)
 - [Temps](language/temps.md)
+- [Verbes](language/verbes.md)
 - Деепричастия
   - [Gérondif présent](gérondif/gérondif%20présent.md)
   - [Gérondif passé](gérondif/gérondif%20passé.md)
@@ -28,9 +29,6 @@
   - [Subjonctif passé](temps/subjonctif%20passé.md)
   - [Subjonctif plus-que-parfait](temps/subjonctif%20plus-que-parfait.md)
   - [Subjonctif présent](temps/subjonctif%20présent.md)
-- Глаголы
-  - [Voix](verbes/voix.md)
-  - [Radical](verbes/radical.md)
 
 ## Divers
 
