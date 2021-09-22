@@ -7,13 +7,11 @@
 ## Langue
 
 - [Complements](language/complements.md)
+- [Gérondifs](language/gerondifs.md)
 - [Participes](language/participes.md)
 - [Pronoms](language/pronoms.md)
 - [Temps](language/temps.md)
 - [Verbes](language/verbes.md)
-- Деепричастия
-  - [Gérondif présent](gérondif/gérondif%20présent.md)
-  - [Gérondif passé](gérondif/gérondif%20passé.md)
 - [Les temps](temps.md)
   - [Futur antérieur](temps/futur%20antérieur.md)
   - [Futur proche](temps/futur%20proche.md)
