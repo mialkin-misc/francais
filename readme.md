@@ -7,12 +7,9 @@
 ## Langue
 
 - [Complements](language/complements.md)
+- [Participes](language/participes.md)
 - [Pronoms](language/pronoms.md)
 - [Temps](language/temps.md)
-- Причастия
-  - [Participe passé](participes/participe%20passé.md)
-  - [Participe passé composé](participes/participe%20passé%20composé.md)
-  - [Participe présent](participes/participe%20présent.md)
 - Деепричастия
   - [Gérondif présent](gérondif/gérondif%20présent.md)
   - [Gérondif passé](gérondif/gérondif%20passé.md)
