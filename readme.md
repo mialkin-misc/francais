@@ -1,4 +1,4 @@
-# Французский язык
+# Français
 
 ## Littérature
 
@@ -7,8 +7,7 @@
 ## Langue
 
 - [Complements](language/complements.md)
-
-<img src="temps.jpg" />
+- [Temps](language/temps.md)
 
 - Причастия
   - [Participe passé](participes/participe%20passé.md)
@@ -39,7 +38,7 @@
   - [Voix](verbes/voix.md)
   - [Radical](verbes/radical.md)
 
-## Разное
+## Divers
 
-- [Административное деление Франции](misc/organisation%20territoriale.md)
-- [Образование во Франции](misc/système%20éducatif.md)
+- [Organisation territoriale de la France](misc/organisation%20territoriale.md)
+- [Système éducatif en France](misc/système%20éducatif.md)

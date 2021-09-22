@@ -1,14 +1,11 @@
-# Les temps
+# Temps
 
-- [Les temps](#les-temps)
+- [Temps](#temps)
   - [Présent de l'indicatif](#présent-de-lindicatif)
-    - [Formation](#formation)
   - [Présent progressif](#présent-progressif)
-    - [Formation](#formation-1)
   - [Conditionnel présent](#conditionnel-présent)
-    - [Formation](#formation-2)
   - [Conditionnel passé](#conditionnel-passé)
-    - [Formation](#formation-3)
+  - [Table](#table)
 
 ## Présent de l'indicatif
 
@@ -26,9 +23,7 @@ On peut l'utiliser pour raconter un fait passé "comme si on y était" ou pour e
 La Terre tourne autour du Soleil.
 ```
 
-### Formation
-
-Les terminaisons varient selon le groupe auquel appartient le verbe:
+Formation: Les terminaisons varient selon le groupe auquel appartient le verbe:
 
 <table>
     <tr>
@@ -165,9 +160,7 @@ Je suis en train de travailler.
 Nous sommes en train de finir.
 ```
 
-### Formation
-
-L'auxiliaire _être_ au _présent_ + " *en train de/d* " + verbe à l'infinitif.
+Formation: L'auxiliaire _être_ au _présent_ + " *en train de/d* " + verbe à l'infinitif.
 
 ## Conditionnel présent
 
@@ -180,9 +173,7 @@ Si j'avais de l'argent, je partirais en voyage.
 Nous voudrions rentrer plus tôt.
 ```
 
-### Formation
-
-Le radical du verbe au _futur simple_ + terminaison de _l'imparfait_ :
+Formation: Le radical du verbe au _futur simple_ + terminaison de _l'imparfait_ :
 
 <table>
     <tr>
@@ -245,6 +236,8 @@ Si j'avais de l'argent, je serais partie en voyage.
 Nous aurions voulu rentrer plus tôt.
 ```
 
-### Formation
+Formation: _Être_ ou _avoir_ au _conditionnel présent_ + le _participe passé_ du verbe à conjuguer.
 
-_Être_ ou _avoir_ au _conditionnel présent_ + le _participe passé_ du verbe à conjuguer.
+## Table
+
+<img src="temps.jpg" />
