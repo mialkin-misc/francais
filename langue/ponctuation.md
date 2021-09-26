@@ -19,3 +19,7 @@
 | `«»`  | guillemets            | La maîtresse a dit : « Ouvrez vos cahiers. » |
 | `“”`  | guillemets anglais    |                                              |
 | `—`   | tiret                 | — Tu veux me quitter ! — Oui!                |
+
+> Un moyen mnémotechnique pour les signes doubles `! : ; ?` : il faut poser deux
+> fois sa plume pour les écrire. Il y a une espace avant et une espace après un
+> signe double.
