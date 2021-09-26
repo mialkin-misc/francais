@@ -8,6 +8,7 @@
 
 - [Complements](language/complements.md)
 - [Gérondifs](language/gerondifs.md)
+- [Liens](language/liens.md)
 - [Participes](language/participes.md)
 - [Pronoms](language/pronoms.md)
 - [Temps](language/temps.md)
