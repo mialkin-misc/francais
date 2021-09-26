@@ -160,7 +160,7 @@ Je suis en train de travailler.
 Nous sommes en train de finir.
 ```
 
-Formation: L'auxiliaire _être_ au _présent_ + " *en train de/d* " + verbe à l'infinitif.
+Formation: L'auxiliaire _être_ au _présent_ + " _en train de/d_ " + verbe à l'infinitif.
 
 ## Conditionnel présent
 

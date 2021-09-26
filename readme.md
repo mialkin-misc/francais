@@ -6,13 +6,13 @@
 
 ## Langue
 
-- [Complements](language/complements.md)
-- [Gérondifs](language/gerondifs.md)
-- [Liens](language/liens.md)
-- [Participes](language/participes.md)
-- [Pronoms](language/pronoms.md)
-- [Temps](language/temps.md)
-- [Verbes](language/verbes.md)
+- [Complements](langue/complements.md)
+- [Gérondifs](langue/gerondifs.md)
+- [Liens](langue/liens.md)
+- [Participes](langue/participes.md)
+- [Pronoms](langue/pronoms.md)
+- [Temps](langue/temps.md)
+- [Verbes](langue/verbes.md)
 - [Les temps](temps.md)
   - [Futur antérieur](temps/futur%20antérieur.md)
   - [Futur proche](temps/futur%20proche.md)
