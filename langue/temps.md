@@ -9,7 +9,7 @@
 
 ## Présent de l'indicatif
 
-Ce temps exprime un fait ou une action qui se déroule au moment où nous nous exprimons.
+Ce temps exprime un fait ou une action qui se déroule au moment où nous nous exprimons :
 
 ```text
 Où vas-tu?
@@ -23,7 +23,7 @@ On peut l'utiliser pour raconter un fait passé "comme si on y était" ou pour e
 La Terre tourne autour du Soleil.
 ```
 
-Formation: Les terminaisons varient selon le groupe auquel appartient le verbe:
+Formation: Les terminaisons varient selon le groupe auquel appartient le verbe :
 
 <table>
     <tr>
