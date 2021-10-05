@@ -11,6 +11,7 @@
   - [Passé composé](#passé-composé)
   - [Passé récent](#passé-récent)
   - [Passé simple](#passé-simple)
+  - [Plus-que-parfait](#plus-que-parfait)
   - [Présent de l'indicatif](#présent-de-lindicatif)
   - [Présent progressif](#présent-progressif)
   - [Table](#table)
@@ -369,6 +370,27 @@ Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de f
 | nous           | eûmes  | fûmes  |
 | vous           | eûtes  | fûtes  |
 | ils / elles    | eurent | furent |
+
+## Plus-que-parfait
+
+Le plus-que-parfait marque une action passée ayant eu lieu avant une autre également passée quand celle-ci s'exprime à l'imparfait :
+
+```text
+Quand j'avais dîné, j'allais me promener.
+```
+
+Formations : l'imparfait de _avoir_ ou de _être_ + participe passé.
+
+Formes des verbes de troisième groupe certains verbes :
+
+|                | avoir      | être        |
+| -------------- | ---------- | ----------- |
+| je / j'        | avais eu   | avais été   |
+| tu             | avais eu   | avais été   |
+| il / elle / on | avait eu   | avait été   |
+| nous           | avions eu  | avions été  |
+| vous           | aviez eu   | aviez été   |
+| ils / elles    | avaient eu | avaient été |
 
 ## Présent de l'indicatif
 
