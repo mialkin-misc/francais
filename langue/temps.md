@@ -46,8 +46,8 @@ Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison d
 <table>
     <tr>
         <td></td>
-        <td colspan="2">I group</td>
-        <td colspan="2">autres groupes</td>
+        <td colspan="2"><b>I group</b></td>
+        <td colspan="2"><b>autres groupes</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -249,8 +249,8 @@ Formation : les terminaisons des verbes varient selon le groupe auquel appartien
 <table>
     <tr>
         <td></td>
-        <td colspan="2">I groupe</td>
-        <td colspan="2">II groupe</td>
+        <td colspan="2"><b>I groupe</b></td>
+        <td colspan="2"><b>II groupe</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -301,9 +301,9 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 <table>
     <tr>
         <td>Passé simple de l'indicatif</td>
-        <td colspan="2">modèle 1</td>
-        <td colspan="2">modèle 2</td>
-        <td colspan="2">modèle 3</td>
+        <td colspan="2"><b>modèle 1</b></td>
+        <td colspan="2"><b>modèle 2</b></td>
+        <td colspan="2"><b>modèle 3</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -414,8 +414,8 @@ Formation : les terminaisons des verbes varient selon le groupe auquel appartien
 <table>
     <tr>
         <td></td>
-        <td colspan="2">I groupe</td>
-        <td colspan="2">II groupe</td>
+        <td colspan="2"><b>I groupe</b></td>
+        <td colspan="2"><b>II groupe</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -466,9 +466,9 @@ Les verbes du III groupe ont 3 modèles de terminaisons:
 <table>
     <tr>
         <td></td>
-        <td colspan="2">générique</td>
-        <td colspan="2">-dre (sauf -oindre)</td>
-        <td colspan="2">pouvoir valoir vouloir</td>
+        <td colspan="2"><b>générique</b></td>
+        <td colspan="2"><b>-dre (sauf -oindre)</b></td>
+        <td colspan="2"><b>pouvoir valoir vouloir</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -629,17 +629,17 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjonctif après un verbe qui exprime :
 
-| Exprime              | Example                                                     |
-| -------------------- | ----------------------------------------------------------- |
-| Un souhait           | J'aimerais que vous compreniez l'utilisation du subjonctif. |
-| Une volonté          | Je veux que mes parents soient fiers de moi.                |
-| Une obligation       | Il faut que tu viennes.                                     |
-| Un ordre             | J'exige que vous parliez français.                          |
-| Une émotion          | Je suis heureuse qu'il fasse beau.                          |
-| Une opinion négative | Je ne pense pas que le français soit difficile.             |
-| Un doute             | Je doute qu'il ait réussi son examen.                       |
-| Une possibilité      | Il se peut qu'il pleuve.                                    |
-| Une nécessité        | Il est nécessaire que tu prennes de l'argent.               |
+| Exprime              | Example                                                    |
+| -------------------- | ---------------------------------------------------------- |
+| Un souhait           | J'aimerais que vous compreniez l'utilisation du subjonctif |
+| Une volonté          | Je veux que mes parents soient fiers de moi                |
+| Une obligation       | Il faut que tu viennes.                                    |
+| Un ordre             | J'exige que vous parliez français                          |
+| Une émotion          | Je suis heureuse qu'il fasse beau                          |
+| Une opinion négative | Je ne pense pas que le français soit difficile             |
+| Un doute             | Je doute qu'il ait réussi son examen                       |
+| Une possibilité      | Il se peut qu'il pleuve                                    |
+| Une nécessité        | Il est nécessaire que tu prennes de l'argent               |
 
 Formes des verbes _être_ et _avoir_ :
 
