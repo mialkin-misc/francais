@@ -25,7 +25,7 @@ Si j'avais de l'argent, je serais partie en voyage.
 Nous aurions voulu rentrer plus tôt.
 ```
 
-Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le _participe passé_ du verbe à conjuguer.
+Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
 
 ## Conditionnel présent
 
