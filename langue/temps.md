@@ -3,6 +3,7 @@
 - [Temps](#temps)
   - [Conditionnel passé](#conditionnel-passé)
   - [Conditionnel présent](#conditionnel-présent)
+  - [Futur proche](#futur-proche)
   - [Futur simple](#futur-simple)
   - [Imparfait](#imparfait)
   - [Présent de l'indicatif](#présent-de-lindicatif)
@@ -85,6 +86,24 @@ Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison d
     </tr>
 </table>
 
+## Futur proche
+
+Le futur proche exprime une action qui va se dérouler très prochainement :
+
+```text
+Je vais prendre mon train dans cinq minutes.
+```
+
+Formation : le verbe _aller_ au [présent de l'indicatif](#présent-de-lindicatif) + l'infinitif du verbe à conjuguer :
+
+```text
+Je vais manger mon goûter.
+
+Il va prendre son bain.
+
+Nous allons rentrer en début d'après-midi.
+```
+
 ## Futur simple
 
 Le futur simple exprime un fait ou une action qui se déroulera plus tard, elle n'a pas encore eu lieu au moment où nous nous exprimons :
@@ -117,7 +136,6 @@ Les verbes en **-yer** changent le **y** en **i** :
 ```text
 verbe essuyer → j'essuierai
 ```
-
 
 ## Imparfait
 
