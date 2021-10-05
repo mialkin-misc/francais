@@ -18,7 +18,6 @@
   - [Futur antérieur](temps/futur%20antérieur.md)
   - [Futur proche](temps/futur%20proche.md)
   - [Futur simple](temps/futur%20simple.md)
-  - [Imparfait](temps/imparfait.md)
   - [Passé antérieur](temps/passé%20antérieur.md)
   - [Passé composé](temps/passé%20composé.md)
   - [Passé récent](temps/passé%20récent.md)

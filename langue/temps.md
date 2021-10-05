@@ -3,6 +3,7 @@
 - [Temps](#temps)
   - [Conditionnel passé](#conditionnel-passé)
   - [Conditionnel présent](#conditionnel-présent)
+  - [Imparfait](#imparfait)
   - [Présent de l'indicatif](#présent-de-lindicatif)
   - [Présent progressif](#présent-progressif)
   - [Table](#table)
@@ -31,57 +32,97 @@ Si j'avais de l'argent, je partirais en voyage.
 Nous voudrions rentrer plus tôt.
 ```
 
-Formation : le radical du verbe au _futur simple_ + terminaison de _l'imparfait_ :
+Formation : le radical du verbe au _futur simple_ + terminaison de [l'imparfait](#imparfait) :
 
 <table>
     <tr>
         <td></td>
         <td colspan="2">I group</td>
-        <td colspan="2">Autres groupes</td>
+        <td colspan="2">autres groupes</td>
     </tr>
     <tr>
         <td>je / j'</td>
-        <td>-erais</td>
+        <td><b>-erais</b></td>
         <td>aimerais</td>
-        <td>-rais</td>
+        <td><b>-rais</b></td>
         <td>finirais</td>
     </tr>
     <tr>
         <td>tu</td>
-        <td>-erais</td>
+        <td><b>-erais</b></td>
         <td>aimerais</td>
-        <td>-rais</td>
+        <td><b>-rais</b></td>
         <td>finirais</td>
     </tr>
     <tr>
         <td>il / elle / on</td>
-        <td>-erait</td>
+        <td><b>-erait</b></td>
         <td>aimerait</td>
-        <td>-rait</td>
+        <td><b>-rait</b></td>
         <td>finirait</td>
     </tr>
     <tr>
         <td>nous</td>
-        <td>-erions</td>
+        <td><b>-erions</b></td>
         <td>aimerions</td>
-        <td>-rions</td>
+        <td><b>-rions</b></td>
         <td>finirions</td>
     </tr>
     <tr>
         <td>vous</td>
-        <td>-eriez</td>
+        <td><b>-eriez</b></td>
         <td>aimeriez</td>
-        <td>-riez</td>
+        <td><b>-riez</b></td>
         <td>finiriez</td>
     </tr>
     <tr>
         <td>ils / elles</td>
-        <td>-eraient</td>
+        <td><b>-eraient</b></td>
         <td>aimeraient</td>
-        <td>-raient</td>
+        <td><b>-raient</b></td>
         <td>finiraient</td>
     </tr>
 </table>
+
+## Imparfait
+
+L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage :
+
+```text
+Quand tu étais enfant, tu étais timide.
+
+Il prenait son bain.
+
+Elle occupait un poste dans l'administration.
+
+Le midi, il mangeait dans le parc.
+
+Tous les jours, elle nettoyait les meubles.
+
+À l'est de l'étang, c'étaient les bruyères et puis les prairies et les cultures. La ferme s'élevait presque à l'horizon.
+```
+
+**Formations** : le radical du verbe à la première personne du pluriel au présent. On ajoute à ce radical les terminaisons de l'imparfait.
+
+|                |            | I groupe     | II groupe       | III groupe    |
+| -------------- | ---------- | ------------ | --------------- | ------------- |
+| je / j'        | -**ais**   | aim**ais**   | finiss**ais**   | mett**ais**   |
+| tu             | -**ais**   | aim**ais**   | finiss**ais**   | mett**ais**   |
+| il / elle / on | -**ait**   | aim**ait**   | finiss**ait**   | mett**ait**   |
+| nous           | -**ions**  | aim**ions**  | finiss**ions**  | mett**ions**  |
+| vous           | -**iez**   | aim**iez**   | finiss**iez**   | mett**iez**   |
+| ils / elles    | -**aient** | aim**aient** | finiss**aient** | mett**aient** |
+
+Formes de certains verbes de troisième groupe :
+
+|                | avoir   | être    |
+| -------------- | ------- | ------- |
+| je / j'        | avais   | étais   |
+| tu             | avais   | étais   |
+| il / elle / on | avait   | était   |
+| nous           | avions  | étions  |
+| vous           | aviez   | étiez   |
+| ils / elles    | avaient | étaient |
 
 ## Présent de l'indicatif
 
@@ -109,44 +150,44 @@ Formation : les terminaisons des verbes varient selon le groupe auquel appartien
     </tr>
     <tr>
         <td>je / j'</td>
-        <td>-e</td>
+        <td><b>-e</b></td>
         <td>aime</td>
-        <td>-is</b</td>
+        <td><b>-is</b</b></td>
         <td>finis</td>
     </tr>
     <tr>
         <td>tu</td>
-        <td>-es</td>
+        <td><b>-es</b></td>
         <td>aimes</td>
-        <td>-is</td>
+        <td><b>-is</b></td>
         <td>finis</td>
     </tr>
     <tr>
         <td>il / elle / on</td>
-        <td>-e</td>
+        <td><b>-e</b></td>
         <td>aime</td>
-        <td>-it</td>
+        <td><b>-it</b></td>
         <td>finit</td>
     </tr>
     <tr>
         <td>nous</td>
-        <td>-ons</td>
+        <td><b>-ons</b></td>
         <td>aimons</td>
-        <td>-issons</td>
+        <td><b>-issons</b></td>
         <td>finissons</td>
     </tr>
     <tr>
         <td>vous</td>
-        <td>-ez</td>
+        <td><b>-ez</b></td>
         <td>aimez</td>
-        <td>-issez</td>
+        <td><b>-issez</b></td>
         <td>finissez</td>
     </tr>
     <tr>
         <td>ils / elles</td>
-        <td>-ent</td>
+        <td><b>-ent</b></td>
         <td>aiment</td>
-        <td>-issent</td>
+        <td><b>-issent</b></td>
         <td>finissent</td>
     </tr>
 </table>
@@ -156,62 +197,62 @@ Les verbes du III groupe ont 3 modèles de terminaisons:
 <table>
     <tr>
         <td></td>
-        <td colspan="2">Générique</td>
+        <td colspan="2">générique</td>
         <td colspan="2">-dre (sauf -oindre)</td>
         <td colspan="2">pouvoir valoir vouloir</td>
     </tr>
     <tr>
         <td>je / j'</td>
-        <td>-s</td>
+        <td><b>-s</b></td>
         <td>mets</td>
-        <td>-ds</b</td>
+        <td><b>-ds</b</b></td>
         <td>prends</td>
-        <td>-x</b</td>
+        <td><b>-x</b</b></td>
         <td>peux</td>
     </tr>
     <tr>
         <td>tu</td>
-        <td>-s</td>
+        <td><b>-s</b></td>
         <td>mets</td>
-        <td>-ds</td>
+        <td><b>-ds</b></td>
         <td>prends</td>
-        <td>-x</td>
+        <td><b>-x</b></td>
         <td>peux</td>
     </tr>
     <tr>
         <td>il / elle / on</td>
-        <td>-t</td>
+        <td><b>-t</b></td>
         <td>met</td>
-        <td>-d</td>
+        <td><b>-d</b></td>
         <td>prend</td>
-        <td>-t</td>
+        <td><b>-t</b></td>
         <td>peut</td>
     </tr>
     <tr>
         <td>nous</td>
-        <td>-ons</td>
+        <td><b>-ons</b></td>
         <td>mettons</td>
-        <td>-ons</td>
+        <td><b>-ons</b></td>
         <td>prenons</td>
-        <td>-ons</td>
+        <td><b>-ons</b></td>
         <td>pouvons</td>
     </tr>
     <tr>
         <td>vous</td>
-        <td>-ez</td>
+        <td><b>-ez</b></td>
         <td>mettez</td>
-        <td>-ez</td>
+        <td><b>-ez</b></td>
         <td>prenez</td>
-        <td>-ez</td>
+        <td><b>-ez</b></td>
         <td>pouvez</td>
     </tr>
     <tr>
         <td>ils / elles</td>
-        <td>-ent</td>
+        <td><b>-ent</b></td>
         <td>mettent</td>
-        <td>-ent</td>
+        <td><b>-ent</b></td>
         <td>prennent</td>
-        <td>-ent</td>
+        <td><b>-ent</b></td>
         <td>peuvent</td>
     </tr>
 </table>
