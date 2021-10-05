@@ -1,20 +1,20 @@
 # Passé simple
 
-Le passé simple exprime une action achevée du passé, le plus souvent une action brève:
+Le passé simple exprime une action achevée du passé, le plus souvent une action brève :
 
 ```text
 Soudain, le cycliste chuta par terre.
+Le Général de Gaulle vécut 80 ans.
+L’année dernière, je partis en vacances en France.
 ```
 
-## Terminaisons
-
-Les terminaisons varient selon le groupe auquel appartient le verbe.
+Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 <table>
     <tr>
-        <td>Passé simple de l'indicatif</td>
-        <td colspan="2">1er groupe</td>
-        <td colspan="2">2e groupe</td>
+        <td></td>
+        <td colspan="2">I groupe</td>
+        <td colspan="2">II groupe</td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -60,7 +60,7 @@ Les terminaisons varient selon le groupe auquel appartient le verbe.
     </tr>
 </table>
 
-Les verbes du 3e groupe ont 3 modèles de terminaisons.
+Les verbes du III groupe ont 3 modèles de terminaisons :
 
 <table>
     <tr>
@@ -125,19 +125,13 @@ Les verbes du 3e groupe ont 3 modèles de terminaisons.
     </tr>
 </table>
 
-## Verbes avoir et être
+Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de former le passé antérieur de tous les autres verbes :
 
-Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de former [le passé antérieur](passé%20antérieur.md) de tous les autres verbes.
-
-Les auxiliaries | avoir | être
--| - | -
-te / j' | eus | fus
-tu | eus | fus
-il / elle / on | eut | fut
-nous | eûmes | fûmes
-vous | eûtes | fûtes
-ils / elles | eurent | furent
-
-## Liens
-
-[↑ Passé simple de l'indicatif](https://la-conjugaison.nouvelobs.com/regles/conjugaison/passe-simple-de-l-indicatif-8.php)
+|                | avoir  | être   |
+| -------------- | ------ | ------ |
+| te / j'        | eus    | fus    |
+| tu             | eus    | fus    |
+| il / elle / on | eut    | fut    |
+| nous           | eûmes  | fûmes  |
+| vous           | eûtes  | fûtes  |
+| ils / elles    | eurent | furent |
