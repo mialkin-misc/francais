@@ -1,11 +1,87 @@
 # Temps
 
 - [Temps](#temps)
+  - [Conditionnel passé](#conditionnel-passé)
+  - [Conditionnel présent](#conditionnel-présent)
   - [Présent de l'indicatif](#présent-de-lindicatif)
   - [Présent progressif](#présent-progressif)
-  - [Conditionnel présent](#conditionnel-présent)
-  - [Conditionnel passé](#conditionnel-passé)
   - [Table](#table)
+
+## Conditionnel passé
+
+Le conditionnel passé peut servir à exprimer un reproche ou un regret :
+
+```text
+Tu aurais pu nous le dire.
+Il aurait voulu devenir avocat.
+Si j'avais de l'argent, je serais partie en voyage.
+Nous aurions voulu rentrer plus tôt.
+```
+
+Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le _participe passé_ du verbe à conjuguer.
+
+## Conditionnel présent
+
+Le conditionnel présent peut servir à atténuer une demande :
+
+```text
+Je voudrais vous rencontrer.
+Si je pouvais, je jouerais plus souvent.
+Si j'avais de l'argent, je partirais en voyage.
+Nous voudrions rentrer plus tôt.
+```
+
+Formation : le radical du verbe au _futur simple_ + terminaison de _l'imparfait_ :
+
+<table>
+    <tr>
+        <td></td>
+        <td colspan="2">I group</td>
+        <td colspan="2">Autres groupes</td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td>-erais</td>
+        <td>aimerais</td>
+        <td>-rais</td>
+        <td>finirais</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td>-erais</td>
+        <td>aimerais</td>
+        <td>-rais</td>
+        <td>finirais</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td>-erait</td>
+        <td>aimerait</td>
+        <td>-rait</td>
+        <td>finirait</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td>-erions</td>
+        <td>aimerions</td>
+        <td>-rions</td>
+        <td>finirions</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td>-eriez</td>
+        <td>aimeriez</td>
+        <td>-riez</td>
+        <td>finiriez</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td>-eraient</td>
+        <td>aimeraient</td>
+        <td>-raient</td>
+        <td>finiraient</td>
+    </tr>
+</table>
 
 ## Présent de l'indicatif
 
@@ -17,19 +93,19 @@ Je pars à la plage.
 Marc range ses affaires.
 ```
 
-On peut l'utiliser pour raconter un fait passé "comme si on y était" ou pour exprimer une vérité scientifique ou un fait habituel:
+On peut l'utiliser pour raconter un fait passé « comme si on y était » ou pour exprimer une vérité scientifique ou un fait habituel :
 
 ```text
 La Terre tourne autour du Soleil.
 ```
 
-Formation: Les terminaisons varient selon le groupe auquel appartient le verbe :
+Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 <table>
     <tr>
         <td></td>
-        <td colspan="2">1er groupe</td>
-        <td colspan="2">2e groupe</td>
+        <td colspan="2">I groupe</td>
+        <td colspan="2">II groupe</td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -75,7 +151,7 @@ Formation: Les terminaisons varient selon le groupe auquel appartient le verbe :
     </tr>
 </table>
 
-Les verbes du 3e groupe ont 3 modèles de terminaisons:
+Les verbes du III groupe ont 3 modèles de terminaisons:
 
 <table>
     <tr>
@@ -160,83 +236,7 @@ Je suis en train de travailler.
 Nous sommes en train de finir.
 ```
 
-Formation: L'auxiliaire _être_ au _présent_ + " _en train de/d_ " + verbe à l'infinitif.
-
-## Conditionnel présent
-
-Le conditionnel présent peut servir à atténuer une demande :
-
-```text
-Je voudrais vous rencontrer.
-Si je pouvais, je jouerais plus souvent.
-Si j'avais de l'argent, je partirais en voyage.
-Nous voudrions rentrer plus tôt.
-```
-
-Formation: Le radical du verbe au _futur simple_ + terminaison de _l'imparfait_ :
-
-<table>
-    <tr>
-        <td></td>
-        <td colspan="2">1er group</td>
-        <td colspan="2">Autres groupes</td>
-    </tr>
-    <tr>
-        <td>je / j'</td>
-        <td>-erais</td>
-        <td>aimerais</td>
-        <td>-rais</td>
-        <td>finirais</td>
-    </tr>
-    <tr>
-        <td>tu</td>
-        <td>-erais</td>
-        <td>aimerais</td>
-        <td>-rais</td>
-        <td>finirais</td>
-    </tr>
-    <tr>
-        <td>il / elle / on</td>
-        <td>-erait</td>
-        <td>aimerait</td>
-        <td>-rait</td>
-        <td>finirait</td>
-    </tr>
-    <tr>
-        <td>nous</td>
-        <td>-erions</td>
-        <td>aimerions</td>
-        <td>-rions</td>
-        <td>finirions</td>
-    </tr>
-    <tr>
-        <td>vous</td>
-        <td>-eriez</td>
-        <td>aimeriez</td>
-        <td>-riez</td>
-        <td>finiriez</td>
-    </tr>
-    <tr>
-        <td>ils / elles</td>
-        <td>-eraient</td>
-        <td>aimeraient</td>
-        <td>-raient</td>
-        <td>finiraient</td>
-    </tr>
-</table>
-
-## Conditionnel passé
-
-Le conditionnel passé peut servir à exprimer un reproche ou un regret :
-
-```text
-Tu aurais pu nous le dire.
-Il aurait voulu devenir avocat.
-Si j'avais de l'argent, je serais partie en voyage.
-Nous aurions voulu rentrer plus tôt.
-```
-
-Formation: _Être_ ou _avoir_ au _conditionnel présent_ + le _participe passé_ du verbe à conjuguer.
+Formation : l'auxiliaire _être_ au [présent de l'indicatif](#présent-de-lindicatif) + « _en train de/d_ » + verbe à l'infinitif.
 
 ## Table
 
