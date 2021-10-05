@@ -14,6 +14,7 @@
   - [Plus-que-parfait](#plus-que-parfait)
   - [Présent de l'indicatif](#présent-de-lindicatif)
   - [Présent progressif](#présent-progressif)
+  - [Subjonctif présent](#subjonctif-présent)
   - [Table](#table)
 
 ## Conditionnel passé
@@ -379,9 +380,9 @@ Le plus-que-parfait marque une action passée ayant eu lieu avant une autre éga
 Quand j'avais dîné, j'allais me promener.
 ```
 
-Formations : l'imparfait de _avoir_ ou de _être_ + participe passé.
+Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + [participe passé](participes.md#participe-passé).
 
-Formes des verbes de troisième groupe certains verbes :
+Formes des verbes _avoir_ et _être_ :
 
 |                | avoir      | être        |
 | -------------- | ---------- | ----------- |
@@ -546,6 +547,110 @@ Nous sommes en train de finir.
 ```
 
 Formation : l'auxiliaire _être_ au [présent de l'indicatif](#présent-de-lindicatif) + « _en train de/d_ » + verbe à l'infinitif.
+
+## Subjonctif présent
+
+Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons :
+
+```text
+Je souhaite qu'il vienne en discuter.
+Je souhaite que tu sois présent.
+Il faut que nous trouvions un refuge.
+Je ne pense pas qu'il puisse arriver à l'heure.
+Il faut qu'ils partent rapidement. / Je crains qu'il faille abandonner.
+```
+
+Formation : _que_ + sujet + verbe au subjonctif.
+
+Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
+
+<table>
+    <tr>
+        <td></td>
+        <td colspan="2">I groupe + aller</td>
+        <td colspan="2">II groupe</td>
+        <td colspan="2">III groupe</td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td><b>-e</b></td>
+        <td>mange</td>
+        <td><b>-isse</b</td>
+        <td>finisse</td>
+        <td><b>-e</b></td>
+        <td>parte</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td><b>-es</b></td>
+        <td>manges</td>
+        <td><b>-isses</b></td>
+        <td>finisses</td>
+        <td><b>-es</b></td>
+        <td>partes</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td><b>-e</b></td>
+        <td>mange</td>
+        <td><b>-isse</b></td>
+        <td>finisse</td>
+        <td><b>-e</b></td>
+        <td>parte</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td><b>-ions</b></td>
+        <td>mangions</td>
+        <td><b>-issons</b></td>
+        <td>finissions</td>
+        <td><b>-ions</b></td>
+        <td>partions</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td><b>-iez</b></td>
+        <td>mangiez</td>
+        <td><b>-issiez</b></td>
+        <td>finissiez</td>
+        <td><b>-iez</b></td>
+        <td>partiez</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td><b>-ent</b></td>
+        <td>mangent</td>
+        <td><b>-issent</b></td>
+        <td>finissent</td>
+        <td><b>-ent</b></td>
+        <td>partent</td>
+    </tr>
+</table>
+
+On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjonctif après un verbe qui exprime :
+
+| Exprime              | Example                                                     |
+| -------------------- | ----------------------------------------------------------- |
+| Un souhait           | J'aimerais que vous compreniez l'utilisation du subjonctif. |
+| Une volonté          | Je veux que mes parents soient fiers de moi.                |
+| Une obligation       | Il faut que tu viennes.                                     |
+| Un ordre             | J'exige que vous parliez français.                          |
+| Une émotion          | Je suis heureuse qu'il fasse beau.                          |
+| Une opinion négative | Je ne pense pas que le français soit difficile.             |
+| Un doute             | Je doute qu'il ait réussi son examen.                       |
+| Une possibilité      | Il se peut qu'il pleuve.                                    |
+| Une nécessité        | Il est nécessaire que tu prennes de l'argent.               |
+
+Formes des verbes _être_ et _avoir_ :
+
+|               | avoir | être   |
+| ------------- | ----- | ------ |
+| je / j'       | aie   | sois   |
+| tu            | aies  | sois   |
+| il / elle /on | ait   | soit   |
+| nous          | ayons | soyons |
+| vous          | ayez  | soyez  |
+| ils / elles   | aient | soient |
 
 ## Table
 
