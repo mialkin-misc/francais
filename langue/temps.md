@@ -3,6 +3,7 @@
 - [Temps](#temps)
   - [Conditionnel passé](#conditionnel-passé)
   - [Conditionnel présent](#conditionnel-présent)
+  - [Futur antérieur](#futur-antérieur)
   - [Futur proche](#futur-proche)
   - [Futur simple](#futur-simple)
   - [Imparfait](#imparfait)
@@ -89,6 +90,24 @@ Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison d
         <td>finiraient</td>
     </tr>
 </table>
+
+## Futur antérieur
+
+Le futur antérieur peut s'employer avec le futur simple pour exprimer une action qui aura lieu avant une seconde action :
+
+```text
+Quand tu seras parti, ils fermeront la porte.
+```
+
+Le futur antérieur peut s'employer seul pour exprimer un fait ou une action qui se sera achevée à ce moment là :
+
+```text
+Dans deux ans, ils auront fini les travaux.
+Nous serons partis avant six heures du matin.
+Ils auront réalisé un album d'ici lundi.
+```
+
+Formation : _être_ ou _avoir_ au futur simple auquel on ajoute le participe passé du verbe à conjuguer.
 
 ## Futur proche
 

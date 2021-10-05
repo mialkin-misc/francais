@@ -15,8 +15,6 @@
 - [Temps](langue/temps.md)
 - [Verbes](langue/verbes.md)
 - Les temps
-  - [Futur antérieur](temps/futur%20antérieur.md)
-  - [Passé composé](temps/passé%20composé.md)
   - [Plus-que-parfait](temps/plus-que-parfait.md)
   - [Subjonctif imparfait](temps/subjonctif%20imparfait.md)
   - [Subjonctif passé](temps/subjonctif%20passé.md)
