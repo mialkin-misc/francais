@@ -7,6 +7,7 @@
   - [Futur simple](#futur-simple)
   - [Imparfait](#imparfait)
   - [Passé antérieur](#passé-antérieur)
+  - [Passé composé](#passé-composé)
   - [Passé récent](#passé-récent)
   - [Passé simple](#passé-simple)
   - [Présent de l'indicatif](#présent-de-lindicatif)
@@ -181,6 +182,17 @@ Quand il eut fini, il hurla !
 ```
 
 Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
+
+## Passé composé
+
+Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons :
+
+```text
+Nous avons mangé.
+Elles sont arrivées.
+```
+
+Formation : l'auxiliaire _être_ ou _avoir_ au [présent de l'indicatif](#présent-de-lindicatif) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
 
 ## Passé récent
 
