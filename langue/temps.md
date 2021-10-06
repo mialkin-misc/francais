@@ -14,6 +14,7 @@
   - [Plus-que-parfait](#plus-que-parfait)
   - [Présent de l'indicatif](#présent-de-lindicatif)
   - [Présent progressif](#présent-progressif)
+  - [Subjonctif passé](#subjonctif-passé)
   - [Subjonctif présent](#subjonctif-présent)
   - [Table](#table)
 
@@ -461,7 +462,7 @@ Formation : les terminaisons des verbes varient selon le groupe auquel appartien
     </tr>
 </table>
 
-Les verbes du III groupe ont 3 modèles de terminaisons:
+Les verbes du III groupe ont 3 modèles de terminaisons :
 
 <table>
     <tr>
@@ -526,7 +527,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons:
     </tr>
 </table>
 
-Les auxiliaries _avoir_, _être_, _faire_:
+Les auxiliaries _avoir_, _être_, _faire_ :
 
 |                | avoir | être   | faire   |
 | -------------- | ----- | ------ | ------- |
@@ -548,6 +549,30 @@ Nous sommes en train de finir.
 
 Formation : l'auxiliaire _être_ au [présent de l'indicatif](#présent-de-lindicatif) + « _en train de/d_ » + verbe à l'infinitif.
 
+## Subjonctif passé
+
+Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons :
+
+```text
+Je ne crois pas qu'elle ait acheté ce véhicule.
+Il faut qu'ils soient partis avant midi.
+Je doute qu'ils aient écrit ces lettres.
+```
+
+Formation : l'auxiliaire _être_ ou _avoir_ au subjonctif présent + le participe passé du verbe à conjuguer :
+
+Avec les verbes pronominaux on emploie toujours l'auxiliaire _être_ :
+
+```text
+Je ne crois pas qu'ils se soient lavés.
+```
+
+A la voix passive on utilisera l'auxiliaire _être_ au subjonctif passé :
+
+```text
+Je doute que tu aies été surpris par cette nouvelle.
+```
+
 ## Subjonctif présent
 
 Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons :
@@ -567,9 +592,9 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 <table>
     <tr>
         <td></td>
-        <td colspan="2">I groupe + aller</td>
-        <td colspan="2">II groupe</td>
-        <td colspan="2">III groupe</td>
+        <td colspan="2"><b>I groupe + aller</b></td>
+        <td colspan="2"><b>II groupe</b></td>
+        <td colspan="2"><b>III groupe</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -633,7 +658,7 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 | -------------------- | ---------------------------------------------------------- |
 | Un souhait           | J'aimerais que vous compreniez l'utilisation du subjonctif |
 | Une volonté          | Je veux que mes parents soient fiers de moi                |
-| Une obligation       | Il faut que tu viennes.                                    |
+| Une obligation       | Il faut que tu viennes                                     |
 | Un ordre             | J'exige que vous parliez français                          |
 | Une émotion          | Je suis heureuse qu'il fasse beau                          |
 | Une opinion négative | Je ne pense pas que le français soit difficile             |
