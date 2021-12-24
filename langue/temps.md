@@ -173,14 +173,14 @@ Tous les jours, elle nettoyait les meubles.
 
 **Formations** : le radical du verbe à la première personne du pluriel au présent. On ajoute à ce radical les terminaisons de l'imparfait.
 
-|                |            | I groupe     | II groupe       | III groupe    |
-| -------------- | ---------- | ------------ | --------------- | ------------- |
-| je / j'        | -**ais**   | aim**ais**   | finiss**ais**   | mett**ais**   |
-| tu             | -**ais**   | aim**ais**   | finiss**ais**   | mett**ais**   |
-| il / elle / on | -**ait**   | aim**ait**   | finiss**ait**   | mett**ait**   |
-| nous           | -**ions**  | aim**ions**  | finiss**ions**  | mett**ions**  |
-| vous           | -**iez**   | aim**iez**   | finiss**iez**   | mett**iez**   |
-| ils / elles    | -**aient** | aim**aient** | finiss**aient** | mett**aient** |
+|                |            | I groupe | II groupe   | III groupe |
+| -------------- | ---------- | -------- | ----------- | ---------- |
+| je / j'        | -**ais**   | aimais   | finissais   | mettais    |
+| tu             | -**ais**   | aimais   | finissais   | mettais    |
+| il / elle / on | -**ait**   | aimait   | finissait   | mettait    |
+| nous           | -**ions**  | aimions  | finissions  | mettions   |
+| vous           | -**iez**   | aimiez   | finissiez   | mettiez    |
+| ils / elles    | -**aient** | aimaient | finissaient | mettaient  |
 
 Formes de certains verbes de troisième groupe :
 
