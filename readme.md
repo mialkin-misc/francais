@@ -1,9 +1,5 @@
 # Français
 
-## Littérature
-
-— [Vingt Mille Lieues sous les mers](literature/vingt-mille.md) par Jules Verne
-
 ## Langue
 
 - [Complements](langue/complements.md)
