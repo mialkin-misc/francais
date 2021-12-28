@@ -646,6 +646,19 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
     </tr>
 </table>
 
+Formes des verbes _être_ et _avoir_ :
+
+|               | avoir | être   |
+| ------------- | ----- | ------ |
+| je / j'       | aie   | sois   |
+| tu            | aies  | sois   |
+| il / elle /on | ait   | soit   |
+| nous          | ayons | soyons |
+| vous          | ayez  | soyez  |
+| ils / elles   | aient | soient |
+
+Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons.
+
 On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjonctif après un verbe qui exprime :
 
 | Exprime              | Example                                                    |
@@ -659,19 +672,6 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 | Un doute             | Je doute qu'il ait réussi son examen                       |
 | Une possibilité      | Il se peut qu'il pleuve                                    |
 | Une nécessité        | Il est nécessaire que tu prennes de l'argent               |
-
-Formes des verbes _être_ et _avoir_ :
-
-|               | avoir | être   |
-| ------------- | ----- | ------ |
-| je / j'       | aie   | sois   |
-| tu            | aies  | sois   |
-| il / elle /on | ait   | soit   |
-| nous          | ayons | soyons |
-| vous          | ayez  | soyez  |
-| ils / elles   | aient | soient |
-
-Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons.
 
 ## Table
 
