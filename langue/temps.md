@@ -20,7 +20,7 @@
 
 ## Conditionnel passé
 
-Le conditionnel passé peut servir à exprimer un reproche ou un regret :
+Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
 
 ```text
 Tu aurais pu nous le dire.
@@ -29,11 +29,11 @@ Si j'avais de l'argent, je serais partie en voyage.
 Nous aurions voulu rentrer plus tôt.
 ```
 
-Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
+Le conditionnel passé peut servir à exprimer un reproche ou un regret.
 
 ## Conditionnel présent
 
-Le conditionnel présent peut servir à atténuer une demande :
+Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison de [l'imparfait](#imparfait).
 
 ```text
 Je voudrais vous rencontrer.
@@ -42,7 +42,7 @@ Si j'avais de l'argent, je partirais en voyage.
 Nous voudrions rentrer plus tôt.
 ```
 
-Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison de [l'imparfait](#imparfait) :
+Le conditionnel présent peut servir à atténuer une demande.
 
 <table>
     <tr>
@@ -96,6 +96,8 @@ Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison d
 
 ## Futur antérieur
 
+Formation : _être_ ou _avoir_ au [futur simple](#futur-simple) auquel on ajoute le participe passé du verbe à conjuguer.
+
 Le futur antérieur peut s'employer avec le futur simple pour exprimer une action qui aura lieu avant une seconde action :
 
 ```text
@@ -110,33 +112,21 @@ Nous serons partis avant six heures du matin.
 Ils auront réalisé un album d'ici lundi.
 ```
 
-Formation : _être_ ou _avoir_ au futur simple auquel on ajoute le participe passé du verbe à conjuguer.
-
 ## Futur proche
-
-Le futur proche exprime une action qui va se dérouler très prochainement :
-
-```text
-Je vais prendre mon train dans cinq minutes.
-```
 
 Formation : le verbe _aller_ au [présent de l'indicatif](#présent-de-lindicatif) + l'infinitif du verbe à conjuguer :
 
 ```text
-Je vais manger mon goûter.
+Je vais prendre mon train dans cinq minutes.
 Il va prendre son bain.
 Nous allons rentrer en début d'après-midi.
 ```
 
+Le futur proche exprime une action qui va se dérouler très prochainement.
+
 ## Futur simple
 
-Le futur simple exprime un fait ou une action qui se déroulera plus tard, elle n'a pas encore eu lieu au moment où nous nous exprimons :
-
-```text
-La semaine prochaine nous partirons en vacances.
-```
-
-Les terminaisons du futur simple sont les mêmes pour tous les verbes :
+Formation : les terminaisons du futur simple sont les mêmes pour tous les verbes.
 
 |                |           | I groupe | II groupe | III groupe |
 | -------------- | --------- | -------- | --------- | ---------- |
@@ -160,18 +150,15 @@ Les verbes en **-yer** changent le **y** en **i** :
 verbe essuyer → j'essuierai
 ```
 
-## Imparfait
-
-L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage :
+Le futur simple exprime un fait ou une action qui se déroulera plus tard, elle n'a pas encore eu lieu au moment où nous nous exprimons :
 
 ```text
-Quand tu étais enfant, tu étais timide.
-Elle occupait un poste dans l'administration.
-Le midi, il mangeait dans le parc.
-Tous les jours, elle nettoyait les meubles.
+La semaine prochaine nous partirons en vacances.
 ```
 
-**Formations** : le radical du verbe à la première personne du pluriel au présent. On ajoute à ce radical les terminaisons de l'imparfait.
+## Imparfait
+
+Formations : le radical du verbe à la première personne du pluriel au présent + la terminaison de [l'imparfait](#imparfait).
 
 |                |            | I groupe | II groupe   | III groupe |
 | -------------- | ---------- | -------- | ----------- | ---------- |
@@ -193,9 +180,18 @@ Formes de certains verbes de troisième groupe :
 | vous           | aviez   | étiez   |
 | ils / elles    | avaient | étaient |
 
+```text
+Quand tu étais enfant, tu étais timide.
+Elle occupait un poste dans l'administration.
+Le midi, il mangeait dans le parc.
+Tous les jours, elle nettoyait les meubles.
+```
+
+L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage.
+
 ## Passé antérieur
 
-Le passé antérieur est utilisé le plus souvent avec le passé simple pour exprimer l'antériorité d'une action :
+Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
 
 ```text
 Dès qu'il eut fini de parler, il partit.
@@ -203,30 +199,28 @@ J'eus été.
 Quand il eut fini, il hurla !
 ```
 
-Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
+Le passé antérieur est utilisé le plus souvent avec le passé simple pour exprimer l'antériorité d'une action.
 
 ## Passé composé
 
-Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons :
+Formation : l'auxiliaire _être_ ou _avoir_ au [présent de l'indicatif](#présent-de-lindicatif) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
 
 ```text
 Nous avons mangé.
 Elles sont arrivées.
 ```
 
-Formation : l'auxiliaire _être_ ou _avoir_ au [présent de l'indicatif](#présent-de-lindicatif) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
+Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons.
 
 ## Passé récent
 
-Le passé récent exprime une action dans le passé qui est proche du moment où l'on parle :
+Formation : le verbe _venir_ au [présent de l'indicatif](#présent-de-lindicatif) + « de/d' » + verbe à l'infinitif.
 
 ```text
 Je viens de téléphoner à ma mère.
 Vous venez d'arriver.
 Le train vient de partir.
 ```
-
-Formation : le verbe _venir_ au [présent de l'indicatif](#présent-de-lindicatif) + « de/d' » + verbe à l'infinitif.
 
 Pour insister sur la proximité du passé et du présent, on peut ajouter l'adverbe **juste** :
 
@@ -235,17 +229,17 @@ Le train vient juste de partir.
 Vous venez juste de finir votre contrat.
 ```
 
+Le passé récent exprime une action dans le passé qui est proche du moment où l'on parle.
+
 ## Passé simple
 
-Le passé simple exprime une action achevée du passé, le plus souvent une action brève :
+Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe.
 
 ```text
 Soudain, le cycliste chuta par terre.
 Le Général de Gaulle vécut 80 ans.
 L’année dernière, je partis en vacances en France.
 ```
-
-Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 <table>
     <tr>
@@ -362,7 +356,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de former le passé antérieur de tous les autres verbes :
+Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de former [le passé antérieur](#passé-antérieur) de tous les autres verbes :
 
 |                | avoir  | être   |
 | -------------- | ------ | ------ |
@@ -373,15 +367,15 @@ Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de f
 | vous           | eûtes  | fûtes  |
 | ils / elles    | eurent | furent |
 
+Le passé simple exprime une action achevée du passé, le plus souvent une action brève.
+
 ## Plus-que-parfait
 
-Le plus-que-parfait marque une action passée ayant eu lieu avant une autre également passée quand celle-ci s'exprime à l'imparfait :
+Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + [participe passé](participes.md#participe-passé).
 
 ```text
 Quand j'avais dîné, j'allais me promener.
 ```
-
-Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + [participe passé](participes.md#participe-passé).
 
 Formes des verbes _avoir_ et _être_ :
 
@@ -393,6 +387,8 @@ Formes des verbes _avoir_ et _être_ :
 | nous           | avions eu  | avions été  |
 | vous           | aviez eu   | aviez été   |
 | ils / elles    | avaient eu | avaient été |
+
+Le plus-que-parfait marque une action passée ayant eu lieu avant une autre également passée quand celle-ci s'exprime à l'imparfait.
 
 ## Présent de l'indicatif
 
@@ -540,26 +536,24 @@ Les auxiliaries _avoir_, _être_, _faire_ :
 
 ## Présent progressif
 
-Le présent progressif exprime une action au présent dans sa durée et sa continuité :
+Formation : l'auxiliaire _être_ au [présent de l'indicatif](#présent-de-lindicatif) + « _en train de/d_ » + verbe à l'infinitif.
 
 ```text
 Je suis en train de travailler.
 Nous sommes en train de finir.
 ```
 
-Formation : l'auxiliaire _être_ au [présent de l'indicatif](#présent-de-lindicatif) + « _en train de/d_ » + verbe à l'infinitif.
+Le présent progressif exprime une action au présent dans sa durée et sa continuité.
 
 ## Subjonctif passé
 
-Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons :
+Formation : l'auxiliaire _être_ ou _avoir_ au [subjonctif présent](#subjonctif-présent) + le participe passé du verbe à conjuguer :
 
 ```text
 Je ne crois pas qu'elle ait acheté ce véhicule.
 Il faut qu'ils soient partis avant midi.
 Je doute qu'ils aient écrit ces lettres.
 ```
-
-Formation : l'auxiliaire _être_ ou _avoir_ au subjonctif présent + le participe passé du verbe à conjuguer :
 
 Avec les verbes pronominaux on emploie toujours l'auxiliaire _être_ :
 
@@ -573,9 +567,11 @@ A la voix passive on utilisera l'auxiliaire _être_ au subjonctif passé :
 Je doute que tu aies été surpris par cette nouvelle.
 ```
 
+Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons.
+
 ## Subjonctif présent
 
-Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons :
+Formation : _que_ + sujet + verbe au subjonctif.
 
 ```text
 Je souhaite qu'il vienne en discuter.
@@ -584,8 +580,6 @@ Il faut que nous trouvions un refuge.
 Je ne pense pas qu'il puisse arriver à l'heure.
 Il faut qu'ils partent rapidement. / Je crains qu'il faille abandonner.
 ```
-
-Formation : _que_ + sujet + verbe au subjonctif.
 
 Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
@@ -676,6 +670,8 @@ Formes des verbes _être_ et _avoir_ :
 | nous          | ayons | soyons |
 | vous          | ayez  | soyez  |
 | ils / elles   | aient | soient |
+
+Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons.
 
 ## Table
 
