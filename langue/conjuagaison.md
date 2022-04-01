@@ -15,10 +15,10 @@ En français sept modes verbaux sont employés :
     - [Présent](#présent)
     - [Futur simple](#futur-simple)
     - [Futur antérieur](#futur-antérieur)
+  - [Futur proche](#futur-proche)
   - [Mode conditionnel](#mode-conditionnel)
     - [Conditionnel présent](#conditionnel-présent)
     - [Conditionnel passé](#conditionnel-passé)
-  - [Futur proche](#futur-proche)
   - [Imparfait](#imparfait)
   - [Passé antérieur](#passé-antérieur)
   - [Passé composé](#passé-composé)
@@ -26,9 +26,10 @@ En français sept modes verbaux sont employés :
   - [Passé simple](#passé-simple)
   - [Plus-que-parfait](#plus-que-parfait)
   - [Présent progressif](#présent-progressif)
-  - [Subjonctif imparfait](#subjonctif-imparfait)
-  - [Subjonctif passé](#subjonctif-passé)
-  - [Subjonctif présent](#subjonctif-présent)
+  - [Subjonctif](#subjonctif)
+    - [Subjonctif imparfait](#subjonctif-imparfait)
+    - [Subjonctif passé](#subjonctif-passé)
+    - [Subjonctif présent](#subjonctif-présent)
   - [Table](#table)
 
 ## Mode indicatif
@@ -227,6 +228,18 @@ Nous serons partis avant six heures du matin.
 Ils auront réalisé un album d'ici lundi.
 ```
 
+## Futur proche
+
+Formation : le verbe *aller* au [présent de l'indicatif](#présent) + l'infinitif du verbe à conjuguer :
+
+```text
+Je vais prendre mon train dans cinq minutes.
+Il va prendre son bain.
+Nous allons rentrer en début d'après-midi.
+```
+
+Le futur proche exprime une action qui va se dérouler très prochainement.
+
 ## Mode conditionnel
 
 ### Conditionnel présent
@@ -304,18 +317,6 @@ Nous aurions voulu rentrer plus tôt.
 ```
 
 Le conditionnel passé peut servir à exprimer un reproche ou un regret.
-
-## Futur proche
-
-Formation : le verbe _aller_ au [présent de l'indicatif](#présent-de-lindicatif) + l'infinitif du verbe à conjuguer :
-
-```text
-Je vais prendre mon train dans cinq minutes.
-Il va prendre son bain.
-Nous allons rentrer en début d'après-midi.
-```
-
-Le futur proche exprime une action qui va se dérouler très prochainement.
 
 ## Imparfait
 
@@ -553,7 +554,7 @@ Le plus-que-parfait marque une action passée ayant eu lieu avant une autre éga
 
 ## Présent progressif
 
-Formation : l'auxiliaire _être_ au [présent de l'indicatif](#présent-de-lindicatif) + « _en train de/d_ » + verbe à l'infinitif.
+Formation : l'auxiliaire *être* au [présent de l'indicatif](#présent-de-lindicatif) + *en train de/d* + verbe à l'infinitif.
 
 ```text
 Je suis en train de travailler.
@@ -562,11 +563,13 @@ Nous sommes en train de finir.
 
 Le présent progressif exprime une action au présent dans sa durée et sa continuité.
 
-## Subjonctif imparfait
+## Subjonctif
 
-## Subjonctif passé
+### Subjonctif imparfait
 
-Formation : l'auxiliaire _être_ ou _avoir_ au [subjonctif présent](#subjonctif-présent) + le participe passé du verbe à conjuguer :
+### Subjonctif passé
+
+Formation : l'auxiliaire *être* ou *avoir* au [subjonctif présent](#subjonctif-présent) + le participe passé du verbe à conjuguer :
 
 ```text
 Je ne crois pas qu'elle ait acheté ce véhicule.
@@ -574,13 +577,13 @@ Il faut qu'ils soient partis avant midi.
 Je doute qu'ils aient écrit ces lettres.
 ```
 
-Avec les verbes pronominaux on emploie toujours l'auxiliaire _être_ :
+Avec les verbes pronominaux on emploie toujours l'auxiliaire *être* :
 
 ```text
 Je ne crois pas qu'ils se soient lavés.
 ```
 
-A la voix passive on utilisera l'auxiliaire _être_ au subjonctif passé :
+A la voix passive on utilisera l'auxiliaire *être* au subjonctif passé :
 
 ```text
 Je doute que tu aies été surpris par cette nouvelle.
@@ -588,9 +591,9 @@ Je doute que tu aies été surpris par cette nouvelle.
 
 Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons.
 
-## Subjonctif présent
+### Subjonctif présent
 
-Formation : _que_ + sujet + verbe au subjonctif.
+Formation : *que* + sujet + verbe au subjonctif.
 
 ```text
 Je souhaite qu'il vienne en discuter.
