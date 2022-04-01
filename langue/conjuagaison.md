@@ -1,6 +1,16 @@
-# Temps
+# Conjugaison
 
-- [Temps](#temps)
+La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue française, le verbe change de forme avec *le mode*, *le temps*, *la personne* et *le nombre*.
+
+Le **mode** est un trait grammatical qui dénote la manière dont le verbe exprime le fait, qu'il soit état ou action.
+
+En français sept modes verbaux sont employés :
+
+- quatre modes personnels, qui se conjuguent : indicatif, conditionnel, subjonctif et impératif.
+
+- trois modes impersonnels, qui ne se conjuguent pas : infinitif, participe et gérondif.
+
+- [Conjugaison](#conjugaison)
   - [Conditionnel passé](#conditionnel-passé)
   - [Conditionnel présent](#conditionnel-présent)
   - [Futur antérieur](#futur-antérieur)
@@ -14,6 +24,7 @@
   - [Plus-que-parfait](#plus-que-parfait)
   - [Présent de l'indicatif](#présent-de-lindicatif)
   - [Présent progressif](#présent-progressif)
+  - [Subjonctif imparfait](#subjonctif-imparfait)
   - [Subjonctif passé](#subjonctif-passé)
   - [Subjonctif présent](#subjonctif-présent)
   - [Table](#table)
@@ -544,6 +555,10 @@ Nous sommes en train de finir.
 ```
 
 Le présent progressif exprime une action au présent dans sa durée et sa continuité.
+
+## Subjonctif imparfait
+
+
 
 ## Subjonctif passé
 

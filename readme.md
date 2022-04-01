@@ -2,6 +2,7 @@
 
 ## Langue
 
+- [Conjugaison](langue/conjugaison.md)
 - [Complements](langue/complements.md)
 - [Gérondifs](langue/gerondifs.md)
 - [Liens](langue/liens.md)
