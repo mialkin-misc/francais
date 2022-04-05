@@ -138,4 +138,4 @@ Les verbes du 3e groupe ont 3 modèles de terminaisons :
 
 ## Participe passé composé
 
-TBD
+TBD <https://la-conjugaison.nouvelobs.com/regles/conjugaison/participe-passe-1.php>

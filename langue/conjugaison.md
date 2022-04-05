@@ -10,12 +10,30 @@ En français sept modes verbaux sont employés :
 
 - trois modes impersonnels, qui ne se conjuguent pas : infinitif, participe et gérondif.
 
+En français, on distingue deux types de mode :
+
+- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. : l'indicatif, le subjonctif, le conditionnel, l'impératif.
+- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel : l'infinitif, le participe et le gérondif.
+
+Les modes personnels sont au nombre de quatre :
+
+- L'indicatif exprime des actions et des vérités générales.
+- Le subjonctif exprime un souhait, une volonté ou un conseil.
+- Le conditionnel exprime une condition.
+- L'impératif exprime un ordre.
+
+Certaines grammaires tendent à rattacher le conditionnel à l'indicatif et ne le considèrent pas comme un mode à part entière. C'est vrai que sur la forme et le sens, on peut le rapprocher de l'indicatif. Pour des raisons de tradition, nous présentons le conditionnel comme un mode à part entière.
+
+Quant à l'impératif, il comporte une flexion de personne incomplète car il ne se forme pas avec toutes les personnes. "je", "il" et "ils" sont les grands absents de l'impératif.
+
+Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verbe des emplois réservés à d'autres classes tels que les noms ou les adjectifs.
+
 - [Conjugaison](#conjugaison)
   - [Mode indicatif](#mode-indicatif)
     - [Présent](#présent)
     - [Futur simple](#futur-simple)
     - [Futur antérieur](#futur-antérieur)
-  - [Futur proche](#futur-proche)
+    - [Futur proche](#futur-proche)
   - [Mode conditionnel](#mode-conditionnel)
     - [Conditionnel présent](#conditionnel-présent)
     - [Conditionnel passé](#conditionnel-passé)
@@ -30,6 +48,10 @@ En français sept modes verbaux sont employés :
     - [Subjonctif imparfait](#subjonctif-imparfait)
     - [Subjonctif passé](#subjonctif-passé)
     - [Subjonctif présent](#subjonctif-présent)
+  - [Mode participe](#mode-participe)
+    - [Participe présent](#participe-présent)
+    - [Participe passé](#participe-passé)
+    - [Participe passé composé](#participe-passé-composé)
   - [Table](#table)
 
 ## Mode indicatif
@@ -212,7 +234,7 @@ La semaine prochaine nous partirons en vacances.
 
 ### Futur antérieur
 
-Formation : *être* ou *avoir* au [futur simple](#futur-simple) auquel + le participe passé du verbe à conjuguer.
+Formation : *être* ou *avoir* au [futur simple](#futur-simple) + le participe passé du verbe à conjuguer.
 
 Le futur antérieur peut s'employer avec le futur simple pour exprimer une action qui aura lieu avant une seconde action :
 
@@ -228,9 +250,9 @@ Nous serons partis avant six heures du matin.
 Ils auront réalisé un album d'ici lundi.
 ```
 
-## Futur proche
+### Futur proche
 
-Formation : le verbe *aller* au [présent de l'indicatif](#présent) + l'infinitif du verbe à conjuguer :
+Formation : le verbe *aller* au [présent](#présent) + l'infinitif du verbe à conjuguer :
 
 ```text
 Je vais prendre mon train dans cinq minutes.
@@ -694,6 +716,140 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 | Un doute             | Je doute qu'il ait réussi son examen                       |
 | Une possibilité      | Il se peut qu'il pleuve                                    |
 | Une nécessité        | Il est nécessaire que tu prennes de l'argent               |
+
+## Mode participe
+
+### Participe présent
+
+Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un adjectif, et s'accorde alors en genre et en nombre avec son sujet.
+
+Formation:
+
+**1.** Le participe présent a toujours pour suffixe **-ant** et est invariable :
+
+```text
+Ils allaient à l'école en chantant.
+
+Elle allait à l'école en chantant.
+```
+
+**2.** L'adjectif verbal est dérivé du participe présent, mais il s'accorde en genre et en nombre avec le nom qu'il qualifie. L'adjectif verbal a pour suffixes **-ant**, **-ants**, **-ante** et **-antes** :
+
+```text
+Un jeune homme charmant ; des enfants charmants ; une fillette charmante ; des jeunes femmes charmantes.
+```
+
+**3.** Par ailleurs, bien que dérivé du participe présent, l'adjectif verbal peut avoir une écriture différente. Pour la plupart des verbes finissant par **guer** ou **quer**, le **u** est supprimé.
+
+```text
+Naviguant (participe présent) devient navigant (adjectif verbal).
+```
+
+### Participe passé
+
+Le **participe passé** est employé avec l'auxiliaire **être** ou **avoir** dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
+
+```text
+Les bateaux sont rentrés au port.
+
+Nous étions partis ce matin.
+```
+
+Il est utilisé dans la construction du [passé composé](../temps/passé%20composé.md), [plus-que-parfait](../temps/plus-que-parfait.md), [passé antérieur](../temps/passé%20antérieur.md), [futur antérieur](../temps/futur%20antérieur.md) mais aussi dans les temps [conditionnel passé](../temps/conditionnel%20passé.md), [subjonctif passé](../temps/subjonctif%20passé.md) et [subjonctif plus-que-parfait](../temps/subjonctif%20plus-que-parfait.md).
+
+Formation:
+
+Pour construire le participe passé, on rajoute au radical du verbe une terminaison qui dépend du groupe (1er, 2ème ou 3ème) :
+
+<table>
+    <tr>
+        <th>Terminaisons du participe passé</th>
+        <th colspan="2">1er groupe</th>
+        <th colspan="2">2e groupe</th>
+    </tr>
+    <tr>
+        <td>Masculin singulier</td>
+        <td><b>-é</b></td>
+        <td>aimé</td>
+        <td><b>-i</b></td>
+        <td>fini</td>
+    </tr>
+    <tr>
+        <td>Masculin pluriel</td>
+        <td><b>-és</b></td>
+        <td>aimés</td>
+        <td><b>-is</b></td>
+        <td>finis</td>
+    </tr>
+    <tr>
+        <td>Féminin singulier</td>
+        <td><b>-ée</b></td>
+        <td>aimée</td>
+        <td><b>-ie</b></td>
+        <td>finie</td>
+    </tr>
+    <tr>
+        <td>Féminin pluriel</td>
+        <td><b>-ées</b></td>
+        <td>aimées</td>
+        <td><b>-ies</b></td>
+        <td>finies</td>
+    </tr>
+</table>
+
+<br>
+Les verbes du 3e groupe ont 3 modèles de terminaisons :
+<br>
+<br>
+
+<table>
+    <tr>
+        <th>3e groupe</th>
+        <th colspan="2">modèle 1</th>
+        <th colspan="2">modèle 2</th>
+        <th colspan="2">modèle 3</th>
+    </tr>
+    <tr>
+        <td>Masculin singulier</td>
+        <td><b>-s</b></td>
+        <td>pris</td>
+        <td><b>-</b></td>
+        <td>suivi / cuit / vu / fait</td>
+        <td><b>-us</b></td>
+        <td>absous</td>
+    </tr>
+    <tr>
+        <td>Masculin pluriel</td>
+        <td><b>-s</b></td>
+        <td>pris</td>
+        <td><b>-s</b></td>
+        <td>suivis / cuits / vus / faits</td>
+        <td><b>-us</b></td>
+        <td>absous</td>
+    </tr>
+    <tr>
+        <td>Féminin singulier</td>
+        <td><b>-se</b></td>
+        <td>prise</td>
+        <td><b>-e</b></td>
+        <td>suivie / cuite / vue / faite</td>
+        <td><b>-ute</b></td>
+        <td>absoute</td>
+    </tr>
+    <tr>
+        <td>Féminin pluriel</td>
+        <td><b>-ses</b></td>
+        <td>prises</td>
+        <td><b>-es</b></td>
+        <td>suivies / cuites / vues / faites</td>
+        <td><b>-utes</b></td>
+        <td>absoutes</td>
+    </tr>
+</table>
+
+### Participe passé composé
+
+TBD <https://la-conjugaison.nouvelobs.com/regles/conjugaison/participe-passe-1.php>
 
 ## Table
 
