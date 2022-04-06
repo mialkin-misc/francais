@@ -12,8 +12,15 @@ En français sept modes verbaux sont employés :
 
 En français, on distingue deux types de mode :
 
-- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. : l'indicatif, le subjonctif, le conditionnel, l'impératif.
-- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel : l'infinitif, le participe et le gérondif.
+- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. : 
+  - l'indicatif
+  - le subjonctif
+  - le conditionnel
+  - l'impératif
+- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel : 
+  - l'infinitif
+  - le participe
+  - le gérondif
 
 Les modes personnels sont au nombre de quatre :
 
@@ -32,24 +39,25 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
   - [Modes personnels](#modes-personnels)
     - [Mode indicatif](#mode-indicatif)
       - [Présent](#présent)
+      - [Présent progressif](#présent-progressif)
+      - [Imparfait](#imparfait)
+      - [Passé récent](#passé-récent)
+      - [Passé composé](#passé-composé)
+      - [Passé antérieur](#passé-antérieur)
+      - [Plus-que-parfait](#plus-que-parfait)
+      - [Passé simple](#passé-simple)
       - [Futur simple](#futur-simple)
       - [Futur antérieur](#futur-antérieur)
       - [Futur proche](#futur-proche)
     - [Mode conditionnel](#mode-conditionnel)
       - [Conditionnel présent](#conditionnel-présent)
       - [Conditionnel passé](#conditionnel-passé)
-  - [Imparfait](#imparfait)
-  - [Passé antérieur](#passé-antérieur)
-  - [Passé composé](#passé-composé)
-  - [Passé récent](#passé-récent)
-  - [Passé simple](#passé-simple)
-  - [Plus-que-parfait](#plus-que-parfait)
-  - [Présent progressif](#présent-progressif)
     - [Mode subjonctif](#mode-subjonctif)
       - [Subjonctif imparfait](#subjonctif-imparfait)
       - [Subjonctif passé](#subjonctif-passé)
       - [Subjonctif présent](#subjonctif-présent)
   - [Modes impersonnel](#modes-impersonnel)
+    - [Mode infinitif](#mode-infinitif)
     - [Mode participe](#mode-participe)
       - [Participe présent](#participe-présent)
       - [Participe passé](#participe-passé)
@@ -182,7 +190,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-Les auxiliaries _avoir_, _être_, _faire_ :
+Les auxiliaries *avoir*, *être*, *faire* :
 
 |                | avoir | être   | faire   |
 | -------------- | ----- | ------ | ------- |
@@ -206,6 +214,251 @@ On peut l'utiliser pour raconter un fait passé « comme si on y était » ou po
 ```text
 La Terre tourne autour du Soleil.
 ```
+
+#### Présent progressif
+
+Formation : l'auxiliaire *être* au [présent](#présent) + *en train de/d* + verbe à l'infinitif.
+
+```text
+Je suis en train de travailler.
+Nous sommes en train de finir.
+```
+
+Le présent progressif exprime une action au présent dans sa durée et sa continuité.
+
+#### Imparfait
+
+Formations : le radical du verbe à la première personne du pluriel au [présent](#présent) + la terminaison de l'imparfait.
+
+|                |            | I groupe | II groupe   | III groupe |
+| -------------- | ---------- | -------- | ----------- | ---------- |
+| je / j'        | -**ais**   | aimais   | finissais   | mettais    |
+| tu             | -**ais**   | aimais   | finissais   | mettais    |
+| il / elle / on | -**ait**   | aimait   | finissait   | mettait    |
+| nous           | -**ions**  | aimions  | finissions  | mettions   |
+| vous           | -**iez**   | aimiez   | finissiez   | mettiez    |
+| ils / elles    | -**aient** | aimaient | finissaient | mettaient  |
+
+Formes de certains verbes de troisième groupe :
+
+|                | avoir   | être    |
+| -------------- | ------- | ------- |
+| je / j'        | avais   | étais   |
+| tu             | avais   | étais   |
+| il / elle / on | avait   | était   |
+| nous           | avions  | étions  |
+| vous           | aviez   | étiez   |
+| ils / elles    | avaient | étaient |
+
+```text
+Quand tu étais enfant, tu étais timide.
+Elle occupait un poste dans l'administration.
+Le midi, il mangeait dans le parc.
+Tous les jours, elle nettoyait les meubles.
+```
+
+L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage.
+
+#### Passé récent
+
+Formation : le verbe *venir* au [présent](#présent) + « de/d' » + verbe à l'infinitif.
+
+```text
+Je viens de téléphoner à ma mère.
+Vous venez d'arriver.
+Le train vient de partir.
+```
+
+Pour insister sur la proximité du passé et du présent, on peut ajouter l'adverbe **juste** :
+
+```text
+Le train vient juste de partir.
+Vous venez juste de finir votre contrat.
+```
+
+Le passé récent exprime une action dans le passé qui est proche du moment où l'on parle.
+
+#### Passé composé
+
+Formation : l'auxiliaire *être* ou *avoir* au [présent](#présent) + [le participe passé](#participe-passé) du verbe à conjuguer.
+
+```text
+Nous avons mangé.
+Elles sont arrivées.
+```
+
+Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons.
+
+#### Passé antérieur
+
+Formation : l'auxiliaire *être* ou *avoir* au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
+
+```text
+Dès qu'il eut fini de parler, il partit.
+J'eus été.
+Quand il eut fini, il hurla !
+```
+
+Le passé antérieur est utilisé le plus souvent avec le passé simple pour exprimer l'antériorité d'une action.
+
+#### Plus-que-parfait
+
+Formations : [l'imparfait](#imparfait) de *avoir* ou de *être* + [participe passé](participes.md#participe-passé).
+
+```text
+Quand j'avais dîné, j'allais me promener.
+```
+
+Formes des verbes *avoir* et *être* :
+
+|                | avoir      | être        |
+| -------------- | ---------- | ----------- |
+| je / j'        | avais eu   | avais été   |
+| tu             | avais eu   | avais été   |
+| il / elle / on | avait eu   | avait été   |
+| nous           | avions eu  | avions été  |
+| vous           | aviez eu   | aviez été   |
+| ils / elles    | avaient eu | avaient été |
+
+Le plus-que-parfait marque une action passée ayant eu lieu avant une autre également passée quand celle-ci s'exprime à l'imparfait.
+
+#### Passé simple
+
+Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe.
+
+```text
+Soudain, le cycliste chuta par terre.
+Le Général de Gaulle vécut 80 ans.
+L’année dernière, je partis en vacances en France.
+```
+
+<table>
+    <tr>
+        <td></td>
+        <td colspan="2"><b>I groupe</b></td>
+        <td colspan="2"><b>II groupe</b></td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td><b>-ai</b></td>
+        <td>aimai</td>
+        <td><b>-is</b</td>
+        <td>finis</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td><b>-as</b></td>
+        <td>aimas</td>
+        <td><b>-is</b></td>
+        <td>finis</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td><b>-a</b></td>
+        <td>aima</td>
+        <td><b>-it</b></td>
+        <td>finit</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td><b>-âmes</b></td>
+        <td>aimâmes</td>
+        <td><b>-îmes</b></td>
+        <td>finîmes</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td><b>-âtes</b></td>
+        <td>aimâtes</td>
+        <td><b>-îtes</b></td>
+        <td>finîtes</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td><b>-èrent</b></td>
+        <td>aimèrent</td>
+        <td><b>-irent</b></td>
+        <td>finirent</td>
+    </tr>
+</table>
+
+Les verbes du III groupe ont 3 modèles de terminaisons :
+
+<table>
+    <tr>
+        <td>Passé simple de l'indicatif</td>
+        <td colspan="2"><b>modèle 1</b></td>
+        <td colspan="2"><b>modèle 2</b></td>
+        <td colspan="2"><b>modèle 3</b></td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td><b>-is</b></td>
+        <td>pris</td>
+        <td><b>-us</b</td>
+        <td>crus</td>
+        <td><b>-ins</b</td>
+        <td>vins</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td><b>-is</b></td>
+        <td>pris</td>
+        <td><b>-us</b></td>
+        <td>crus</td>
+        <td><b>-ins</b></td>
+        <td>vins</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td><b>-it</b></td>
+        <td>prit</td>
+        <td><b>-ut</b></td>
+        <td>crut</td>
+        <td><b>-int</b></td>
+        <td>vint</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td><b>-îmes</b></td>
+        <td>prîmes</td>
+        <td><b>-ûmes</b></td>
+        <td>crûmes</td>
+        <td><b>-înmes</b></td>
+        <td>vînmes</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td><b>-îtes</b></td>
+        <td>prîtes</td>
+        <td><b>-ûtes</b></td>
+        <td>crûtes</td>
+        <td><b>-întes</b></td>
+        <td>vîntes</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td><b>-irent</b></td>
+        <td>prirent</td>
+        <td><b>-urent</b></td>
+        <td>crurent</td>
+        <td><b>-inrent</b></td>
+        <td>vinrent</td>
+    </tr>
+</table>
+
+Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former [le passé antérieur](#passé-antérieur) de tous les autres verbes :
+
+|                | avoir  | être   |
+| -------------- | ------ | ------ |
+| te / j'        | eus    | fus    |
+| tu             | eus    | fus    |
+| il / elle / on | eut    | fut    |
+| nous           | eûmes  | fûmes  |
+| vous           | eûtes  | fûtes  |
+| ils / elles    | eurent | furent |
+
+Le passé simple exprime une action achevée du passé, le plus souvent une action brève.
 
 #### Futur simple
 
@@ -347,251 +600,6 @@ Nous aurions voulu rentrer plus tôt.
 
 Le conditionnel passé peut servir à exprimer un reproche ou un regret.
 
-## Imparfait
-
-Formations : le radical du verbe à la première personne du pluriel au présent + la terminaison de [l'imparfait](#imparfait).
-
-|                |            | I groupe | II groupe   | III groupe |
-| -------------- | ---------- | -------- | ----------- | ---------- |
-| je / j'        | -**ais**   | aimais   | finissais   | mettais    |
-| tu             | -**ais**   | aimais   | finissais   | mettais    |
-| il / elle / on | -**ait**   | aimait   | finissait   | mettait    |
-| nous           | -**ions**  | aimions  | finissions  | mettions   |
-| vous           | -**iez**   | aimiez   | finissiez   | mettiez    |
-| ils / elles    | -**aient** | aimaient | finissaient | mettaient  |
-
-Formes de certains verbes de troisième groupe :
-
-|                | avoir   | être    |
-| -------------- | ------- | ------- |
-| je / j'        | avais   | étais   |
-| tu             | avais   | étais   |
-| il / elle / on | avait   | était   |
-| nous           | avions  | étions  |
-| vous           | aviez   | étiez   |
-| ils / elles    | avaient | étaient |
-
-```text
-Quand tu étais enfant, tu étais timide.
-Elle occupait un poste dans l'administration.
-Le midi, il mangeait dans le parc.
-Tous les jours, elle nettoyait les meubles.
-```
-
-L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nous nous exprimons mais qui peut encore se dérouler. L'imparfait est souvent utilisé pour décrire une scène, un paysage.
-
-## Passé antérieur
-
-Formation : l'auxiliaire *être* ou *avoir* au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
-
-```text
-Dès qu'il eut fini de parler, il partit.
-J'eus été.
-Quand il eut fini, il hurla !
-```
-
-Le passé antérieur est utilisé le plus souvent avec le passé simple pour exprimer l'antériorité d'une action.
-
-## Passé composé
-
-Formation : l'auxiliaire *être* ou *avoir* au [présent de l'indicatif](#présent-de-lindicatif) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
-
-```text
-Nous avons mangé.
-Elles sont arrivées.
-```
-
-Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons.
-
-## Passé récent
-
-Formation : le verbe *venir* au [présent de l'indicatif](#présent-de-lindicatif) + « de/d' » + verbe à l'infinitif.
-
-```text
-Je viens de téléphoner à ma mère.
-Vous venez d'arriver.
-Le train vient de partir.
-```
-
-Pour insister sur la proximité du passé et du présent, on peut ajouter l'adverbe **juste** :
-
-```text
-Le train vient juste de partir.
-Vous venez juste de finir votre contrat.
-```
-
-Le passé récent exprime une action dans le passé qui est proche du moment où l'on parle.
-
-## Passé simple
-
-Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe.
-
-```text
-Soudain, le cycliste chuta par terre.
-Le Général de Gaulle vécut 80 ans.
-L’année dernière, je partis en vacances en France.
-```
-
-<table>
-    <tr>
-        <td></td>
-        <td colspan="2"><b>I groupe</b></td>
-        <td colspan="2"><b>II groupe</b></td>
-    </tr>
-    <tr>
-        <td>je / j'</td>
-        <td><b>-ai</b></td>
-        <td>aimai</td>
-        <td><b>-is</b</td>
-        <td>finis</td>
-    </tr>
-    <tr>
-        <td>tu</td>
-        <td><b>-as</b></td>
-        <td>aimas</td>
-        <td><b>-is</b></td>
-        <td>finis</td>
-    </tr>
-    <tr>
-        <td>il / elle / on</td>
-        <td><b>-a</b></td>
-        <td>aima</td>
-        <td><b>-it</b></td>
-        <td>finit</td>
-    </tr>
-    <tr>
-        <td>nous</td>
-        <td><b>-âmes</b></td>
-        <td>aimâmes</td>
-        <td><b>-îmes</b></td>
-        <td>finîmes</td>
-    </tr>
-    <tr>
-        <td>vous</td>
-        <td><b>-âtes</b></td>
-        <td>aimâtes</td>
-        <td><b>-îtes</b></td>
-        <td>finîtes</td>
-    </tr>
-    <tr>
-        <td>ils / elles</td>
-        <td><b>-èrent</b></td>
-        <td>aimèrent</td>
-        <td><b>-irent</b></td>
-        <td>finirent</td>
-    </tr>
-</table>
-
-Les verbes du III groupe ont 3 modèles de terminaisons :
-
-<table>
-    <tr>
-        <td>Passé simple de l'indicatif</td>
-        <td colspan="2"><b>modèle 1</b></td>
-        <td colspan="2"><b>modèle 2</b></td>
-        <td colspan="2"><b>modèle 3</b></td>
-    </tr>
-    <tr>
-        <td>je / j'</td>
-        <td><b>-is</b></td>
-        <td>pris</td>
-        <td><b>-us</b</td>
-        <td>crus</td>
-        <td><b>-ins</b</td>
-        <td>vins</td>
-    </tr>
-    <tr>
-        <td>tu</td>
-        <td><b>-is</b></td>
-        <td>pris</td>
-        <td><b>-us</b></td>
-        <td>crus</td>
-        <td><b>-ins</b></td>
-        <td>vins</td>
-    </tr>
-    <tr>
-        <td>il / elle / on</td>
-        <td><b>-it</b></td>
-        <td>prit</td>
-        <td><b>-ut</b></td>
-        <td>crut</td>
-        <td><b>-int</b></td>
-        <td>vint</td>
-    </tr>
-    <tr>
-        <td>nous</td>
-        <td><b>-îmes</b></td>
-        <td>prîmes</td>
-        <td><b>-ûmes</b></td>
-        <td>crûmes</td>
-        <td><b>-înmes</b></td>
-        <td>vînmes</td>
-    </tr>
-    <tr>
-        <td>vous</td>
-        <td><b>-îtes</b></td>
-        <td>prîtes</td>
-        <td><b>-ûtes</b></td>
-        <td>crûtes</td>
-        <td><b>-întes</b></td>
-        <td>vîntes</td>
-    </tr>
-    <tr>
-        <td>ils / elles</td>
-        <td><b>-irent</b></td>
-        <td>prirent</td>
-        <td><b>-urent</b></td>
-        <td>crurent</td>
-        <td><b>-inrent</b></td>
-        <td>vinrent</td>
-    </tr>
-</table>
-
-Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former [le passé antérieur](#passé-antérieur) de tous les autres verbes :
-
-|                | avoir  | être   |
-| -------------- | ------ | ------ |
-| te / j'        | eus    | fus    |
-| tu             | eus    | fus    |
-| il / elle / on | eut    | fut    |
-| nous           | eûmes  | fûmes  |
-| vous           | eûtes  | fûtes  |
-| ils / elles    | eurent | furent |
-
-Le passé simple exprime une action achevée du passé, le plus souvent une action brève.
-
-## Plus-que-parfait
-
-Formations : [l'imparfait](#imparfait) de *avoir* ou de *être* + [participe passé](participes.md#participe-passé).
-
-```text
-Quand j'avais dîné, j'allais me promener.
-```
-
-Formes des verbes *avoir* et *être* :
-
-|                | avoir      | être        |
-| -------------- | ---------- | ----------- |
-| je / j'        | avais eu   | avais été   |
-| tu             | avais eu   | avais été   |
-| il / elle / on | avait eu   | avait été   |
-| nous           | avions eu  | avions été  |
-| vous           | aviez eu   | aviez été   |
-| ils / elles    | avaient eu | avaient été |
-
-Le plus-que-parfait marque une action passée ayant eu lieu avant une autre également passée quand celle-ci s'exprime à l'imparfait.
-
-## Présent progressif
-
-Formation : l'auxiliaire *être* au [présent](#présent) + *en train de/d* + verbe à l'infinitif.
-
-```text
-Je suis en train de travailler.
-Nous sommes en train de finir.
-```
-
-Le présent progressif exprime une action au présent dans sa durée et sa continuité.
-
 ### Mode subjonctif
 
 #### Subjonctif imparfait
@@ -697,7 +705,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
     </tr>
 </table>
 
-Formes des verbes _être_ et _avoir_ :
+Formes des verbes *être* et *avoir* :
 
 |               | avoir | être   |
 | ------------- | ----- | ------ |
@@ -725,6 +733,8 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 | Une nécessité        | Il est nécessaire que tu prennes de l'argent               |
 
 ## Modes impersonnel
+
+### Mode infinitif
 
 ### Mode participe
 
