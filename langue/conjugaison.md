@@ -29,14 +29,15 @@ Quant à l'impératif, il comporte une flexion de personne incomplète car il ne
 Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verbe des emplois réservés à d'autres classes tels que les noms ou les adjectifs.
 
 - [Conjugaison](#conjugaison)
-  - [Mode indicatif](#mode-indicatif)
-    - [Présent](#présent)
-    - [Futur simple](#futur-simple)
-    - [Futur antérieur](#futur-antérieur)
-    - [Futur proche](#futur-proche)
-  - [Mode conditionnel](#mode-conditionnel)
-    - [Conditionnel présent](#conditionnel-présent)
-    - [Conditionnel passé](#conditionnel-passé)
+  - [Modes personnels](#modes-personnels)
+    - [Mode indicatif](#mode-indicatif)
+      - [Présent](#présent)
+      - [Futur simple](#futur-simple)
+      - [Futur antérieur](#futur-antérieur)
+      - [Futur proche](#futur-proche)
+    - [Mode conditionnel](#mode-conditionnel)
+      - [Conditionnel présent](#conditionnel-présent)
+      - [Conditionnel passé](#conditionnel-passé)
   - [Imparfait](#imparfait)
   - [Passé antérieur](#passé-antérieur)
   - [Passé composé](#passé-composé)
@@ -44,19 +45,22 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
   - [Passé simple](#passé-simple)
   - [Plus-que-parfait](#plus-que-parfait)
   - [Présent progressif](#présent-progressif)
-  - [Subjonctif](#subjonctif)
-    - [Subjonctif imparfait](#subjonctif-imparfait)
-    - [Subjonctif passé](#subjonctif-passé)
-    - [Subjonctif présent](#subjonctif-présent)
-  - [Mode participe](#mode-participe)
-    - [Participe présent](#participe-présent)
-    - [Participe passé](#participe-passé)
-    - [Participe passé composé](#participe-passé-composé)
+    - [Mode subjonctif](#mode-subjonctif)
+      - [Subjonctif imparfait](#subjonctif-imparfait)
+      - [Subjonctif passé](#subjonctif-passé)
+      - [Subjonctif présent](#subjonctif-présent)
+  - [Modes impersonnel](#modes-impersonnel)
+    - [Mode participe](#mode-participe)
+      - [Participe présent](#participe-présent)
+      - [Participe passé](#participe-passé)
+      - [Participe passé composé](#participe-passé-composé)
   - [Table](#table)
 
-## Mode indicatif
+## Modes personnels
 
-### Présent
+### Mode indicatif
+
+#### Présent
 
 Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
@@ -200,7 +204,7 @@ On peut l'utiliser pour raconter un fait passé « comme si on y était » ou po
 La Terre tourne autour du Soleil.
 ```
 
-### Futur simple
+#### Futur simple
 
 Formation : les terminaisons du futur simple sont les mêmes pour tous les verbes.
 
@@ -232,7 +236,7 @@ Le futur simple exprime un fait ou une action qui se déroulera plus tard, elle 
 La semaine prochaine nous partirons en vacances.
 ```
 
-### Futur antérieur
+#### Futur antérieur
 
 Formation : *être* ou *avoir* au [futur simple](#futur-simple) + le participe passé du verbe à conjuguer.
 
@@ -250,7 +254,7 @@ Nous serons partis avant six heures du matin.
 Ils auront réalisé un album d'ici lundi.
 ```
 
-### Futur proche
+#### Futur proche
 
 Formation : le verbe *aller* au [présent](#présent) + l'infinitif du verbe à conjuguer :
 
@@ -262,9 +266,9 @@ Nous allons rentrer en début d'après-midi.
 
 Le futur proche exprime une action qui va se dérouler très prochainement.
 
-## Mode conditionnel
+### Mode conditionnel
 
-### Conditionnel présent
+#### Conditionnel présent
 
 Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison de [l'imparfait](#imparfait).
 
@@ -327,9 +331,9 @@ Le conditionnel présent peut servir à atténuer une demande.
     </tr>
 </table>
 
-### Conditionnel passé
+#### Conditionnel passé
 
-Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
+Formation : *être* ou *avoir* au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
 
 ```text
 Tu aurais pu nous le dire.
@@ -375,7 +379,7 @@ L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nou
 
 ## Passé antérieur
 
-Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
+Formation : l'auxiliaire *être* ou *avoir* au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
 
 ```text
 Dès qu'il eut fini de parler, il partit.
@@ -387,7 +391,7 @@ Le passé antérieur est utilisé le plus souvent avec le passé simple pour exp
 
 ## Passé composé
 
-Formation : l'auxiliaire _être_ ou _avoir_ au [présent de l'indicatif](#présent-de-lindicatif) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
+Formation : l'auxiliaire *être* ou *avoir* au [présent de l'indicatif](#présent-de-lindicatif) + le [participe passé](../participes/participe%20passé.md) du verbe à conjuguer.
 
 ```text
 Nous avons mangé.
@@ -398,7 +402,7 @@ Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment 
 
 ## Passé récent
 
-Formation : le verbe _venir_ au [présent de l'indicatif](#présent-de-lindicatif) + « de/d' » + verbe à l'infinitif.
+Formation : le verbe *venir* au [présent de l'indicatif](#présent-de-lindicatif) + « de/d' » + verbe à l'infinitif.
 
 ```text
 Je viens de téléphoner à ma mère.
@@ -540,7 +544,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-Les auxiliaires ont une conjugaison qu'il faut maitriser car ils permettent de former [le passé antérieur](#passé-antérieur) de tous les autres verbes :
+Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former [le passé antérieur](#passé-antérieur) de tous les autres verbes :
 
 |                | avoir  | être   |
 | -------------- | ------ | ------ |
@@ -555,13 +559,13 @@ Le passé simple exprime une action achevée du passé, le plus souvent une acti
 
 ## Plus-que-parfait
 
-Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + [participe passé](participes.md#participe-passé).
+Formations : [l'imparfait](#imparfait) de *avoir* ou de *être* + [participe passé](participes.md#participe-passé).
 
 ```text
 Quand j'avais dîné, j'allais me promener.
 ```
 
-Formes des verbes _avoir_ et _être_ :
+Formes des verbes *avoir* et *être* :
 
 |                | avoir      | être        |
 | -------------- | ---------- | ----------- |
@@ -576,7 +580,7 @@ Le plus-que-parfait marque une action passée ayant eu lieu avant une autre éga
 
 ## Présent progressif
 
-Formation : l'auxiliaire *être* au [présent de l'indicatif](#présent-de-lindicatif) + *en train de/d* + verbe à l'infinitif.
+Formation : l'auxiliaire *être* au [présent](#présent) + *en train de/d* + verbe à l'infinitif.
 
 ```text
 Je suis en train de travailler.
@@ -585,11 +589,11 @@ Nous sommes en train de finir.
 
 Le présent progressif exprime une action au présent dans sa durée et sa continuité.
 
-## Subjonctif
+### Mode subjonctif
 
-### Subjonctif imparfait
+#### Subjonctif imparfait
 
-### Subjonctif passé
+#### Subjonctif passé
 
 Formation : l'auxiliaire *être* ou *avoir* au [subjonctif présent](#subjonctif-présent) + le participe passé du verbe à conjuguer :
 
@@ -613,7 +617,7 @@ Je doute que tu aies été surpris par cette nouvelle.
 
 Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons.
 
-### Subjonctif présent
+#### Subjonctif présent
 
 Formation : *que* + sujet + verbe au subjonctif.
 
@@ -717,9 +721,11 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 | Une possibilité      | Il se peut qu'il pleuve                                    |
 | Une nécessité        | Il est nécessaire que tu prennes de l'argent               |
 
-## Mode participe
+## Modes impersonnel
 
-### Participe présent
+### Mode participe
+
+#### Participe présent
 
 Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un adjectif, et s'accorde alors en genre et en nombre avec son sujet.
 
@@ -745,7 +751,7 @@ Un jeune homme charmant ; des enfants charmants ; une fillette charmante ; des j
 Naviguant (participe présent) devient navigant (adjectif verbal).
 ```
 
-### Participe passé
+#### Participe passé
 
 Le **participe passé** est employé avec l'auxiliaire **être** ou **avoir** dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
 
@@ -847,7 +853,7 @@ Les verbes du 3e groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-### Participe passé composé
+#### Participe passé composé
 
 TBD <https://la-conjugaison.nouvelobs.com/regles/conjugaison/participe-passe-1.php>
 
