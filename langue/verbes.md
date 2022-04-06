@@ -106,16 +106,16 @@ Avec `être` se conjuguent :
 18. échoir (échu) — выпадать на долю; случаться; доставаться
 19. ressortir (ressorti) — в значении «снова выходить; выступать, выделяться; вытекать, следовать» (с глаголом avoir, если имеет значение «быть подсудным» или «относиться, принадлежать»)
 20. demeurer (demeuré) — в значении «оставаться, пребывать» (с глаголом avoir, если имеет значение «жить, проживать»)
-21. entrer¤ (entré) — войти
-22. rentrer¤ (rentré) — возвратиться
-23. retourner¤ (retourné) — возвратиться
-24. descendre¤ (descendu) — спускаться
-25. monter¤ (monté) — подниматься
-26. sortir¤ (sorti) — выходить
-27. passer¤ (passé) — проходить
-28. repasser¤ (repassé) — снова проходить, проезжать; возвращаться
+21. entrer\* (entré) — войти
+22. rentrer\* (rentré) — возвратиться
+23. retourner\* (retourné) — возвратиться
+24. descendre\* (descendu) — спускаться
+25. monter\* (monté) — подниматься
+26. sortir\* (sorti) — выходить
+27. passer\* (passé) — проходить
+28. repasser\* (repassé) — снова проходить, проезжать; возвращаться
 
-Les verbes marqués avec `¤` sont conjugués au `avoir` s'ils sont suivis d'un [COD](../complements/cod.md) dans la phrase. Dans ce cas, le sens du verbe change :
+Les verbes marqués avec `*` sont conjugués au `avoir` s'ils sont suivis d'un [COD](../complements/cod.md) dans la phrase. Dans ce cas, le sens du verbe change :
 
 ```text
 Je suis monté au grenier. — Я поднялся на чердак.
