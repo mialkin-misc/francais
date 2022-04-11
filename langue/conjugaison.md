@@ -4,20 +4,14 @@ La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue 
 
 Le **mode** est un trait grammatical qui dénote la manière dont le verbe exprime le fait, qu'il soit état ou action.
 
-En français sept modes verbaux sont employés :
+Il y a sept modes verbaux en français, qui appartiennent à deux groupes :
 
-- quatre modes personnels, qui se conjuguent : indicatif, conditionnel, subjonctif et impératif.
-
-- trois modes impersonnels, qui ne se conjuguent pas : infinitif, participe et gérondif.
-
-En français, on distingue deux types de mode :
-
-- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. : 
+- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. :
   - l'indicatif
-  - le subjonctif
   - le conditionnel
+  - le subjonctif
   - l'impératif
-- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel : 
+- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel :
   - l'infinitif
   - le participe
   - le gérondif
@@ -43,9 +37,9 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
       - [Imparfait](#imparfait)
       - [Passé récent](#passé-récent)
       - [Passé composé](#passé-composé)
-      - [Passé antérieur](#passé-antérieur)
       - [Plus-que-parfait](#plus-que-parfait)
       - [Passé simple](#passé-simple)
+      - [Passé antérieur](#passé-antérieur)
       - [Futur simple](#futur-simple)
       - [Futur antérieur](#futur-antérieur)
       - [Futur proche](#futur-proche)
@@ -53,11 +47,17 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
       - [Conditionnel présent](#conditionnel-présent)
       - [Conditionnel passé](#conditionnel-passé)
     - [Mode subjonctif](#mode-subjonctif)
-      - [Subjonctif imparfait](#subjonctif-imparfait)
-      - [Subjonctif passé](#subjonctif-passé)
       - [Subjonctif présent](#subjonctif-présent)
+      - [Subjonctif passé](#subjonctif-passé)
+      - [Subjonctif imparfait](#subjonctif-imparfait)
+      - [Subjonctif plus-que-parfait](#subjonctif-plus-que-parfait)
+    - [Mode impératif](#mode-impératif)
+      - [Impératif présent](#impératif-présent)
+      - [Impératif passé](#impératif-passé)
   - [Modes impersonnel](#modes-impersonnel)
     - [Mode infinitif](#mode-infinitif)
+      - [Infinitif présent](#infinitif-présent)
+      - [Infinitif passé](#infinitif-passé)
     - [Mode participe](#mode-participe)
       - [Participe présent](#participe-présent)
       - [Participe passé](#participe-passé)
@@ -289,18 +289,6 @@ Elles sont arrivées.
 
 Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment où nous nous exprimons.
 
-#### Passé antérieur
-
-Formation : l'auxiliaire *être* ou *avoir* au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
-
-```text
-Dès qu'il eut fini de parler, il partit.
-J'eus été.
-Quand il eut fini, il hurla !
-```
-
-Le passé antérieur est utilisé le plus souvent avec le passé simple pour exprimer l'antériorité d'une action.
-
 #### Plus-que-parfait
 
 Formations : [l'imparfait](#imparfait) de *avoir* ou de *être* + [participe passé](participes.md#participe-passé).
@@ -460,6 +448,18 @@ Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de 
 
 Le passé simple exprime une action achevée du passé, le plus souvent une action brève.
 
+#### Passé antérieur
+
+Formation : l'auxiliaire *être* ou *avoir* au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
+
+```text
+Dès qu'il eut fini de parler, il partit.
+J'eus été.
+Quand il eut fini, il hurla !
+```
+
+Le passé antérieur est utilisé le plus souvent avec le passé simple pour exprimer l'antériorité d'une action.
+
 #### Futur simple
 
 Formation : les terminaisons du futur simple sont les mêmes pour tous les verbes.
@@ -602,32 +602,6 @@ Le conditionnel passé peut servir à exprimer un reproche ou un regret.
 
 ### Mode subjonctif
 
-#### Subjonctif imparfait
-
-#### Subjonctif passé
-
-Formation : l'auxiliaire *être* ou *avoir* au [subjonctif présent](#subjonctif-présent) + le participe passé du verbe à conjuguer :
-
-```text
-Je ne crois pas qu'elle ait acheté ce véhicule.
-Il faut qu'ils soient partis avant midi.
-Je doute qu'ils aient écrit ces lettres.
-```
-
-Avec les verbes pronominaux on emploie toujours l'auxiliaire *être* :
-
-```text
-Je ne crois pas qu'ils se soient lavés.
-```
-
-A la voix passive on utilisera l'auxiliaire *être* au subjonctif passé :
-
-```text
-Je doute que tu aies été surpris par cette nouvelle.
-```
-
-Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons.
-
 #### Subjonctif présent
 
 Formation : *que* + sujet + verbe au subjonctif.
@@ -732,9 +706,47 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 | Une possibilité      | Il se peut qu'il pleuve                                    |
 | Une nécessité        | Il est nécessaire que tu prennes de l'argent               |
 
+#### Subjonctif passé
+
+Formation : l'auxiliaire *être* ou *avoir* au [subjonctif présent](#subjonctif-présent) + le participe passé du verbe à conjuguer :
+
+```text
+Je ne crois pas qu'elle ait acheté ce véhicule.
+Il faut qu'ils soient partis avant midi.
+Je doute qu'ils aient écrit ces lettres.
+```
+
+Avec les verbes pronominaux on emploie toujours l'auxiliaire *être* :
+
+```text
+Je ne crois pas qu'ils se soient lavés.
+```
+
+A la voix passive on utilisera l'auxiliaire *être* au subjonctif passé :
+
+```text
+Je doute que tu aies été surpris par cette nouvelle.
+```
+
+Le subjonctif passé exprime une action incertaine, supposée réalisée au moment où nous nous exprimons.
+
+#### Subjonctif imparfait
+
+#### Subjonctif plus-que-parfait
+
+### Mode impératif
+
+#### Impératif présent
+
+#### Impératif passé
+
 ## Modes impersonnel
 
 ### Mode infinitif
+
+#### Infinitif présent
+
+#### Infinitif passé
 
 ### Mode participe
 
