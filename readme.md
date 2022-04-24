@@ -4,10 +4,10 @@
 
 - [Conjugaison](langue/conjugaison.md)
 - [Complements](langue/complements.md)
-- [Liens](langue/liens.md)
 - [Ponctuation](langue/ponctuation.md)
 - [Pronoms](langue/pronoms.md)
 - [Verbes](langue/verbes.md)
+- [Liens](langue/liens.md)
 
 ## Divers
 

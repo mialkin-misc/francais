@@ -1,9 +1,9 @@
 # Pronoms
 
-## TOC
+## Sommaire
 
 - [Pronoms](#pronoms)
-  - [TOC](#toc)
+  - [Sommaire](#sommaire)
   - [en](#en)
   - [y](#y)
 

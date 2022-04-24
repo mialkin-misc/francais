@@ -29,7 +29,10 @@ Quant à l'impératif, il comporte une flexion de personne incomplète car il ne
 
 Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verbe des emplois réservés à d'autres classes tels que les noms ou les adjectifs.
 
+## Sommaire
+
 - [Conjugaison](#conjugaison)
+  - [Sommaire](#sommaire)
   - [Modes personnels](#modes-personnels)
     - [Mode indicatif](#mode-indicatif)
       - [Présent](#présent)
@@ -65,7 +68,7 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
     - [Mode gérondif](#mode-gérondif)
       - [Gérondif présent](#gérondif-présent)
       - [Gérondif passé](#gérondif-passé)
-  - [Table](#table)
+  - [Table des langues](#table-des-langues)
 
 ## Modes personnels
 
@@ -194,7 +197,7 @@ Les auxiliaries *avoir*, *être*, *faire* :
 
 |                | avoir | être   | faire   |
 | -------------- | ----- | ------ | ------- |
-| te / j'        | ai    | suis   | fais    |
+| je / j'        | ai    | suis   | fais    |
 | tu             | as    | es     | fais    |
 | il / elle / on | a     | est    | fait    |
 | nous           | avons | sommes | faisons |
@@ -439,7 +442,7 @@ Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de 
 
 |                | avoir  | être   |
 | -------------- | ------ | ------ |
-| te / j'        | eus    | fus    |
+| je / j'        | eus    | fus    |
 | tu             | eus    | fus    |
 | il / elle / on | eut    | fut    |
 | nous           | eûmes  | fûmes  |
@@ -918,6 +921,6 @@ C'est une forme composée : on utilise [le participe présent](../participes/par
 Ayant vendu notre voiture, nous ne pourrons pas venir.
 ```
 
-## Table
+## Table des langues
 
 <img src="temps.jpg" />
