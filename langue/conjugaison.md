@@ -231,7 +231,7 @@ Le présent progressif exprime une action au présent dans sa durée et sa conti
 
 #### Imparfait
 
-Formations : le radical du verbe à la première personne du pluriel au [présent](#présent) + la terminaison de l'imparfait.
+Formation : le radical du verbe à la première personne du pluriel au [présent](#présent) + la terminaison de l'imparfait.
 
 |                |            | I groupe | II groupe   | III groupe |
 | -------------- | ---------- | -------- | ----------- | ---------- |
@@ -294,7 +294,7 @@ Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment 
 
 #### Plus-que-parfait
 
-Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + le [participe passé](#participe-passé).
+Formation : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + le [participe passé](#participe-passé).
 
 ```text
 Quand j'avais dîné, j'allais me promener.
@@ -749,7 +749,49 @@ Le subjonctif passé exprime une action incertaine, supposée réalisée au mome
 
 #### Infinitif présent
 
+L'infinitif présent du verbe est sa forme nominale, c'est à dire sans conjugaison — ni personne, ni nombre, ni temps :
+
+```text
+Manger ; finir ; prendre ; être ; avoir.
+```
+
+Son emploi est très étendu et sa fonction grammaticale très variée. Il sert souvent à utiliser un verbe à la place d'un nom :
+
+```text
+Je vais casser les œufs.
+Lire est indispensable.
+Il espère répondre rapidement.
+J'ai un cours à donner.
+```
+
 #### Infinitif passé
+
+Formation : l'auxiliaire *être* ou *avoir* à l'[infinitif présent](#infinitif-présent) + le [participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé :
+
+```text
+Après être arrivés, nous avons téléphoné à nos amis.
+Nous regrettons d'avoir vendu notre voiture.
+```
+
+L'infinitif passé est une forme conjuguée indiquant une notion d'antériorité. Quand il y a deux actions au passé dans une phrase, on utilise l’infinitif passé pour décrire l’action qui se déroule en premier :
+
+```text
+Après avoir fermé les volets, Victor monta se coucher.
+Je suis désolé de ne pas être venu hier.
+```
+
+L’infinitif passé est utilisé pour une action terminée alors que l’[infinitif présent](#infinitif-présent) est employé pour une action en cours ou à venir :
+
+```text
+C’est une bonne idée d’aller au cinéma (= nous allons au cinéma maintenant).
+C’est une bonne idée d’être allés au cinéma (= nous sommes déjà allés au cinéma).
+```
+
+On utilise l’infinitif passé quand le sujet est identique pour les deux actions car le répéter n’est pas naturel :
+
+```text
+Je pensais avoir fermé la porte à clef (plutôt que je pensais que j’avais fermé la porte à clef).
+```
 
 ### Mode participe
 
