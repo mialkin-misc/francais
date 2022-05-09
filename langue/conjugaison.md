@@ -283,7 +283,7 @@ Le passé récent exprime une action dans le passé qui est proche du moment où
 
 #### Passé composé
 
-Formation : l'auxiliaire _être_ ou _avoir_ au [présent](#présent) + [le participe passé](#participe-passé) du verbe à conjuguer.
+Formation : l'auxiliaire _être_ ou _avoir_ au [présent](#présent) + le [participe passé](#participe-passé) du verbe à conjuguer.
 
 ```text
 Nous avons mangé.
@@ -294,7 +294,7 @@ Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment 
 
 #### Plus-que-parfait
 
-Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + [participe passé](participes.md#participe-passé).
+Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + le [participe passé](#participe-passé).
 
 ```text
 Quand j'avais dîné, j'allais me promener.
@@ -438,7 +438,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former [le passé antérieur](#passé-antérieur) de tous les autres verbes :
+Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former le [passé antérieur](#passé-antérieur) de tous les autres verbes :
 
 |                | avoir  | être   |
 | -------------- | ------ | ------ |
@@ -453,7 +453,7 @@ Le passé simple exprime une action achevée du passé, le plus souvent une acti
 
 #### Passé antérieur
 
-Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
+Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + le [participe passé](#participe-passé) du verbe.
 
 ```text
 Dès qu'il eut fini de parler, il partit.
@@ -592,7 +592,7 @@ Le conditionnel présent peut servir à atténuer une demande.
 
 #### Conditionnel passé
 
-Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
+Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](#participe-passé) du verbe à conjuguer.
 
 ```text
 Tu aurais pu nous le dire.
@@ -789,7 +789,7 @@ Les bateaux sont rentrés au port.
 Nous étions partis ce matin.
 ```
 
-Il est utilisé dans la construction du [passé composé](../temps/passé%20composé.md), [plus-que-parfait](../temps/plus-que-parfait.md), [passé antérieur](../temps/passé%20antérieur.md), [futur antérieur](../temps/futur%20antérieur.md) mais aussi dans les temps [conditionnel passé](../temps/conditionnel%20passé.md), [subjonctif passé](../temps/subjonctif%20passé.md) et [subjonctif plus-que-parfait](../temps/subjonctif%20plus-que-parfait.md).
+Il est utilisé dans la construction du [passé composé](#passé-composé), [plus-que-parfait](#plus-que-parfait), [passé antérieur](#passé-antérieur), [futur antérieur](#futur-antérieur) mais aussi dans les temps [conditionnel passé](#conditionnel-passé), [subjonctif passé](#subjonctif-passé) et [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait).
 
 Formation:
 
@@ -913,7 +913,7 @@ Le gérondif passé est une forme conjuguée indiquant une notion d'antériorit�
 
 Formation:
 
-C'est une forme composée : on utilise [le participe présent](../participes/participe%20présent.md) de l'auxiliaire être (étant) ou avoir (ayant) et on rajoute le [participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé :
+C'est une forme composée : on utilise le [participe présent](#participe-présent) l'auxiliaire être (étant) ou avoir (ayant) et on rajoute le [participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé :
 
 ```text
 Étant arrivés, nous avons téléphoné à nos amis.
