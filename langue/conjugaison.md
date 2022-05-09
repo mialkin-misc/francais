@@ -1,6 +1,6 @@
 # Conjugaison
 
-La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue française, le verbe change de forme avec *le mode*, *le temps*, *la personne* et *le nombre*.
+La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue française, le verbe change de forme avec _le mode_, _le temps_, _la personne_ et _le nombre_.
 
 Le **mode** est un trait grammatical qui dénote la manière dont le verbe exprime le fait, qu'il soit état ou action.
 
@@ -193,7 +193,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-Les auxiliaries *avoir*, *être*, *faire* :
+Les auxiliaries _avoir_, _être_, _faire_ :
 
 |                | avoir | être   | faire   |
 | -------------- | ----- | ------ | ------- |
@@ -220,7 +220,7 @@ La Terre tourne autour du Soleil.
 
 #### Présent progressif
 
-Formation : l'auxiliaire *être* au [présent](#présent) + *en train de/d* + verbe à l'infinitif.
+Formation : l'auxiliaire _être_ au [présent](#présent) + _en train de/d_ + verbe à l'infinitif.
 
 ```text
 Je suis en train de travailler.
@@ -264,7 +264,7 @@ L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nou
 
 #### Passé récent
 
-Formation : le verbe *venir* au [présent](#présent) + « de/d' » + verbe à l'infinitif.
+Formation : le verbe _venir_ au [présent](#présent) + « de/d' » + verbe à l'infinitif.
 
 ```text
 Je viens de téléphoner à ma mère.
@@ -272,7 +272,7 @@ Vous venez d'arriver.
 Le train vient de partir.
 ```
 
-Pour insister sur la proximité du passé et du présent, on peut ajouter l'adverbe **juste** :
+Pour insister sur la proximité du passé et du présent, on peut ajouter l'adverbe _juste_ :
 
 ```text
 Le train vient juste de partir.
@@ -283,7 +283,7 @@ Le passé récent exprime une action dans le passé qui est proche du moment où
 
 #### Passé composé
 
-Formation : l'auxiliaire *être* ou *avoir* au [présent](#présent) + [le participe passé](#participe-passé) du verbe à conjuguer.
+Formation : l'auxiliaire _être_ ou _avoir_ au [présent](#présent) + [le participe passé](#participe-passé) du verbe à conjuguer.
 
 ```text
 Nous avons mangé.
@@ -294,13 +294,13 @@ Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment 
 
 #### Plus-que-parfait
 
-Formations : [l'imparfait](#imparfait) de *avoir* ou de *être* + [participe passé](participes.md#participe-passé).
+Formations : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + [participe passé](participes.md#participe-passé).
 
 ```text
 Quand j'avais dîné, j'allais me promener.
 ```
 
-Formes des verbes *avoir* et *être* :
+Formes des verbes _avoir_ et _être_ :
 
 |                | avoir      | être        |
 | -------------- | ---------- | ----------- |
@@ -453,7 +453,7 @@ Le passé simple exprime une action achevée du passé, le plus souvent une acti
 
 #### Passé antérieur
 
-Formation : l'auxiliaire *être* ou *avoir* au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
+Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + [participe passé](../langue/participes.md#participe-passé) du verbe.
 
 ```text
 Dès qu'il eut fini de parler, il partit.
@@ -497,7 +497,7 @@ La semaine prochaine nous partirons en vacances.
 
 #### Futur antérieur
 
-Formation : *être* ou *avoir* au [futur simple](#futur-simple) + le participe passé du verbe à conjuguer.
+Formation : _être_ ou _avoir_ au [futur simple](#futur-simple) + le [participe passé](#participe-passé) du verbe à conjuguer.
 
 Le futur antérieur peut s'employer avec le futur simple pour exprimer une action qui aura lieu avant une seconde action :
 
@@ -515,7 +515,7 @@ Ils auront réalisé un album d'ici lundi.
 
 #### Futur proche
 
-Formation : le verbe *aller* au [présent](#présent) + l'infinitif du verbe à conjuguer :
+Formation : le verbe _aller_ au [présent](#présent) + l'infinitif du verbe à conjuguer :
 
 ```text
 Je vais prendre mon train dans cinq minutes.
@@ -592,7 +592,7 @@ Le conditionnel présent peut servir à atténuer une demande.
 
 #### Conditionnel passé
 
-Formation : *être* ou *avoir* au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
+Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](participes.md#participe-passé) du verbe à conjuguer.
 
 ```text
 Tu aurais pu nous le dire.
@@ -607,7 +607,7 @@ Le conditionnel passé peut servir à exprimer un reproche ou un regret.
 
 #### Subjonctif présent
 
-Formation : *que* + sujet + verbe au subjonctif.
+Formation : _que_ + sujet + verbe au subjonctif.
 
 ```text
 Je souhaite qu'il vienne en discuter.
@@ -682,7 +682,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
     </tr>
 </table>
 
-Formes des verbes *être* et *avoir* :
+Formes des verbes _être_ et _avoir_ :
 
 |               | avoir | être   |
 | ------------- | ----- | ------ |
@@ -711,7 +711,7 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 
 #### Subjonctif passé
 
-Formation : l'auxiliaire *être* ou *avoir* au [subjonctif présent](#subjonctif-présent) + le participe passé du verbe à conjuguer :
+Formation : l'auxiliaire _être_ ou _avoir_ au [subjonctif présent](#subjonctif-présent) + le [participe passé](#participe-passé) du verbe à conjuguer :
 
 ```text
 Je ne crois pas qu'elle ait acheté ce véhicule.
@@ -719,13 +719,13 @@ Il faut qu'ils soient partis avant midi.
 Je doute qu'ils aient écrit ces lettres.
 ```
 
-Avec les verbes pronominaux on emploie toujours l'auxiliaire *être* :
+Avec les verbes pronominaux on emploie toujours l'auxiliaire _être_ :
 
 ```text
 Je ne crois pas qu'ils se soient lavés.
 ```
 
-A la voix passive on utilisera l'auxiliaire *être* au subjonctif passé :
+A la voix passive on utilisera l'auxiliaire _être_ au subjonctif passé :
 
 ```text
 Je doute que tu aies été surpris par cette nouvelle.
@@ -913,7 +913,7 @@ Le gérondif passé est une forme conjuguée indiquant une notion d'antériorit�
 
 Formation:
 
-C'est une forme composée : on utilise [le participe présent](../participes/participe%20présent.md) de l'auxiliaire être (étant) ou avoir (ayant) et on rajoute [le participe passé](../participes/participe%20passé.md) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé :
+C'est une forme composée : on utilise [le participe présent](../participes/participe%20présent.md) de l'auxiliaire être (étant) ou avoir (ayant) et on rajoute le [participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé :
 
 ```text
 Étant arrivés, nous avons téléphoné à nos amis.
