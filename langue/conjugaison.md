@@ -805,7 +805,6 @@ Formation:
 
 ```text
 Ils allaient à l'école en chantant.
-
 Elle allait à l'école en chantant.
 ```
 
