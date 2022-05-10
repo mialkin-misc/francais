@@ -13,8 +13,3 @@
 - [Liens](french/liens.md)
 
 ## Русский язык
-
-## Divers
-
-- [Organisation territoriale de la France](misc/organisation%20territoriale.md)
-- [Système éducatif en France](misc/système%20éducatif.md)
