@@ -1,13 +1,18 @@
-# Français
+# Langues — Языки — Languages
 
-## Langue
+## Le français
 
-- [Conjugaison](langue/conjugaison.md)
-- [Complements](langue/complements.md)
-- [Ponctuation](langue/ponctuation.md)
-- [Pronoms](langue/pronoms.md)
-- [Verbes](langue/verbes.md)
-- [Liens](langue/liens.md)
+- [Conjugaison](french/conjugaison.md)
+- Grammaire
+  - Catégories grammaticales
+    - [Verbes](french/verbes.md)
+    - [Pronoms](french/pronoms.md)
+  - Fonctions grammaticales
+    - [Compléments](french/complements.md)
+- [Ponctuation](french/ponctuation.md)
+- [Liens](french/liens.md)
+
+## Русский язык
 
 ## Divers
 
