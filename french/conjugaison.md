@@ -476,14 +476,14 @@ Formation : les terminaisons du futur simple sont les mêmes pour tous les verbe
 | vous           | **-rez**  | aimerez  | finirez   | mettrez    |
 | ils / elles    | **-ront** | aimeront | finiront  | mettront   |
 
-Remarques : les verbes en **-eler** ou **-eter** doublent leur consonne ou prennent un accent :
+Remarques : les verbes en *-eler* ou *-eter* doublent leur consonne ou prennent un accent :
 
 ```text
 appeler → j'appellerai.
 acheter → j'achèterai
 ```
 
-Les verbes en **-yer** changent le **y** en **i** :
+Les verbes en *-yer* changent le *y* en *i* :
 
 ```text
 verbe essuyer → j'essuierai
@@ -797,32 +797,32 @@ Je pensais avoir fermé la porte à clef (plutôt que je pensais que j’avais f
 
 #### Participe présent
 
-Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un adjectif, et s'accorde alors en genre et en nombre avec son sujet.
-
 Formation:
 
-**1.** Le participe présent a toujours pour suffixe **-ant** et est invariable :
+1\. Le participe présent a toujours pour suffixe *-ant* et est invariable :
 
 ```text
 Ils allaient à l'école en chantant.
 Elle allait à l'école en chantant.
 ```
 
-**2.** L'adjectif verbal est dérivé du participe présent, mais il s'accorde en genre et en nombre avec le nom qu'il qualifie. L'adjectif verbal a pour suffixes **-ant**, **-ants**, **-ante** et **-antes** :
+2\. L'adjectif verbal est dérivé du participe présent, mais il s'accorde en genre et en nombre avec le nom qu'il qualifie. L'adjectif verbal a pour suffixes *-ant*, *-ants*, *-ante* et *-antes* :
 
 ```text
 Un jeune homme charmant ; des enfants charmants ; une fillette charmante ; des jeunes femmes charmantes.
 ```
 
-**3.** Par ailleurs, bien que dérivé du participe présent, l'adjectif verbal peut avoir une écriture différente. Pour la plupart des verbes finissant par **guer** ou **quer**, le **u** est supprimé.
+3\. Par ailleurs, bien que dérivé du participe présent, l'adjectif verbal peut avoir une écriture différente. Pour la plupart des verbes finissant par *guer* ou *quer*, le *u* est supprimé.
 
 ```text
 Naviguant (participe présent) devient navigant (adjectif verbal).
 ```
 
+Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un adjectif, et s'accorde alors en genre et en nombre avec son sujet.
+
 #### Participe passé
 
-Le **participe passé** est employé avec l'auxiliaire **être** ou **avoir** dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
+Le participe passé est employé avec l'auxiliaire *être* ou *avoir* dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
 
 ```text
 Les bateaux sont rentrés au port.
@@ -930,7 +930,7 @@ TBD <https://la-conjugaison.nouvelobs.com/regles/conjugaison/participe-passe-1.p
 
 #### Gérondif présent
 
-Le gérondif indique une simultanéité entre deux actions dont le sujet est identique. Il est souvent introduit par la préposition **en**. Il est invariable :
+Le gérondif indique une simultanéité entre deux actions dont le sujet est identique. Il est souvent introduit par la préposition *en*. Il est invariable :
 
 ```text
 Il rêve en marchant.
@@ -940,7 +940,7 @@ C'est en travaillant qu'il a réussi.
 
 Formation:
 
-On rajoute la terminaison **ant** à la racine du verbe. Pour les verbes qui changent de racine, on se base sur la racine de la 1ère personne du pluriel de l'indicatif :
+On rajoute la terminaison *ant* à la racine du verbe. Pour les verbes qui changent de racine, on se base sur la racine de la 1ère personne du pluriel de l'indicatif :
 
 ```text
 trouver → nous trouvons → trouvant
