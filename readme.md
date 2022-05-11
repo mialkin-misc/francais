@@ -3,6 +3,7 @@
 ## Le français
 
 - [Conjugaison](french/conjugaison.md)
+- [Catégories grammaticales](french/grammaire/catégories%20grammaticales.md)
 - Grammaire
   - Catégories grammaticales
     - [Verbes](french/verbes.md)

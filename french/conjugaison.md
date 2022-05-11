@@ -797,22 +797,20 @@ Je pensais avoir fermé la porte à clef (plutôt que je pensais que j’avais f
 
 #### Participe présent
 
-Formation:
-
-1\. Le participe présent a toujours pour suffixe *-ant* et est invariable :
+Formation: le participe présent a toujours pour suffixe *-ant* et est invariable :
 
 ```text
-Ils allaient à l'école en chantant.
-Elle allait à l'école en chantant.
+Les garçons étant en retard prirent le métro. 
+Charlotte étant en retard prit le métro.
 ```
 
-2\. L'adjectif verbal est dérivé du participe présent, mais il s'accorde en genre et en nombre avec le nom qu'il qualifie. L'adjectif verbal a pour suffixes *-ant*, *-ants*, *-ante* et *-antes* :
+L'[adjectif verbal](grammaire/catégories%20grammaticales.md#les-adjectifs-verbaux) est dérivé du participe présent, mais il s'accorde en genre et en nombre avec le nom qu'il qualifie. L'adjectif verbal a pour suffixes *-ant*, *-ants*, *-ante* et *-antes* :
 
 ```text
 Un jeune homme charmant ; des enfants charmants ; une fillette charmante ; des jeunes femmes charmantes.
 ```
 
-3\. Par ailleurs, bien que dérivé du participe présent, l'adjectif verbal peut avoir une écriture différente. Pour la plupart des verbes finissant par *guer* ou *quer*, le *u* est supprimé.
+Par ailleurs, bien que dérivé du participe présent, l'adjectif verbal peut avoir une écriture différente. Pour la plupart des verbes finissant par *guer* ou *quer*, le *u* est supprimé.
 
 ```text
 Naviguant (participe présent) devient navigant (adjectif verbal).
