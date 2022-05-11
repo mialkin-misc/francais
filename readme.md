@@ -9,7 +9,7 @@
     - [Verbes](french/verbes.md)
     - [Pronoms](french/pronoms.md)
   - Fonctions grammaticales
-    - [Compléments](french/complements.md)
+    - [Compléments](french/compléments.md)
 - [Ponctuation](french/ponctuation.md)
 - [Liens](french/liens.md)
 
