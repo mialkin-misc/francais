@@ -377,10 +377,10 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 <table>
     <tr>
-        <td>Passé simple de l'indicatif</td>
-        <td colspan="2"><b>modèle 1</b></td>
-        <td colspan="2"><b>modèle 2</b></td>
-        <td colspan="2"><b>modèle 3</b></td>
+        <td><b>Personne</b></td>
+        <td colspan="2"><b>Modèle 1</b></td>
+        <td colspan="2"><b>Modèle 2</b></td>
+        <td colspan="2"><b>Modèle 3</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -543,7 +543,7 @@ Le conditionnel présent peut servir à atténuer une demande.
 <table>
     <tr>
         <td></td>
-        <td colspan="2"><b>I group</b></td>
+        <td colspan="2"><b>I groupe</b></td>
         <td colspan="2"><b>autres groupes</b></td>
     </tr>
     <tr>
@@ -820,25 +820,13 @@ Le participe présent fonctionne comme un adverbe invariable sauf s'il est emplo
 
 #### Participe passé
 
-Le participe passé est employé avec l'auxiliaire *être* ou *avoir* dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
-
-```text
-Les bateaux sont rentrés au port.
-
-Nous étions partis ce matin.
-```
-
-Il est utilisé dans la construction du [passé composé](#passé-composé), [plus-que-parfait](#plus-que-parfait), [passé antérieur](#passé-antérieur), [futur antérieur](#futur-antérieur) mais aussi dans les temps [conditionnel passé](#conditionnel-passé), [subjonctif passé](#subjonctif-passé) et [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait).
-
-Formation:
-
-Pour construire le participe passé, on rajoute au radical du verbe une terminaison qui dépend du groupe (1er, 2ème ou 3ème) :
+Formation: radical du verbe + une terminaison qui dépend du groupe du verbe :
 
 <table>
     <tr>
-        <th>Terminaisons du participe passé</th>
-        <th colspan="2">1er groupe</th>
-        <th colspan="2">2e groupe</th>
+        <th>Genre et numéro</th>
+        <th colspan="2">I groupe</th>
+        <th colspan="2">II groupe</th>
     </tr>
     <tr>
         <td>Masculin singulier</td>
@@ -870,17 +858,20 @@ Pour construire le participe passé, on rajoute au radical du verbe une terminai
     </tr>
 </table>
 
-<br>
-Les verbes du 3e groupe ont 3 modèles de terminaisons :
-<br>
+```text
+le plat épicé ; la cheville tatouée
+le chapeau sali,  la fenêtre salie
+```
+
+Les verbes du III groupe ont 3 modèles de terminaisons :
 <br>
 
 <table>
     <tr>
-        <th>3e groupe</th>
-        <th colspan="2">modèle 1</th>
-        <th colspan="2">modèle 2</th>
-        <th colspan="2">modèle 3</th>
+        <th>III groupe</th>
+        <th colspan="2">Modèle 1</th>
+        <th colspan="2">Modèle 2</th>
+        <th colspan="2">Modèle 3</th>
     </tr>
     <tr>
         <td>Masculin singulier</td>
@@ -920,6 +911,16 @@ Les verbes du 3e groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
+Le participe passé est employé avec l'auxiliaire *être* ou *avoir* dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
+
+- [passé composé](#passé-composé)
+- [plus-que-parfait](#plus-que-parfait)
+- [passé antérieur](#passé-antérieur)
+- [futur antérieur](#futur-antérieur)
+- [conditionnel passé](#conditionnel-passé)
+- [subjonctif passé](#subjonctif-passé)
+- [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait)
+
 #### Participe passé composé
 
 TBD <https://la-conjugaison.nouvelobs.com/regles/conjugaison/participe-passe-1.php>
@@ -932,7 +933,6 @@ Le gérondif indique une simultanéité entre deux actions dont le sujet est ide
 
 ```text
 Il rêve en marchant.
-
 C'est en travaillant qu'il a réussi.
 ```
 
@@ -956,7 +956,6 @@ C'est une forme composée : on utilise le [participe présent](#participe-prése
 
 ```text
 Étant arrivés, nous avons téléphoné à nos amis.
-
 Ayant vendu notre voiture, nous ne pourrons pas venir.
 ```
 
