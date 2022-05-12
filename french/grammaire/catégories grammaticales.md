@@ -27,7 +27,7 @@ Comme tous les adjectifs qualificatifs, les adjectifs verbaux précisent l'état
 
 Les adjectifs verbaux s'accordent donc en genre et en nombre avec les noms qu'ils qualifient.
 
-Les adjectifs verbaux sont dérivés du participe présent d'un verbe mais possèdent parfois une orthographe (terminaison) différente :
+Les adjectifs verbaux sont dérivés du [participe présent](../conjugaison.md#participe-présent) d'un verbe mais possèdent parfois une orthographe (terminaison) différente :
 
 | Verbe       | Participe présent | Adjectif verbal | Exemples                 |
 | ----------- | ----------------- | --------------- | ------------------------ |
