@@ -79,7 +79,7 @@ Formation : les terminaisons des verbes varient selon le groupe auquel appartien
 
 <table>
     <tr>
-        <td></td>
+        <td><b>Personne</b></td>
         <td colspan="2"><b>I groupe</b></td>
         <td colspan="2"><b>II groupe</b></td>
     </tr>
@@ -131,10 +131,10 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 <table>
     <tr>
-        <td></td>
-        <td colspan="2"><b>générique</b></td>
+        <td><b>Personne</b></td>
+        <td colspan="2"><b>Générique</b></td>
         <td colspan="2"><b>-dre (sauf -oindre)</b></td>
-        <td colspan="2"><b>pouvoir valoir vouloir</b></td>
+        <td colspan="2"><b>pouvoir, valoir, vouloir</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -194,7 +194,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 Les auxiliaries *avoir*, *être*, *faire* :
 
-|                | avoir | être   | faire   |
+| Personne       | avoir | être   | faire   |
 | -------------- | ----- | ------ | ------- |
 | je / j'        | ai    | suis   | fais    |
 | tu             | as    | es     | fais    |
@@ -232,18 +232,18 @@ Le présent progressif exprime une action au présent dans sa durée et sa conti
 
 Formation : le radical du verbe à la première personne du pluriel au [présent](#présent) + la terminaison de l'imparfait.
 
-|                |            | I groupe | II groupe   | III groupe |
-| -------------- | ---------- | -------- | ----------- | ---------- |
-| je / j'        | -**ais**   | aimais   | finissais   | mettais    |
-| tu             | -**ais**   | aimais   | finissais   | mettais    |
-| il / elle / on | -**ait**   | aimait   | finissait   | mettait    |
-| nous           | -**ions**  | aimions  | finissions  | mettions   |
-| vous           | -**iez**   | aimiez   | finissiez   | mettiez    |
-| ils / elles    | -**aient** | aimaient | finissaient | mettaient  |
+| Personne       | Terminaison | I groupe | II groupe   | III groupe |
+| -------------- | ----------- | -------- | ----------- | ---------- |
+| je / j'        | -**ais**    | aimais   | finissais   | mettais    |
+| tu             | -**ais**    | aimais   | finissais   | mettais    |
+| il / elle / on | -**ait**    | aimait   | finissait   | mettait    |
+| nous           | -**ions**   | aimions  | finissions  | mettions   |
+| vous           | -**iez**    | aimiez   | finissiez   | mettiez    |
+| ils / elles    | -**aient**  | aimaient | finissaient | mettaient  |
 
 Formes de certains verbes de troisième groupe :
 
-|                | avoir   | être    |
+| Personne       | avoir   | être    |
 | -------------- | ------- | ------- |
 | je / j'        | avais   | étais   |
 | tu             | avais   | étais   |
@@ -301,7 +301,7 @@ Quand j'avais dîné, j'allais me promener.
 
 Formes des verbes *avoir* et *être* :
 
-|                | avoir      | être        |
+| Personne       | avoir      | être        |
 | -------------- | ---------- | ----------- |
 | je / j'        | avais eu   | avais été   |
 | tu             | avais eu   | avais été   |
@@ -324,7 +324,7 @@ L’année dernière, je partis en vacances en France.
 
 <table>
     <tr>
-        <td></td>
+        <td><b>Personne</b></td>
         <td colspan="2"><b>I groupe</b></td>
         <td colspan="2"><b>II groupe</b></td>
     </tr>
@@ -439,7 +439,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former le [passé antérieur](#passé-antérieur) de tous les autres verbes :
 
-|                | avoir  | être   |
+| Personne       | avoir  | être   |
 | -------------- | ------ | ------ |
 | je / j'        | eus    | fus    |
 | tu             | eus    | fus    |
@@ -466,14 +466,14 @@ Le passé antérieur est utilisé le plus souvent avec le passé simple pour exp
 
 Formation : les terminaisons du futur simple sont les mêmes pour tous les verbes.
 
-|                |           | I groupe | II groupe | III groupe |
-| -------------- | --------- | -------- | --------- | ---------- |
-| je / j'        | **-rai**  | aimerai  | finirai   | mettrai    |
-| tu             | **-ras**  | aimeras  | finiras   | mettras    |
-| il / elle / on | **-ra**   | aimera   | finira    | mettra     |
-| nous           | **-rons** | aimerons | finirons  | mettrons   |
-| vous           | **-rez**  | aimerez  | finirez   | mettrez    |
-| ils / elles    | **-ront** | aimeront | finiront  | mettront   |
+| Personne       | Terminaison | I groupe | II groupe | III groupe |
+| -------------- | ----------- | -------- | --------- | ---------- |
+| je / j'        | **-rai**    | aimerai  | finirai   | mettrai    |
+| tu             | **-ras**    | aimeras  | finiras   | mettras    |
+| il / elle / on | **-ra**     | aimera   | finira    | mettra     |
+| nous           | **-rons**   | aimerons | finirons  | mettrons   |
+| vous           | **-rez**    | aimerez  | finirez   | mettrez    |
+| ils / elles    | **-ront**   | aimeront | finiront  | mettront   |
 
 Remarques : les verbes en *-eler* ou *-eter* doublent leur consonne ou prennent un accent :
 
@@ -541,7 +541,7 @@ Le conditionnel présent peut servir à atténuer une demande.
 
 <table>
     <tr>
-        <td></td>
+        <td><b>Personne</b></td>
         <td colspan="2"><b>I groupe</b></td>
         <td colspan="2"><b>autres groupes</b></td>
     </tr>
@@ -620,7 +620,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 <table>
     <tr>
-        <td></td>
+        <td><b>Personne</b></td>
         <td colspan="2"><b>I groupe + aller</b></td>
         <td colspan="2"><b>II groupe</b></td>
         <td colspan="2"><b>III groupe</b></td>
@@ -683,7 +683,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 Formes des verbes *être* et *avoir* :
 
-|               | avoir | être   |
+| Personne      | avoir | être   |
 | ------------- | ----- | ------ |
 | je / j'       | aie   | sois   |
 | tu            | aies  | sois   |
@@ -799,7 +799,7 @@ Je pensais avoir fermé la porte à clef (plutôt que je pensais que j’avais f
 Formation: le participe présent a toujours pour suffixe *-ant* et est invariable :
 
 ```text
-Les garçons étant en retard prirent le métro. 
+Les garçons étant en retard prirent le métro.
 Charlotte étant en retard prit le métro.
 ```
 
