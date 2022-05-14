@@ -64,7 +64,6 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
     - [Mode participe](#mode-participe)
       - [Participe présent](#participe-présent)
       - [Participe passé](#participe-passé)
-      - [Participe passé composé](#participe-passé-composé)
     - [Mode gérondif](#mode-gérondif)
       - [Gérondif présent](#gérondif-présent)
       - [Gérondif passé](#gérondif-passé)
@@ -908,10 +907,6 @@ Le participe passé est employé avec l'auxiliaire *être* ou *avoir* dans la co
 - [conditionnel passé](#conditionnel-passé)
 - [subjonctif passé](#subjonctif-passé)
 - [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait)
-
-#### Participe passé composé
-
-TBD <https://la-conjugaison.nouvelobs.com/regles/conjugaison/participe-passe-1.php>
 
 ### Mode gérondif
 
