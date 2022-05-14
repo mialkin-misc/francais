@@ -3,11 +3,12 @@
 ## Le français
 
 - [Conjugaison](french/conjugaison.md)
-- [Catégories grammaticales](french/grammaire/catégories%20grammaticales.md)
 - Grammaire
   - Catégories grammaticales
-    - [Verbes](french/verbes.md)
-    - [Pronoms](french/pronoms.md)
+    > Il y a neuf catégories grammaticales du français, également appelées « parties du discours »
+    - [Verbes](french/grammaire/catégories%20grammaticales/verbes.md)
+    - [Adjectifs](french/grammaire/adjectifs.md)
+    - [Pronoms](french/grammaire/catégories%20grammaticales/pronoms.md)
   - Fonctions grammaticales
     - [Compléments](french/compléments.md)
 - [Ponctuation](french/ponctuation.md)

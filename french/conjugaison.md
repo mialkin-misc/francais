@@ -543,7 +543,7 @@ Le conditionnel présent peut servir à atténuer une demande.
     <tr>
         <td><b>Personne</b></td>
         <td colspan="2"><b>I groupe</b></td>
-        <td colspan="2"><b>autres groupes</b></td>
+        <td colspan="2"><b>Autres groupes</b></td>
     </tr>
     <tr>
         <td>je / j'</td>
@@ -803,7 +803,7 @@ Les garçons étant en retard prirent le métro.
 Charlotte étant en retard prit le métro.
 ```
 
-Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un [adjectif verbal](grammaire/catégories%20grammaticales.md#les-adjectifs-verbaux), et s'accorde alors en genre et en nombre avec son sujet.
+Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un [adjectif verbal](grammaire/adjectifs.md#adjectifs-verbaux), et s'accorde alors en genre et en nombre avec son sujet.
 
 #### Participe passé
 
