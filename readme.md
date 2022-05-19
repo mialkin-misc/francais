@@ -1,4 +1,9 @@
-# Langues — Языки — Languages
+# Языки — Langues — Languages
+
+## Русский язык
+
+- [Общие сведения о языке](russian/general.md)
+- [Морфология](russian/morphology/morphology.md)
 
 ## Le français
 
@@ -13,5 +18,3 @@
     - [Compléments](french/compléments.md)
 - [Ponctuation](french/ponctuation.md)
 - [Liens](french/liens.md)
-
-## Русский язык
