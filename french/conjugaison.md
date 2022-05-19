@@ -803,7 +803,7 @@ Les garçons étant en retard prirent le métro.
 Charlotte étant en retard prit le métro.
 ```
 
-Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un [adjectif verbal](grammaire/adjectifs.md#adjectifs-verbaux), et s'accorde alors en genre et en nombre avec son sujet.
+Le participe présent fonctionne comme un adverbe invariable sauf s'il est employé comme un [adjectif verbal](grammaire/adjectifs.md#adjectif-verbal), et s'accorde alors en genre et en nombre avec son sujet.
 
 #### Participe passé
 
