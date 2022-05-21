@@ -4,6 +4,8 @@
 
 - [Общие сведения о языке](russian/general.md)
 - [Морфология](russian/morphology/morphology.md)
+  - Самостоятельные части речи
+    - [Имя прилагательное](russian/morphology/adjective.md)
 
 ## Le français
 
