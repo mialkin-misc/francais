@@ -1,4 +1,7 @@
-# Compléments
+# Compléments d'objet
+
+Il y a trois sortes de compléments d'objet : les compléments d'objet direct, indirect ou second.
+Le complément d'objet est déterminé par sa position dans la phrase et la manière dont il est relié au verbe qu'il complète.
 
 ## Complément d'objet direct (COD)
 

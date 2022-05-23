@@ -1,9 +1,21 @@
 # Verbes
 
-## TOC
+Le verbe exprime l'état du sujet ou une action réalisée par le sujet (voix active ou voix pronominale s'il exerce l'action sur lui-même), ou subie par lui (voix passive).
+
+Il possède un radical, et de nombreuses terminaisons.
+
+Il se conjugue de plusieurs manières, selon son groupe, le sujet (masculin, féminin, singulier, pluriel), le mode, le temps. Ces différentes formes sont appelées formes conjuguées.
+
+Pour le conjuguer aux temps composés, on utilise l'auxiliaire *être* ou *avoir*. Certains verbes ayant une fonction similaire sont appelés « semi-auxiliaires ».
+
+Certains verbes sont défectifs : ils ne se conjuguent pas à toutes les personnes ou à tous les temps.
+
+On divise les verbes en deux catégories : les verbes transitifs, qui ont un complément d'objet, et les verbes intransitifs qui n'en ont pas.
+
+## Sommaire
 
 - [Verbes](#verbes)
-  - [TOC](#toc)
+  - [Sommaire](#sommaire)
   - [Radical](#radical)
   - [Voix](#voix)
     - [Voix active](#voix-active)
@@ -36,7 +48,7 @@ Certains verbes possèdent plusieurs racines, comme le verbe `aller`, les auxila
 
 ## Voix
 
-Un verbe peut être employé à la `voix active`, `passive` ou `pronominale`.
+Un verbe peut être employé à la voix *active*, *passive* ou *pronominale*.
 
 ### Voix active
 
@@ -46,15 +58,27 @@ A la voix active, le sujet est actif :
 Le lion dévore la gazelle.
 ```
 
+La voix active est employée pour mettre le sujet du verbe en valeur. Le sujet effectue l’action exprimée par le verbe.
+
 ### Voix passive
 
-A la voix passive, le sujet subit l'action :
+Formation: l’auxiliaire *être* + le [participe passé](../../conjugaison.md#participe-passé) du verbe à conjuguer :
+
 
 ```text
 La gazelle est dévorée par le lion.
-
 La porte a été verrouillée.
 ```
+
+A la voix passive, le sujet subit l'action.
+
+La voix passive est employée pour mettre en valeur le fait lui-même. Le sujet subit l’action exprimée par le verbe et l’agent de l’action n’est pas toujours mentionné :
+
+```text
+Le blessé est conduit (par l’ambulance) à l’hôpital.
+```
+
+Le complément d’agent, toujours introduit par *par* ou *de*, permet dans certaines situations de mentionner l’agent de l’action.
 
 ### Voix pronominale
 
