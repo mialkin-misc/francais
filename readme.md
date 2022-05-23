@@ -1,11 +1,4 @@
-# Языки — Langues — Languages
-
-## Русский язык
-
-- [Общие сведения о языке](russian/general.md)
-- [Морфология](russian/morphology/morphology.md)
-  - Самостоятельные части речи
-    - [Имя прилагательное](russian/morphology/adjective.md)
+# Langues — Языки — Languages
 
 ## Le français
 
@@ -20,3 +13,10 @@
     - [Compléments](french/compléments.md)
 - [Ponctuation](french/ponctuation.md)
 - [Liens](french/liens.md)
+
+## Русский язык
+
+- [Общие сведения о языке](russian/general.md)
+- [Морфология](russian/morphology/morphology.md)
+  - Самостоятельные части речи
+    - [Имя прилагательное](russian/morphology/adjective.md)
