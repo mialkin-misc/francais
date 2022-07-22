@@ -12,7 +12,6 @@
   - Fonctions grammaticales
     - [Compléments](french/compléments.md)
 - [Ponctuation](french/ponctuation.md)
-- [Liens](french/liens.md)
 
 ## Русский язык
 

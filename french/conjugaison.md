@@ -29,9 +29,14 @@ Quant à l'impératif, il comporte une flexion de personne incomplète car il ne
 
 Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verbe des emplois réservés à d'autres classes tels que les noms ou les adjectifs.
 
+## Liens
+
+<https://la-conjugaison.nouvelobs.com/regles>
+
 ## Sommaire
 
 - [Conjugaison](#conjugaison)
+  - [Liens](#liens)
   - [Sommaire](#sommaire)
   - [Modes personnels](#modes-personnels)
     - [Mode indicatif](#mode-indicatif)
