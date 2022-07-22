@@ -81,7 +81,7 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
 
 ### Mode indicatif
 
-L'**indicatif** est un mode personnel qui se conjugue en personne. Il sert à raconter ce qui se passe dans la vie.
+L'**indicatif** est un [mode](#mode) personnel qui se conjugue en personne. Il sert à raconter ce qui se passe dans la vie.
 
 #### Présent
 
@@ -536,7 +536,7 @@ Le futur proche exprime une action qui va se dérouler très prochainement.
 
 ### Mode conditionnel
 
-Le **conditionnel** est un mode utilisé pour exprimer un souhait, une hypothèse ou, comme son nom l'indique, un fait ou une action soumis à une condition.
+Le **conditionnel** est un [mode](#mode) utilisé pour exprimer un souhait, une hypothèse ou, comme son nom l'indique, un fait ou une action soumis à une condition.
 
 #### Conditionnel présent
 
@@ -653,6 +653,8 @@ Nous aurions voulu rentrer plus tôt.
 Le conditionnel passé peut servir à exprimer un reproche ou un regret.
 
 ### Mode subjonctif
+
+Le **subjonctif** est un [mode](#mode) utilisé pour exprimer un doute, un fait souhaité, une action incertaine qui n'a donc pas été réalisée au moment où nous nous exprimons.
 
 #### Subjonctif présent
 
