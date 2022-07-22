@@ -2,42 +2,12 @@
 
 La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue française, le verbe change de forme avec *le mode*, *le temps*, *la personne* et *le nombre*.
 
-Le **mode** est un trait grammatical qui dénote la manière dont le verbe exprime le fait, qu'il soit état ou action.
-
-Il y a sept modes verbaux en français, qui appartiennent à deux groupes :
-
-- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. :
-  - l'indicatif
-  - le conditionnel
-  - le subjonctif
-  - l'impératif
-- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel :
-  - l'infinitif
-  - le participe
-  - le gérondif
-
-Les modes personnels sont au nombre de quatre :
-
-- L'indicatif exprime des actions et des vérités générales.
-- Le subjonctif exprime un souhait, une volonté ou un conseil.
-- Le conditionnel exprime une condition.
-- L'impératif exprime un ordre.
-
-Certaines grammaires tendent à rattacher le conditionnel à l'indicatif et ne le considèrent pas comme un mode à part entière. C'est vrai que sur la forme et le sens, on peut le rapprocher de l'indicatif. Pour des raisons de tradition, nous présentons le conditionnel comme un mode à part entière.
-
-Quant à l'impératif, il comporte une flexion de personne incomplète car il ne se forme pas avec toutes les personnes. "je", "il" et "ils" sont les grands absents de l'impératif.
-
-Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verbe des emplois réservés à d'autres classes tels que les noms ou les adjectifs.
-
-## Liens
-
-<https://la-conjugaison.nouvelobs.com/regles>
-
 ## Sommaire
 
 - [Conjugaison](#conjugaison)
-  - [Liens](#liens)
   - [Sommaire](#sommaire)
+  - [Liens](#liens)
+  - [Mode](#mode)
   - [Modes personnels](#modes-personnels)
     - [Mode indicatif](#mode-indicatif)
       - [Présent](#présent)
@@ -74,9 +44,44 @@ Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verb
       - [Gérondif passé](#gérondif-passé)
   - [Table des langues](#table-des-langues)
 
+## Liens
+
+<https://la-conjugaison.nouvelobs.com/regles>
+
+## Mode
+
+Le **mode** est un trait grammatical qui dénote la manière dont le verbe exprime le fait, qu'il soit état ou action.
+
+Il y a sept modes verbaux en français, qui appartiennent à deux groupes :
+
+- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. :
+  - l'indicatif
+  - le conditionnel
+  - le subjonctif
+  - l'impératif
+- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel :
+  - l'infinitif
+  - le participe
+  - le gérondif
+
+Les modes personnels sont au nombre de quatre :
+
+- L'indicatif exprime des actions et des vérités générales.
+- Le subjonctif exprime un souhait, une volonté ou un conseil.
+- Le conditionnel exprime une condition.
+- L'impératif exprime un ordre.
+
+Certaines grammaires tendent à rattacher le conditionnel à l'indicatif et ne le considèrent pas comme un mode à part entière. C'est vrai que sur la forme et le sens, on peut le rapprocher de l'indicatif. Pour des raisons de tradition, nous présentons le conditionnel comme un mode à part entière.
+
+Quant à l'impératif, il comporte une flexion de personne incomplète car il ne se forme pas avec toutes les personnes. "je", "il" et "ils" sont les grands absents de l'impératif.
+
+Les modes impersonnels ne se conjuguent pas. Ils permettent de conférer au verbe des emplois réservés à d'autres classes tels que les noms ou les adjectifs.
+
 ## Modes personnels
 
 ### Mode indicatif
+
+L'**indicatif** est un mode personnel qui se conjugue en personne. Il sert à raconter ce qui se passe dans la vie.
 
 #### Présent
 
@@ -84,7 +89,7 @@ Formation : les terminaisons des verbes varient selon le groupe auquel appartien
 
 <table>
     <tr>
-        <td><b>Personne</b></td>
+        <td><b>Pronom</b></td>
         <td colspan="2"><b>I groupe</b></td>
         <td colspan="2"><b>II groupe</b></td>
     </tr>
@@ -136,7 +141,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 <table>
     <tr>
-        <td><b>Personne</b></td>
+        <td><b>Pronom</b></td>
         <td colspan="2"><b>Générique</b></td>
         <td colspan="2"><b>-dre (sauf -oindre)</b></td>
         <td colspan="2"><b>pouvoir, valoir, vouloir</b></td>
@@ -199,7 +204,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 Les auxiliaries *avoir*, *être*, *faire* :
 
-| Personne       | avoir | être   | faire   |
+| Pronom         | avoir | être   | faire   |
 | -------------- | ----- | ------ | ------- |
 | je / j'        | ai    | suis   | fais    |
 | tu             | as    | es     | fais    |
@@ -237,7 +242,7 @@ Le présent progressif exprime une action au présent dans sa durée et sa conti
 
 Formation : le radical du verbe à la première personne du pluriel au [présent](#présent) + la terminaison de l'imparfait.
 
-| Personne       | Terminaison | I groupe | II groupe   | III groupe |
+| Pronom         | Terminaison | I groupe | II groupe   | III groupe |
 | -------------- | ----------- | -------- | ----------- | ---------- |
 | je / j'        | -**ais**    | aimais   | finissais   | mettais    |
 | tu             | -**ais**    | aimais   | finissais   | mettais    |
@@ -248,7 +253,7 @@ Formation : le radical du verbe à la première personne du pluriel au [présent
 
 Formes de certains verbes de troisième groupe :
 
-| Personne       | avoir   | être    |
+| Pronom         | avoir   | être    |
 | -------------- | ------- | ------- |
 | je / j'        | avais   | étais   |
 | tu             | avais   | étais   |
@@ -306,7 +311,7 @@ Quand j'avais dîné, j'allais me promener.
 
 Formes des verbes *avoir* et *être* :
 
-| Personne       | avoir      | être        |
+| Pronom         | avoir      | être        |
 | -------------- | ---------- | ----------- |
 | je / j'        | avais eu   | avais été   |
 | tu             | avais eu   | avais été   |
@@ -329,7 +334,7 @@ L’année dernière, je partis en vacances en France.
 
 <table>
     <tr>
-        <td><b>Personne</b></td>
+        <td><b>Pronom</b></td>
         <td colspan="2"><b>I groupe</b></td>
         <td colspan="2"><b>II groupe</b></td>
     </tr>
@@ -381,7 +386,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 <table>
     <tr>
-        <td><b>Personne</b></td>
+        <td><b>Pronom</b></td>
         <td colspan="2"><b>Modèle 1</b></td>
         <td colspan="2"><b>Modèle 2</b></td>
         <td colspan="2"><b>Modèle 3</b></td>
@@ -444,7 +449,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former le [passé antérieur](#passé-antérieur) de tous les autres verbes :
 
-| Personne       | avoir  | être   |
+| Pronom       | avoir  | être   |
 | -------------- | ------ | ------ |
 | je / j'        | eus    | fus    |
 | tu             | eus    | fus    |
@@ -471,7 +476,7 @@ Le passé antérieur est utilisé le plus souvent avec le passé simple pour exp
 
 Formation : les terminaisons du futur simple sont les mêmes pour tous les verbes.
 
-| Personne       | Terminaison | I groupe | II groupe | III groupe |
+| Pronom       | Terminaison | I groupe | II groupe | III groupe |
 | -------------- | ----------- | -------- | --------- | ---------- |
 | je / j'        | **-rai**    | aimerai  | finirai   | mettrai    |
 | tu             | **-ras**    | aimeras  | finiras   | mettras    |
@@ -531,9 +536,11 @@ Le futur proche exprime une action qui va se dérouler très prochainement.
 
 ### Mode conditionnel
 
+Le **conditionnel** est un mode utilisé pour exprimer un souhait, une hypothèse ou, comme son nom l'indique, un fait ou une action soumis à une condition.
+
 #### Conditionnel présent
 
-Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison de [l'imparfait](#imparfait).
+Formation : le radical du verbe au [futur simple](#futur-simple) + terminaison de [l'imparfait](#imparfait) :
 
 ```text
 Je voudrais vous rencontrer.
@@ -542,11 +549,9 @@ Si j'avais de l'argent, je partirais en voyage.
 Nous voudrions rentrer plus tôt.
 ```
 
-Le conditionnel présent peut servir à atténuer une demande.
-
 <table>
     <tr>
-        <td><b>Personne</b></td>
+        <td><b>Pronom</b></td>
         <td colspan="2"><b>I groupe</b></td>
         <td colspan="2"><b>Autres groupes</b></td>
     </tr>
@@ -594,6 +599,8 @@ Le conditionnel présent peut servir à atténuer une demande.
     </tr>
 </table>
 
+Le conditionnel présent peut servir à atténuer une demande.
+
 #### Conditionnel passé
 
 Formation : *être* ou *avoir* au [conditionnel présent](#conditionnel-présent) + le [participe passé](#participe-passé) du verbe à conjuguer.
@@ -604,6 +611,44 @@ Il aurait voulu devenir avocat.
 Si j'avais de l'argent, je serais partie en voyage.
 Nous aurions voulu rentrer plus tôt.
 ```
+
+<table>
+    <tr>
+        <td><b>Pronom</b></td>
+        <td><b>avoir</b></td>
+        <td><b>être</b></td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td>aurais</td>
+        <td>serais</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td>aurais</td>
+        <td>serais</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td>aurait</td>
+        <td>serait</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td>aurions</td>
+        <td>serions</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td>auriez</td>
+        <td>seriez</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td>auraient</td>
+        <td>seraient</td>
+    </tr>
+</table>
 
 Le conditionnel passé peut servir à exprimer un reproche ou un regret.
 
@@ -625,7 +670,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 <table>
     <tr>
-        <td><b>Personne</b></td>
+        <td><b>Pronom</b></td>
         <td colspan="2"><b>I groupe + aller</b></td>
         <td colspan="2"><b>II groupe</b></td>
         <td colspan="2"><b>III groupe</b></td>
@@ -688,7 +733,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
 
 Formes des verbes *être* et *avoir* :
 
-| Personne      | avoir | être   |
+| Pronom        | avoir | être   |
 | ------------- | ----- | ------ |
 | je / j'       | aie   | sois   |
 | tu            | aies  | sois   |
