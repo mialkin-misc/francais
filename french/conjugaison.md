@@ -1,6 +1,6 @@
 # Conjugaison
 
-La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue française, le verbe change de forme avec *le mode*, *le temps*, *la personne* et *le nombre*.
+La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue française, le verbe change de forme avec _le mode_, _le temps_, _la personne_ et _le nombre_.
 
 ## Sommaire
 
@@ -54,22 +54,22 @@ Le **mode** est un trait grammatical qui dénote la manière dont le verbe expri
 
 Il y a sept modes verbaux en français, qui appartiennent à deux groupes :
 
-- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. :
-  - l'indicatif
-  - le conditionnel
-  - le subjonctif
-  - l'impératif
-- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel :
-  - l'infinitif
-  - le participe
-  - le gérondif
+-   **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. :
+    -   l'indicatif
+    -   le conditionnel
+    -   le subjonctif
+    -   l'impératif
+-   **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel :
+    -   l'infinitif
+    -   le participe
+    -   le gérondif
 
 Les modes personnels sont au nombre de quatre :
 
-- L'indicatif exprime des actions et des vérités générales.
-- Le subjonctif exprime un souhait, une volonté ou un conseil.
-- Le conditionnel exprime une condition.
-- L'impératif exprime un ordre.
+-   L'indicatif exprime des actions et des vérités générales.
+-   Le subjonctif exprime un souhait, une volonté ou un conseil.
+-   Le conditionnel exprime une condition.
+-   L'impératif exprime un ordre.
 
 Certaines grammaires tendent à rattacher le conditionnel à l'indicatif et ne le considèrent pas comme un mode à part entière. C'est vrai que sur la forme et le sens, on peut le rapprocher de l'indicatif. Pour des raisons de tradition, nous présentons le conditionnel comme un mode à part entière.
 
@@ -202,7 +202,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-Les auxiliaries *avoir*, *être*, *faire* :
+Les auxiliaries _avoir_, _être_, _faire_ :
 
 | Pronom         | avoir | être   | faire   |
 | -------------- | ----- | ------ | ------- |
@@ -229,7 +229,7 @@ La Terre tourne autour du Soleil.
 
 #### Présent progressif
 
-Formation : l'auxiliaire *être* au [présent](#présent) + *en train de/d* + verbe à l'[infinitif présent](#infinitif-présent).
+Formation : l'auxiliaire _être_ au [présent](#présent) + _en train de/d_ + verbe à l'[infinitif présent](#infinitif-présent).
 
 ```text
 Je suis en train de travailler.
@@ -273,7 +273,7 @@ L'imparfait exprime un fait ou une action qui a déjà eu lieu au moment où nou
 
 #### Passé récent
 
-Formation : le verbe *venir* au [présent](#présent) + « de/d' » + verbe à l'[infinitif présent](#infinitif-présent).
+Formation : le verbe _venir_ au [présent](#présent) + « de/d' » + verbe à l'[infinitif présent](#infinitif-présent).
 
 ```text
 Je viens de téléphoner à ma mère.
@@ -281,7 +281,7 @@ Vous venez d'arriver.
 Le train vient de partir.
 ```
 
-Pour insister sur la proximité du passé et du présent, on peut ajouter l'adverbe *juste* :
+Pour insister sur la proximité du passé et du présent, on peut ajouter l'adverbe _juste_ :
 
 ```text
 Le train vient juste de partir.
@@ -292,7 +292,7 @@ Le passé récent exprime une action dans le passé qui est proche du moment où
 
 #### Passé composé
 
-Formation : l'auxiliaire *être* ou *avoir* au [présent](#présent) + le [participe passé](#participe-passé) du verbe à conjuguer.
+Formation : l'auxiliaire _être_ ou _avoir_ au [présent](#présent) + le [participe passé](#participe-passé) du verbe à conjuguer.
 
 ```text
 Nous avons mangé.
@@ -303,13 +303,13 @@ Le passé composé exprime une action ou un fait qui a déjà eu lieu au moment 
 
 #### Plus-que-parfait
 
-Formation : [l'imparfait](#imparfait) de *avoir* ou de *être* + le [participe passé](#participe-passé).
+Formation : [l'imparfait](#imparfait) de _avoir_ ou de _être_ + le [participe passé](#participe-passé).
 
 ```text
 Quand j'avais dîné, j'allais me promener.
 ```
 
-Formes des verbes *avoir* et *être* :
+Formes des verbes _avoir_ et _être_ :
 
 | Pronom         | avoir      | être        |
 | -------------- | ---------- | ----------- |
@@ -449,7 +449,7 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 Les auxiliaires ont une conjugaison qu'il faut maîtriser car ils permettent de former le [passé antérieur](#passé-antérieur) de tous les autres verbes :
 
-| Pronom       | avoir  | être   |
+| Pronom         | avoir  | être   |
 | -------------- | ------ | ------ |
 | je / j'        | eus    | fus    |
 | tu             | eus    | fus    |
@@ -462,7 +462,7 @@ Le passé simple exprime une action achevée du passé, le plus souvent une acti
 
 #### Passé antérieur
 
-Formation : l'auxiliaire *être* ou *avoir* au [passé simple](#passé-simple) + le [participe passé](#participe-passé) du verbe.
+Formation : l'auxiliaire _être_ ou _avoir_ au [passé simple](#passé-simple) + le [participe passé](#participe-passé) du verbe.
 
 ```text
 Dès qu'il eut fini de parler, il partit.
@@ -476,7 +476,7 @@ Le passé antérieur est utilisé le plus souvent avec le passé simple pour exp
 
 Formation : les terminaisons du futur simple sont les mêmes pour tous les verbes.
 
-| Pronom       | Terminaison | I groupe | II groupe | III groupe |
+| Pronom         | Terminaison | I groupe | II groupe | III groupe |
 | -------------- | ----------- | -------- | --------- | ---------- |
 | je / j'        | **-rai**    | aimerai  | finirai   | mettrai    |
 | tu             | **-ras**    | aimeras  | finiras   | mettras    |
@@ -485,14 +485,14 @@ Formation : les terminaisons du futur simple sont les mêmes pour tous les verbe
 | vous           | **-rez**    | aimerez  | finirez   | mettrez    |
 | ils / elles    | **-ront**   | aimeront | finiront  | mettront   |
 
-Remarques : les verbes en *-eler* ou *-eter* doublent leur consonne ou prennent un accent :
+Remarques : les verbes en _-eler_ ou _-eter_ doublent leur consonne ou prennent un accent :
 
 ```text
 appeler → j'appellerai.
 acheter → j'achèterai
 ```
 
-Les verbes en *-yer* changent le *y* en *i* :
+Les verbes en _-yer_ changent le _y_ en _i_ :
 
 ```text
 verbe essuyer → j'essuierai
@@ -506,7 +506,7 @@ La semaine prochaine nous partirons en vacances.
 
 #### Futur antérieur
 
-Formation : *être* ou *avoir* au [futur simple](#futur-simple) + le [participe passé](#participe-passé) du verbe à conjuguer.
+Formation : _être_ ou _avoir_ au [futur simple](#futur-simple) + le [participe passé](#participe-passé) du verbe à conjuguer.
 
 Le futur antérieur peut s'employer avec le futur simple pour exprimer une action qui aura lieu avant une seconde action :
 
@@ -524,7 +524,7 @@ Ils auront réalisé un album d'ici lundi.
 
 #### Futur proche
 
-Formation : le verbe *aller* au [présent](#présent) + l'[infinitif présent](#infinitif-présent) du verbe à conjuguer :
+Formation : le verbe _aller_ au [présent](#présent) + l'[infinitif présent](#infinitif-présent) du verbe à conjuguer :
 
 ```text
 Je vais prendre mon train dans cinq minutes.
@@ -556,42 +556,42 @@ Nous voudrions rentrer plus tôt.
         <td colspan="2"><b>Autres groupes</b></td>
     </tr>
     <tr>
-        <td>je / j'</td>
+        <td>que je / j'</td>
         <td><b>-erais</b></td>
         <td>aimerais</td>
         <td><b>-rais</b></td>
         <td>finirais</td>
     </tr>
     <tr>
-        <td>tu</td>
+        <td>que tu</td>
         <td><b>-erais</b></td>
         <td>aimerais</td>
         <td><b>-rais</b></td>
         <td>finirais</td>
     </tr>
     <tr>
-        <td>il / elle / on</td>
+        <td>qu'il / qu'elle / qu'on</td>
         <td><b>-erait</b></td>
         <td>aimerait</td>
         <td><b>-rait</b></td>
         <td>finirait</td>
     </tr>
     <tr>
-        <td>nous</td>
+        <td>que nous</td>
         <td><b>-erions</b></td>
         <td>aimerions</td>
         <td><b>-rions</b></td>
         <td>finirions</td>
     </tr>
     <tr>
-        <td>vous</td>
+        <td>que vous</td>
         <td><b>-eriez</b></td>
         <td>aimeriez</td>
         <td><b>-riez</b></td>
         <td>finiriez</td>
     </tr>
     <tr>
-        <td>ils / elles</td>
+        <td>qu'ils / qu'elles</td>
         <td><b>-eraient</b></td>
         <td>aimeraient</td>
         <td><b>-raient</b></td>
@@ -603,7 +603,7 @@ Le conditionnel présent peut servir à atténuer une demande.
 
 #### Conditionnel passé
 
-Formation : *être* ou *avoir* au [conditionnel présent](#conditionnel-présent) + le [participe passé](#participe-passé) du verbe à conjuguer.
+Formation : _être_ ou _avoir_ au [conditionnel présent](#conditionnel-présent) + le [participe passé](#participe-passé) du verbe à conjuguer.
 
 ```text
 Tu aurais pu nous le dire.
@@ -619,32 +619,32 @@ Nous aurions voulu rentrer plus tôt.
         <td><b>être</b></td>
     </tr>
     <tr>
-        <td>je / j'</td>
+        <td>que je / j'</td>
         <td>aurais</td>
         <td>serais</td>
     </tr>
     <tr>
-        <td>tu</td>
+        <td>que tu</td>
         <td>aurais</td>
         <td>serais</td>
     </tr>
     <tr>
-        <td>il / elle / on</td>
+        <td>qu'il / qu'elle / qu'on</td>
         <td>aurait</td>
         <td>serait</td>
     </tr>
     <tr>
-        <td>nous</td>
+        <td>que nous</td>
         <td>aurions</td>
         <td>serions</td>
     </tr>
     <tr>
-        <td>vous</td>
+        <td>que vous</td>
         <td>auriez</td>
         <td>seriez</td>
     </tr>
     <tr>
-        <td>ils / elles</td>
+        <td>qu'ils / qu'elles</td>
         <td>auraient</td>
         <td>seraient</td>
     </tr>
@@ -658,7 +658,7 @@ Le **subjonctif** est un [mode](#mode) utilisé pour exprimer un doute, un fait 
 
 #### Subjonctif présent
 
-Formation : *que* + sujet + verbe au subjonctif.
+Formation : _que_ + sujet + verbe au subjonctif.
 
 ```text
 Je souhaite qu'il vienne en discuter.
@@ -678,7 +678,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
         <td colspan="2"><b>III groupe</b></td>
     </tr>
     <tr>
-        <td>je / j'</td>
+        <td>que je / j'</td>
         <td><b>-e</b></td>
         <td>mange</td>
         <td><b>-isse</b</td>
@@ -687,7 +687,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
         <td>parte</td>
     </tr>
     <tr>
-        <td>tu</td>
+        <td>que tu</td>
         <td><b>-es</b></td>
         <td>manges</td>
         <td><b>-isses</b></td>
@@ -696,7 +696,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
         <td>partes</td>
     </tr>
     <tr>
-        <td>il / elle / on</td>
+        <td>qu'il / qu'elle / qu'on</td>
         <td><b>-e</b></td>
         <td>mange</td>
         <td><b>-isse</b></td>
@@ -705,7 +705,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
         <td>parte</td>
     </tr>
     <tr>
-        <td>nous</td>
+        <td>que nous</td>
         <td><b>-ions</b></td>
         <td>mangions</td>
         <td><b>-issons</b></td>
@@ -714,7 +714,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
         <td>partions</td>
     </tr>
     <tr>
-        <td>vous</td>
+        <td>que vous</td>
         <td><b>-iez</b></td>
         <td>mangiez</td>
         <td><b>-issiez</b></td>
@@ -723,7 +723,7 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
         <td>partiez</td>
     </tr>
     <tr>
-        <td>ils / elles</td>
+        <td>qu'ils / qu'elles</td>
         <td><b>-ent</b></td>
         <td>mangent</td>
         <td><b>-issent</b></td>
@@ -733,16 +733,16 @@ Les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
     </tr>
 </table>
 
-Formes des verbes *être* et *avoir* :
+Formes des verbes _être_ et _avoir_ :
 
-| Pronom        | avoir | être   |
-| ------------- | ----- | ------ |
-| je / j'       | aie   | sois   |
-| tu            | aies  | sois   |
-| il / elle /on | ait   | soit   |
-| nous          | ayons | soyons |
-| vous          | ayez  | soyez  |
-| ils / elles   | aient | soient |
+| Pronom                  | avoir | être   |
+| ----------------------- | ----- | ------ |
+| que je / j'             | aie   | sois   |
+| que tu                  | aies  | sois   |
+| qu'il / qu'elle / qu'on | ait   | soit   |
+| que nous                | ayons | soyons |
+| que vous                | ayez  | soyez  |
+| qu'ils / qu'elles       | aient | soient |
 
 Le subjonctif présent exprime une action incertaine, non réalisée au moment où nous nous exprimons.
 
@@ -762,7 +762,7 @@ On n'utilise pas le subjonctif après n'importe quel verbe. On utilise le subjon
 
 #### Subjonctif passé
 
-Formation : l'auxiliaire *être* ou *avoir* au [subjonctif présent](#subjonctif-présent) + le [participe passé](#participe-passé) du verbe à conjuguer :
+Formation : l'auxiliaire _être_ ou _avoir_ au [subjonctif présent](#subjonctif-présent) + le [participe passé](#participe-passé) du verbe à conjuguer :
 
 ```text
 Je ne crois pas qu'elle ait acheté ce véhicule.
@@ -770,13 +770,13 @@ Il faut qu'ils soient partis avant midi.
 Je doute qu'ils aient écrit ces lettres.
 ```
 
-Avec les verbes pronominaux on emploie toujours l'auxiliaire *être* :
+Avec les verbes pronominaux on emploie toujours l'auxiliaire _être_ :
 
 ```text
 Je ne crois pas qu'ils se soient lavés.
 ```
 
-A la voix passive on utilisera l'auxiliaire *être* au subjonctif passé :
+A la voix passive on utilisera l'auxiliaire _être_ au subjonctif passé :
 
 ```text
 Je doute que tu aies été surpris par cette nouvelle.
@@ -795,42 +795,42 @@ Formation : les terminaisons des verbes varient selon le groupe auquel appartien
         <td colspan="2"><b>II groupe</b></td>
     </tr>
     <tr>
-        <td>je / j'</td>
+        <td>que je / j'</td>
         <td><b>-asse</b></td>
         <td>aimasse</td>
         <td><b>-isse</b</b></td>
         <td>finisse</td>
     </tr>
     <tr>
-        <td>tu</td>
+        <td>que tu</td>
         <td><b>-asses</b></td>
         <td>aimasses</td>
         <td><b>-isses</b></td>
         <td>finisses</td>
     </tr>
     <tr>
-        <td>il / elle / on</td>
+        <td>qu'il / qu'elle / qu'on</td>
         <td><b>-ât</b></td>
         <td>aimât</td>
         <td><b>-ît</b></td>
         <td>finît</td>
     </tr>
     <tr>
-        <td>nous</td>
+        <td>que nous</td>
         <td><b>-assions</b></td>
         <td>aimassions</td>
         <td><b>-issions</b></td>
         <td>finissions</td>
     </tr>
     <tr>
-        <td>vous</td>
+        <td>que vous</td>
         <td><b>-assiez</b></td>
         <td>aimassiez</td>
         <td><b>-issiez</b></td>
         <td>finissiez</td>
     </tr>
     <tr>
-        <td>ils / elles</td>
+        <td>qu'ils / qu'elles</td>
         <td><b>-assent</b></td>
         <td>aimassent</td>
         <td><b>-issent</b></td>
@@ -852,42 +852,42 @@ Les verbes du III groupe ont 2 modèles de terminaisons :
         <td colspan="2"><b>modèle 2</b></td>
     </tr>
     <tr>
-        <td>je / j'</td>
+        <td>que je / j'</td>
         <td><b>-isse</b></td>
         <td>prisse</td>
         <td><b>-usse</b</b></td>
         <td>courusse</td>
     </tr>
     <tr>
-        <td>tu</td>
+        <td>que tu</td>
         <td><b>-isses</b></td>
         <td>prisses</td>
         <td><b>-usses</b></td>
         <td>courusses</td>
     </tr>
     <tr>
-        <td>il / elle / on</td>
+        <td>qu'il / qu'elle / qu'on</td>
         <td><b>-ît</b></td>
         <td>prît</td>
         <td><b>-ût</b></td>
         <td>courût</td>
     </tr>
     <tr>
-        <td>nous</td>
+        <td>que nous</td>
         <td><b>-issions</b></td>
         <td>prissions</td>
         <td><b>-ussions</b></td>
         <td>courussions</td>
     </tr>
     <tr>
-        <td>vous</td>
+        <td>que vous</td>
         <td><b>-issiez</b></td>
         <td>prissiez</td>
         <td><b>-ussiez</b></td>
         <td>courussiez</td>
     </tr>
     <tr>
-        <td>ils / elles</td>
+        <td>qu'ils / qu'elles</td>
         <td><b>-issent</b></td>
         <td>prissent</td>
         <td><b>-ussent</b></td>
@@ -904,6 +904,8 @@ Je ne pensais pas qu'il fût aussi désagréable.
 Le subjonctif imparfait est surtout employé en littérature. Le subjonctif imparfait est un temps simple qui exprime une action incertaine, non réalisée au moment où le locuteur s'exprimait.
 
 #### Subjonctif plus-que-parfait
+
+Le subjonctif plus-que-parfait est surtout employé en littérature. Le subjonctif plus-que-parfait exprime une action incertaine, supposée réalisée au moment où le locuteur s'exprimait.
 
 ### Mode impératif
 
@@ -934,7 +936,7 @@ J'ai un cours à donner.
 
 #### Infinitif passé
 
-Formation : l'auxiliaire *être* ou *avoir* à l'[infinitif présent](#infinitif-présent) + le [participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé :
+Formation : l'auxiliaire _être_ ou _avoir_ à l'[infinitif présent](#infinitif-présent) + le [participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé :
 
 ```text
 Après être arrivés, nous avons téléphoné à nos amis.
@@ -965,7 +967,7 @@ Je pensais avoir fermé la porte à clef (plutôt que je pensais que j’avais f
 
 #### Participe présent
 
-Formation: le participe présent a toujours pour suffixe *-ant* et est invariable :
+Formation: le participe présent a toujours pour suffixe _-ant_ et est invariable :
 
 ```text
 Les garçons étant en retard prirent le métro.
@@ -1067,21 +1069,21 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
     </tr>
 </table>
 
-Le participe passé est employé avec l'auxiliaire *être* ou *avoir* dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
+Le participe passé est employé avec l'auxiliaire _être_ ou _avoir_ dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
 
-- [passé composé](#passé-composé)
-- [plus-que-parfait](#plus-que-parfait)
-- [passé antérieur](#passé-antérieur)
-- [futur antérieur](#futur-antérieur)
-- [conditionnel passé](#conditionnel-passé)
-- [subjonctif passé](#subjonctif-passé)
-- [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait)
+-   [passé composé](#passé-composé)
+-   [plus-que-parfait](#plus-que-parfait)
+-   [passé antérieur](#passé-antérieur)
+-   [futur antérieur](#futur-antérieur)
+-   [conditionnel passé](#conditionnel-passé)
+-   [subjonctif passé](#subjonctif-passé)
+-   [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait)
 
 ### Mode gérondif
 
 #### Gérondif présent
 
-Le gérondif indique une simultanéité entre deux actions dont le sujet est identique. Il est souvent introduit par la préposition *en*. Il est invariable :
+Le gérondif indique une simultanéité entre deux actions dont le sujet est identique. Il est souvent introduit par la préposition _en_. Il est invariable :
 
 ```text
 Il rêve en marchant.
@@ -1090,7 +1092,7 @@ C'est en travaillant qu'il a réussi.
 
 Formation:
 
-On rajoute la terminaison *ant* à la racine du verbe. Pour les verbes qui changent de racine, on se base sur la racine de la 1ère personne du pluriel de l'indicatif :
+On rajoute la terminaison _ant_ à la racine du verbe. Pour les verbes qui changent de racine, on se base sur la racine de la 1ère personne du pluriel de l'indicatif :
 
 ```text
 trouver → nous trouvons → trouvant
