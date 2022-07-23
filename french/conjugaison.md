@@ -786,6 +786,123 @@ Le subjonctif passé exprime une action incertaine, supposée réalisée au mome
 
 #### Subjonctif imparfait
 
+Formation : les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
+
+<table>
+    <tr>
+        <td><b>Pronom</b></td>
+        <td colspan="2"><b>I groupe</b></td>
+        <td colspan="2"><b>II groupe</b></td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td><b>-asse</b></td>
+        <td>aimasse</td>
+        <td><b>-isse</b</b></td>
+        <td>finisse</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td><b>-asses</b></td>
+        <td>aimasses</td>
+        <td><b>-isses</b></td>
+        <td>finisses</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td><b>-ât</b></td>
+        <td>aimât</td>
+        <td><b>-ît</b></td>
+        <td>finît</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td><b>-assions</b></td>
+        <td>aimassions</td>
+        <td><b>-issions</b></td>
+        <td>finissions</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td><b>-assiez</b></td>
+        <td>aimassiez</td>
+        <td><b>-issiez</b></td>
+        <td>finissiez</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td><b>-assent</b></td>
+        <td>aimassent</td>
+        <td><b>-issent</b></td>
+        <td>finissent</td>
+    </tr>
+</table>
+
+```text
+Il fallait qu'il chantât une nouvelle chanson.
+Je ne croyais pas qu'il bondît aussi haut.
+```
+
+Les verbes du III groupe ont 2 modèles de terminaisons :
+
+<table>
+    <tr>
+        <td><b>Pronom</b></td>
+        <td colspan="2"><b>modèle 1</b></td>
+        <td colspan="2"><b>modèle 2</b></td>
+    </tr>
+    <tr>
+        <td>je / j'</td>
+        <td><b>-isse</b></td>
+        <td>prisse</td>
+        <td><b>-usse</b</b></td>
+        <td>courusse</td>
+    </tr>
+    <tr>
+        <td>tu</td>
+        <td><b>-isses</b></td>
+        <td>prisses</td>
+        <td><b>-usses</b></td>
+        <td>courusses</td>
+    </tr>
+    <tr>
+        <td>il / elle / on</td>
+        <td><b>-ît</b></td>
+        <td>prît</td>
+        <td><b>-ût</b></td>
+        <td>courût</td>
+    </tr>
+    <tr>
+        <td>nous</td>
+        <td><b>-issions</b></td>
+        <td>prissions</td>
+        <td><b>-ussions</b></td>
+        <td>courussions</td>
+    </tr>
+    <tr>
+        <td>vous</td>
+        <td><b>-issiez</b></td>
+        <td>prissiez</td>
+        <td><b>-ussiez</b></td>
+        <td>courussiez</td>
+    </tr>
+    <tr>
+        <td>ils / elles</td>
+        <td><b>-issent</b></td>
+        <td>prissent</td>
+        <td><b>-ussent</b></td>
+        <td>courussent</td>
+    </tr>
+</table>
+
+```text
+Tu n'imaginais pas qu'elles mentissent si souvent.
+Je doutais qu'ils courussent si vite.
+Je ne pensais pas qu'il fût aussi désagréable.
+```
+
+Le subjonctif imparfait est surtout employé en littérature. Le subjonctif imparfait est un temps simple qui exprime une action incertaine, non réalisée au moment où le locuteur s'exprimait.
+
 #### Subjonctif plus-que-parfait
 
 ### Mode impératif
