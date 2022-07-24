@@ -4,8 +4,13 @@
 
 - [Pronoms](#pronoms)
   - [Sommaire](#sommaire)
+  - [Pronoms de conjugaison](#pronoms-de-conjugaison)
   - [en](#en)
   - [y](#y)
+
+## Pronoms de conjugaison
+
+Les pronoms personnels sujets *je*, *j'*, *tu*, *il*, *elle*, *on*, *nous*, *vous*, *ils* et *elles* sont parfois appelés "**pronoms de conjugaison**".
 
 ## en
 
