@@ -930,7 +930,82 @@ Le subjonctif plus-que-parfait est surtout employé en littérature. Le subjonct
 
 ### Mode impératif
 
+L'**impératif** est un mode utilisé pour exprimer un ordre, un conseil, une prière, une recommandation à réaliser dans un futur proche ou lointain.
+
 #### Impératif présent
+
+Formation: les terminaisons des verbes varient selon le groupe auquel appartient le verbe :
+
+<table>
+    <tr>
+        <td><b>Personne et nombre</b></td>
+        <td colspan="2"><b>I groupe + aller</b></td>
+        <td colspan="2"><b>II groupe</b></td>
+        <td colspan="2"><b>III groupe</b></td>
+    </tr>
+    <tr>
+        <td>II personne du singulier</td>
+        <td><b>-e</b></td>
+        <td>mange</td>
+        <td><b>-is</b</td>
+        <td>finis</td>
+        <td><b>-s</b></td>
+        <td>vois</td>
+    </tr>
+    <tr>
+        <td>II personne du pluriel</td>
+        <td><b>-ez</b></td>
+        <td>mangez</td>
+        <td><b>-issez</b></td>
+        <td>finissez</td>
+        <td><b>-ez</b><sup>*</sup></td>
+        <td>voyez</td>
+    </tr>
+    <tr>
+        <td>I personne du pluriel</td>
+        <td><b>-ons</b></td>
+        <td>mangeons</td>
+        <td><b>-issons</b></td>
+        <td>finissons</td>
+        <td><b>-ons</b></td>
+        <td>voyons</td>
+    </tr>
+</table>
+
+<sup>*</sup> Exceptions : `dire -> dites ; faire -> faites`.
+
+Formes des verbes _être_ et _avoir_ :
+
+<table>
+    <tr>
+        <td><b>Personne et nombre</b></td>
+        <td><b>avoir</b></td>
+        <td><b>être</b></td>
+    </tr>
+    <tr>
+        <td>II personne du singulier</td>
+        <td>aie</td>
+        <td>sois</td>
+    </tr>
+    <tr>
+        <td>II personne du pluriel</td>
+        <td>ayez</td>
+        <td>soyez</td>
+    </tr>
+    <tr>
+        <td>I personne du pluriel</td>
+        <td>ayons</td>
+        <td>soyons</td>
+    </tr>
+</table>
+
+Les auxiliaires *être* et *avoir* et les verbes *savoir* et *vouloir* forment leur impératif sur la racine du subjonctif, et non du présent de l'indicatif :
+
+```text
+Tu es sage ; nous sommes sages ; vous êtes sages -> Sois sage ! Soyons sages ! Soyez sages !
+```
+
+L'impératif présent est destiné à énoncer un ordre ou une interdiction.
 
 #### Impératif passé
 
