@@ -556,42 +556,42 @@ Nous voudrions rentrer plus tôt.
         <td colspan="2"><b>Autres groupes</b></td>
     </tr>
     <tr>
-        <td>que je / j'</td>
+        <td>je / j'</td>
         <td><b>-erais</b></td>
         <td>aimerais</td>
         <td><b>-rais</b></td>
         <td>finirais</td>
     </tr>
     <tr>
-        <td>que tu</td>
+        <td>tu</td>
         <td><b>-erais</b></td>
         <td>aimerais</td>
         <td><b>-rais</b></td>
         <td>finirais</td>
     </tr>
     <tr>
-        <td>qu'il / qu'elle / qu'on</td>
+        <td>il / elle / on</td>
         <td><b>-erait</b></td>
         <td>aimerait</td>
         <td><b>-rait</b></td>
         <td>finirait</td>
     </tr>
     <tr>
-        <td>que nous</td>
+        <td>nous</td>
         <td><b>-erions</b></td>
         <td>aimerions</td>
         <td><b>-rions</b></td>
         <td>finirions</td>
     </tr>
     <tr>
-        <td>que vous</td>
+        <td>vous</td>
         <td><b>-eriez</b></td>
         <td>aimeriez</td>
         <td><b>-riez</b></td>
         <td>finiriez</td>
     </tr>
     <tr>
-        <td>qu'ils / qu'elles</td>
+        <td>ils / elles</td>
         <td><b>-eraient</b></td>
         <td>aimeraient</td>
         <td><b>-raient</b></td>
@@ -619,32 +619,32 @@ Nous aurions voulu rentrer plus tôt.
         <td><b>être</b></td>
     </tr>
     <tr>
-        <td>que je / j'</td>
+        <td>je / j'</td>
         <td>aurais</td>
         <td>serais</td>
     </tr>
     <tr>
-        <td>que tu</td>
+        <td>tu</td>
         <td>aurais</td>
         <td>serais</td>
     </tr>
     <tr>
-        <td>qu'il / qu'elle / qu'on</td>
+        <td>il / elle / on</td>
         <td>aurait</td>
         <td>serait</td>
     </tr>
     <tr>
-        <td>que nous</td>
+        <td>nous</td>
         <td>aurions</td>
         <td>serions</td>
     </tr>
     <tr>
-        <td>que vous</td>
+        <td>vous</td>
         <td>auriez</td>
         <td>seriez</td>
     </tr>
     <tr>
-        <td>qu'ils / qu'elles</td>
+        <td>ils / elles</td>
         <td>auraient</td>
         <td>seraient</td>
     </tr>
@@ -895,6 +895,17 @@ Les verbes du III groupe ont 2 modèles de terminaisons :
     </tr>
 </table>
 
+Formes des verbes _avoir_ et _être_ :
+
+| Pronom                  | avoir    | être     |
+| ----------------------- | -------- | -------- |
+| que je / j'             | eusse    | fusse    |
+| que tu                  | eusses   | fusses   |
+| qu'il / qu'elle / qu'on | eût      | fût      |
+| que nous                | eussions | fussions |
+| que vous                | eussiez  | fussiez  |
+| qu'ils / qu'elles       | eussent  | fussent  |
+
 ```text
 Tu n'imaginais pas qu'elles mentissent si souvent.
 Je doutais qu'ils courussent si vite.
@@ -904,6 +915,16 @@ Je ne pensais pas qu'il fût aussi désagréable.
 Le subjonctif imparfait est surtout employé en littérature. Le subjonctif imparfait est un temps simple qui exprime une action incertaine, non réalisée au moment où le locuteur s'exprimait.
 
 #### Subjonctif plus-que-parfait
+
+Formation : [le subjonctif imparfait](#subjonctif-imparfait) des auxiliaires _être_ ou _avoir_ + [le participe passé](#participe-passé) du verbe à conjuguer.
+
+```text
+Je ne pensais pas qu'il eût rendu ses devoirs à l'heure.
+Il fallait qu'ils fussent partis avant midi.
+Je doutais qu'ils eussent écrit ces lettres.
+```
+
+Quand on emploie le subjonctif plus-que-parfait dans une proposition subordonnée, alors le verbe de la proposition principale est à [l'imparfait](#imparfait).
 
 Le subjonctif plus-que-parfait est surtout employé en littérature. Le subjonctif plus-que-parfait exprime une action incertaine, supposée réalisée au moment où le locuteur s'exprimait.
 
