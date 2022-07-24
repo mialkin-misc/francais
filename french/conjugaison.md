@@ -999,6 +999,12 @@ Formes des verbes _être_ et _avoir_ :
     </tr>
 </table>
 
+```text
+Finissez vos devoirs !
+Ne discute pas !
+Va voir tes grands parents !
+```
+
 Les auxiliaires *être* et *avoir* et les verbes *savoir* et *vouloir* forment leur impératif sur la racine du subjonctif, et non du présent de l'indicatif :
 
 ```text
@@ -1008,6 +1014,16 @@ Tu es sage ; nous sommes sages ; vous êtes sages -> Sois sage ! Soyons sages ! 
 L'impératif présent est destiné à énoncer un ordre ou une interdiction.
 
 #### Impératif passé
+
+Formation : l'auxiliaire *être* ou *avoir*, à [l'impératif présent](#impératif-présent) + [le participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé.
+
+```text
+Soyez rentrés avant huit heures. 
+Aie fini avant mon retour.
+Ayez rangé votre chambre avant son arrivée.
+```
+
+L'impératif passé est très peu employé mais il permet d'exprimer l'antériorité d'une action ordonnée par rapport à une action qui n'est pas encore réalisée.
 
 ## Modes impersonnel
 
