@@ -46,7 +46,8 @@ La **conjugaison** est l'action de conjuguer un verbe. En effet, dans la langue 
 
 ## Liens
 
-<https://la-conjugaison.nouvelobs.com/regles>
+- Conjugaison: <https://la-conjugaison.nouvelobs.com>
+- Règles: <https://la-conjugaison.nouvelobs.com/regles>
 
 ## Mode
 
@@ -54,22 +55,22 @@ Le **mode** est un trait grammatical qui dénote la manière dont le verbe expri
 
 Il y a sept modes verbaux en français, qui appartiennent à deux groupes :
 
--   **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. :
-    -   l'indicatif
-    -   le conditionnel
-    -   le subjonctif
-    -   l'impératif
--   **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel :
-    -   l'infinitif
-    -   le participe
-    -   le gérondif
+- **les modes personnels** : ils sont introduits par un pronom personnel, je, tu, il etc. :
+  - l'indicatif
+  - le conditionnel
+  - le subjonctif
+  - l'impératif
+- **les modes impersonnels** : tous les modes n'ayant pas de pronom personnel :
+  - l'infinitif
+  - le participe
+  - le gérondif
 
 Les modes personnels sont au nombre de quatre :
 
--   L'indicatif exprime des actions et des vérités générales.
--   Le subjonctif exprime un souhait, une volonté ou un conseil.
--   Le conditionnel exprime une condition.
--   L'impératif exprime un ordre.
+- L'indicatif exprime des actions et des vérités générales.
+- Le subjonctif exprime un souhait, une volonté ou un conseil.
+- Le conditionnel exprime une condition.
+- L'impératif exprime un ordre.
 
 Certaines grammaires tendent à rattacher le conditionnel à l'indicatif et ne le considèrent pas comme un mode à part entière. C'est vrai que sur la forme et le sens, on peut le rapprocher de l'indicatif. Pour des raisons de tradition, nous présentons le conditionnel comme un mode à part entière.
 
@@ -1005,7 +1006,7 @@ Ne discute pas !
 Va voir tes grands parents !
 ```
 
-Les auxiliaires *être* et *avoir* et les verbes *savoir* et *vouloir* forment leur impératif sur la racine du subjonctif, et non du présent de l'indicatif :
+Les auxiliaires _être_ et _avoir_ et les verbes _savoir_ et _vouloir_ forment leur impératif sur la racine du subjonctif, et non du présent de l'indicatif :
 
 ```text
 Tu es sage ; nous sommes sages ; vous êtes sages -> Sois sage ! Soyons sages ! Soyez sages !
@@ -1015,7 +1016,7 @@ L'impératif présent est destiné à énoncer un ordre ou une interdiction.
 
 #### Impératif passé
 
-Formation : l'auxiliaire *être* ou *avoir*, à [l'impératif présent](#impératif-présent) + [le participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé.
+Formation : l'auxiliaire _être_ ou _avoir_, à [l'impératif présent](#impératif-présent) + [le participe passé](#participe-passé) du verbe à conjuguer qui s'accorde selon les règles d'accord du participe passé.
 
 ```text
 Soyez rentrés avant huit heures. 
@@ -1183,13 +1184,13 @@ Les verbes du III groupe ont 3 modèles de terminaisons :
 
 Le participe passé est employé avec l'auxiliaire _être_ ou _avoir_ dans la conjugaison des temps composés, le plus souvent pour exprimer une action passée :
 
--   [passé composé](#passé-composé)
--   [plus-que-parfait](#plus-que-parfait)
--   [passé antérieur](#passé-antérieur)
--   [futur antérieur](#futur-antérieur)
--   [conditionnel passé](#conditionnel-passé)
--   [subjonctif passé](#subjonctif-passé)
--   [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait)
+- [passé composé](#passé-composé)
+- [plus-que-parfait](#plus-que-parfait)
+- [passé antérieur](#passé-antérieur)
+- [futur antérieur](#futur-antérieur)
+- [conditionnel passé](#conditionnel-passé)
+- [subjonctif passé](#subjonctif-passé)
+- [subjonctif plus-que-parfait](#subjonctif-plus-que-parfait)
 
 ### Mode gérondif
 
